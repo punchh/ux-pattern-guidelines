@@ -1,0 +1,12 @@
+- tag: lists-and-tables
+  label: Lists and tables
+  color: green
+- tag: navigation
+  label: Navigation
+  color: pink
+- tag: entering-information
+  label: Entering information
+  color: cyan
+- tag: reading-information
+  label: Reading information
+  color: red

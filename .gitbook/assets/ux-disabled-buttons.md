@@ -1,0 +1,72 @@
+---
+name: ux-disabled-buttons
+description: "Apply disabled button guidelines when building or reviewing UI. Use this skill whenever anyone is considering disabling a button, implementing a form submit button, or reviewing whether button states are correct. Trigger for requests like: 'should I disable the submit button until the form is valid?', 'disable this button when no items are selected', 'review my button states', or any task involving button enabled/disabled logic. Apply pattern guidelines for button state rules only; defer to the project's existing design system for component and visual decisions."
+---
+
+# UX Disabled Buttons Skill
+
+This skill ensures disabled button patterns follow the team's established guidelines —
+which take a strong stance against disabling buttons in most cases. Guidelines are
+maintained externally and **must be fetched at runtime** so you always work from the
+latest version.
+
+---
+
+## Step 1 — Fetch the guidelines (required)
+
+Before doing anything else, retrieve the live guidelines from:
+
+```
+https://partech.gitbook.io/ux-pattern-guidelines/disabled-buttons
+```
+
+> **If the page is unreachable:** Stop and tell the user:
+> _"I can't reach the disabled buttons guidelines right now. Could you paste the
+> relevant section here so I can apply them?"_
+> Do not proceed by guessing at the rules.
+
+---
+
+## Step 2 — Fetch linked guidelines (if relevant)
+
+If the fetched guideline page links to other guidelines that are relevant to the
+current task, fetch those pages too and apply them. Do not wait for the user to
+provide those URLs — follow the links automatically and silently as needed.
+
+---
+
+## Step 3 — Identify the task
+
+| Task | What to do |
+|---|---|
+| **Decide whether to disable a button** | Evaluate the use case against the fetched guidelines. In most cases the answer will be: don't. |
+| **Implement the correct alternative** | Apply the fetched guidance on what to do instead of disabling. |
+| **Review existing button states** | Evaluate against the fetched guidelines. Flag inappropriate disabled states and suggest corrections. |
+| **Explain the guidelines** | Summarise the rules and rationale in plain language. |
+
+---
+
+## Step 4 — Respond using the guidelines
+
+### For usage decisions
+- Apply the fetched guidelines directly. If the use case calls for disabling a button, push back per the guidelines and explain the correct alternative.
+- Note the one permitted exception per the fetched guidelines and apply it only when that specific case matches.
+
+### For implementation
+- Implement the correct alternative to disabling per the fetched guidelines.
+- If the use case matches the one permitted exception in the fetched guidelines, use the design system's disabled button state for that case only. For all other cases, use the enabled state — do not use the disabled state even if the design system offers it.
+- Add a short annotation naming which rules were applied.
+
+### For reviews
+- Identify any disabled button states present in the design.
+- Evaluate each against the fetched guidelines.
+- Flag inappropriate disabled states and suggest corrections.
+
+---
+
+## Guidelines
+
+- Always cite the source: _"Per the [Disabled Buttons Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/disabled-buttons)…"_
+- Never invent rules that aren't in the fetched guidelines.
+- If a guideline is ambiguous, flag it to the user rather than assuming.
+- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labelled as such.
