@@ -93,5 +93,5 @@ If a pattern is missing, outdated, or you've encountered a case it doesn't cover
 **Dan Owens**\
 Principal UX Designer
 
-[Message me on Slack](https://slack.com/app_redirect?channel=U04BSNEH2BZ\&team=partech-hosting)
+PAR Engagement
 

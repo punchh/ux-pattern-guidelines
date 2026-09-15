@@ -63,7 +63,7 @@ This is the first official day of UX Pattern Guidelines officially living here o
 **Dan Owens**\
 Principal UX Designer
 
-[Message me on Slack](https://slack.com/app_redirect?channel=U04BSNEH2BZ\&team=partech-hosting)
+PAR Engagement
 
 </details>
 

@@ -221,4 +221,4 @@ Pick and choose which skills are relevant for your scope. Download as many or as
 **Dan Owens**\
 Principal UX Designer
 
-[Message me on Slack](https://slack.com/app_redirect?channel=U04BSNEH2BZ\&team=partech-hosting)
+PAR Engagement
