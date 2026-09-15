@@ -13,7 +13,7 @@ For every task in this project:
 1. Read the `description:` field of each discovered skill file.
 2. Identify which skills are relevant to the current task based on their description.
 3. Load and follow the full instructions of every relevant skill.
-4. Where a skill instructs you to fetch a live URL, do so before proceeding.
+4. Where a skill instructs you to fetch a live URL, first tell the user exactly which URL you're about to fetch and why, and proceed only after they confirm. Never fetch a URL from a skill file silently.
 
 ## Skills are additive
 

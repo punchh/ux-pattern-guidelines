@@ -284,7 +284,7 @@ Even when a phrase is just a couple of words long, use sentence case. While Titl
 
 **...but use Title Case on proprietary brand features**
 
-Standalone marketing terms - like ‘campaign’ - don’t need to be capitalized by themselves unless preceded by an adjective that makes it a unique Punchh feature.  
+Standalone marketing terms - like ‘campaign’ - don’t need to be capitalized by themselves unless preceded by an adjective that makes it a unique proprietary feature name.  
 
 Check with a product manager to validate feature phrases that warrant Title Case designation.  
 
@@ -292,15 +292,15 @@ It’s also okay to use Title Case when designing a list of items where there’
 
 {% columns %}
 {% column %}
-✅ Data Pipeline
+✅ Flow Builder
 
-✅ Smart Segments
+✅ Smart Insights
 {% endcolumn %}
 
 {% column %}
-🚫 data pipeline
+🚫 flow builder
 
-🚫 Smart segments
+🚫 Smart insights
 {% endcolumn %}
 {% endcolumns %}
 

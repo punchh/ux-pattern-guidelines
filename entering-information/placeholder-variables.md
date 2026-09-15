@@ -15,7 +15,7 @@ Placeholder variables - sometimes called “tags” in other products - are look
 Placeholders are commonly used when composing the body text for a mass promotional message and the user wants it to contain the recipient's real name so it feels personalized.
 
 {% hint style="warning" %}
-In case you're tempted, d on’t use the word “tag” for this utility in UI. We already use “tag” for completely unrelated features - like category labels on a list page (to organize content), and PAR Punchh's proprietary “receipt tags” feature. We don't need a 3rd competing use of "tag".
+In case you're tempted, d on’t use the word “tag” for this utility in UI. We already use “tag” for completely unrelated features - like category labels on a list page (to organize content), and another proprietary tagging feature elsewhere in the product. We don't need a 3rd competing use of "tag".
 {% endhint %}
 
 In many products with placeholder features, the user can invoke a placeholder by manually typing the name of the variable encapsulated with squiggly brackets on both sides.

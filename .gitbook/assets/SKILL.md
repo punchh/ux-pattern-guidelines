@@ -27,7 +27,7 @@ This skill is a **folder of markdown files** next to this `SKILL.md`. Every `*.m
 1. **Identify the topic** from the user request.
 2. **Score or match** discovered files using **frontmatter triggers** (primary), filename (secondary).
 3. **Open** the matching guideline file(s) in full and follow their instructions (including any “fetch at runtime” or linked-doc steps **inside** that file).
-4. If the body says to fetch external URLs, do that; the local `.md` is still the routing source via its frontmatter.
+4. If the body says to fetch external URLs, first tell the user exactly which URL you're about to fetch and why, and proceed only after they confirm — never fetch silently. The local `.md` is still the routing source via its frontmatter.
 
 ## File locations
 
