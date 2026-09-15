@@ -12,13 +12,13 @@ description: >-
 
 ### Do:
 
-✅ For revealing or showing elements like [Tooltips](reading-information/tooltips.md) that are hidden/not visible without user interaction, wait 500ms after the cursor has come to a complete stop in the hover region before firing
+✅ For revealing or showing elements like [Tooltips](../reading-information/tooltips.md) that are hidden/not visible without user interaction, wait 500ms after the cursor has come to a complete stop in the hover region before firing
 
 ✅ That said, make sure it's obvious that an element has a hover interaction _immediately_ upon the mouse cursor entering the hover region (0ms). We call this an affordance. Some design systems use a glow, stroke, or shadow to signal an element's interactivity. This facilitates discoverability.
 
-✅ Make sure that whatever content was exposed by a hover action persists until _after_ the user has exited the hover zone for a full 500ms without returning. Moreover, keep something like a [Tooltip](reading-information/tooltips.md) visible for just that brief moment even after the mouse leaves.
+✅ Make sure that whatever content was exposed by a hover action persists until _after_ the user has exited the hover zone for a full 500ms without returning. Moreover, keep something like a [Tooltip](../reading-information/tooltips.md) visible for just that brief moment even after the mouse leaves.
 
-✅ The hover zone should include both the originating element, and the exposed content (in the case of a [tooltip](reading-information/tooltips.md) it would be the tooltip icon, and the tooltip itself)
+✅ The hover zone should include both the originating element, and the exposed content (in the case of a [tooltip](../reading-information/tooltips.md) it would be the tooltip icon, and the tooltip itself)
 
 ### Don't:
 
@@ -28,7 +28,7 @@ description: >-
 
 🚫 Don't hide content exposed by a hover action immediately upon the cursor leaving the hover zone. That’s also too jarring.
 
-🚫 Don't forget to include the exposed element (like the [tooltip](reading-information/tooltips.md) from a tooltip icon) as part of the hover region
+🚫 Don't forget to include the exposed element (like the [tooltip](../reading-information/tooltips.md) from a tooltip icon) as part of the hover region
 
 ***
 
@@ -40,9 +40,9 @@ description: >-
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src=".gitbook/assets/ux-hover-interactions (1).md" %}
+{% file src="../.gitbook/assets/ux-hover-interactions (1).md" %}
 
-[Learn how to use](resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
+[Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 
 ***
 

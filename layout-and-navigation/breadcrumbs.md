@@ -8,7 +8,7 @@ description: How to orient users in their current depth of navigation
 [**Get the AI skill**](breadcrumbs.md#ai-skill-file) for this UX pattern guideline in a markdown (.MD) file.
 {% endhint %}
 
-<div data-with-frame="true"><figure><img src=".gitbook/assets/image (220).png" alt=""><figcaption><p>A business application with breadcrumbs navigation just above the page title.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (220).png" alt=""><figcaption><p>A business application with breadcrumbs navigation just above the page title.</p></figcaption></figure></div>
 
 A breadcrumb is a secondary navigation aid that shows the user where the current page sits within the overall information hierarchy of the application, and provides one-click access back to any parent level.
 
@@ -41,7 +41,7 @@ The breadcrumb remains the same as the display-only/read-only version of the sam
 * The application is flat - breadcrumbs there would add cognitive load without orienting users
 * The page is a landing page or top-level dashboard with no parents above it
 * The page (or feature) is a "create new" experience accessed directly from a content type landing page
-* The user is on a multi-step form or wizard - use a [stepper](steppers.md) instead
+* The user is on a multi-step form or wizard - use a [stepper](../form-experience/steppers.md) instead
 * The primary navigation (often the left nav) already makes the current page's location unambiguous (e.g. a clearly highlighted active item in a left nav with full hierarchy visible)
 
 ***
@@ -112,7 +112,7 @@ If a breadcrumb trail is too long to fit on one line, truncate the current page 
 
 If truncating the current page node still doesn't fit, consider truncating individual parent node labels. As a last resort on extremely deep hierarchies, collapse middle parent nodes into a single overflow indicator (e.g. `Home > ... > Parent > Current Page`) that expands on click to reveal the hidden levels.
 
-🚫 Don't wrap breadcrumbs onto multiple lines. Truncate instead, per the [truncation and overflow guidelines](reading-information/truncation-and-overflow.md).
+🚫 Don't wrap breadcrumbs onto multiple lines. Truncate instead, per the [truncation and overflow guidelines](../reading-information/truncation-and-overflow.md).
 
 ***
 
@@ -120,7 +120,7 @@ If truncating the current page node still doesn't fit, consider truncating indiv
 
 🚫 **Don't use breadcrumbs on shallow applications.** If your application is only 1 level deep (not counting the product homepage), breadcrumbs add visual weight without orientation value.
 
-🚫 **Don't use breadcrumbs for linear processes.** Multi-step forms, wizards, and checkout flows need a [stepper](steppers.md), not a breadcrumb. Breadcrumbs imply hierarchy; steppers imply sequence.
+🚫 **Don't use breadcrumbs for linear processes.** Multi-step forms, wizards, and checkout flows need a [stepper](../form-experience/steppers.md), not a breadcrumb. Breadcrumbs imply hierarchy; steppers imply sequence.
 
 🚫 **Don't make the current page node a clickable link.** It's the current page — there's nowhere for it to go. Reflecting this in markup and styling (no underline, no hover state) matches user expectations.
 
@@ -140,9 +140,9 @@ If truncating the current page node still doesn't fit, consider truncating indiv
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src=".gitbook/assets/ux-breadcrumbs (1).md" %}
+{% file src="../.gitbook/assets/ux-breadcrumbs (1).md" %}
 
-[Learn how to use](resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
+[Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 
 ***
 

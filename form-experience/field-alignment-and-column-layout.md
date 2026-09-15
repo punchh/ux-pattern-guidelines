@@ -14,7 +14,7 @@ Use a single vertical column (a single, straight line path to completion) to max
 
 
 
-<figure><img src=".gitbook/assets/image (134).png" alt=""><figcaption><p>A sample form page depicting all form field elements left aligned along a single column, straight down to the Save button. A reference pane - read-only display field information used to assist filling the form - is okay to be right-aligned next to the form fields.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (134).png" alt=""><figcaption><p>A sample form page depicting all form field elements left aligned along a single column, straight down to the Save button. A reference pane - read-only display field information used to assist filling the form - is okay to be right-aligned next to the form fields.</p></figcaption></figure>
 
 ✅ Align all form fields along the left edge, lining up perfectly with the Save button at the bottom of a single page form
 
@@ -47,9 +47,9 @@ The latter goes beyond logical connection: The value entered for zip code often 
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src=".gitbook/assets/ux-field-alignment (1).md" %}
+{% file src="../.gitbook/assets/ux-field-alignment (1).md" %}
 
-[Learn how to use](resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
+[Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 
 ***
 

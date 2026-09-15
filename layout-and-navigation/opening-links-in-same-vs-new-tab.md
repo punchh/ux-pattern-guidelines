@@ -28,13 +28,13 @@ We should be thoughtful about designing a predictable but flexible experience fo
 
 ✅ For off-site links, **include iconography to the right of text** to convey that it opens in a new tab by default
 
-<figure><img src=".gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
 ### Don't
 
 🚫 Don't prohibit the user from using their browser’s native right-click context menu to access “Open in a new tab” options, even for links designed to open in the same tab by default.
 
-<figure><img src=".gitbook/assets/image (73).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (73).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 
@@ -46,9 +46,9 @@ We should be thoughtful about designing a predictable but flexible experience fo
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src=".gitbook/assets/ux-link-tab-behavior (1).md" %}
+{% file src="../.gitbook/assets/ux-link-tab-behavior (1).md" %}
 
-[Learn how to use](resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
+[Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 
 ***
 

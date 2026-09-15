@@ -14,7 +14,7 @@ description: How to design for boolean options in an autosave experience
 
 ✅ For 2 mutually exclusive, single option states
 
-🚫 Not to be used with a Save/Apply button: toggle switches are for INSTANT application - [Autosave](../autosaving.md)
+🚫 Not to be used with a Save/Apply button: toggle switches are for INSTANT application - [Autosave](../form-experience/autosaving.md)
 
 ✅ The only text that should be used to label the states are “Off” and “On” (Off when the switch decoration is on the left; On when the switch decoration is on the right).&#x20;
 

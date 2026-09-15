@@ -12,7 +12,7 @@ In any table or list page experience where the primary purpose of the page is to
 
 We call this experience "filtering" or "refinements".
 
-Upon arriving on a list page, no filters are applied by default. You could make the argument that the presence of [tabs](../tabs.md) implies active filtering from the outset, but we consider tabs to be a persistent navigational element not controlled by the user.
+Upon arriving on a list page, no filters are applied by default. You could make the argument that the presence of [tabs](../layout-and-navigation/tabs.md) implies active filtering from the outset, but we consider tabs to be a persistent navigational element not controlled by the user.
 
 Filtering principally occurs _within_ a tab (if tabs are present at all) and applies to the content and metadata within that tab only.
 

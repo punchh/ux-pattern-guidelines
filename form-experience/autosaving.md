@@ -22,9 +22,9 @@ The other patterns we’ve established in these guidelines limit the opportunity
 
 In the unlikely event we encounter autosave opportunity in our products, follow these rules:
 
-#### ✅ A [toggle switch](entering-information/toggle-switches.md) control is the most relevant field type for autosaving
+#### ✅ A [toggle switch](../entering-information/toggle-switches.md) control is the most relevant field type for autosaving
 
-[Toggle switches ](entering-information/toggle-switches.md)are designed exclusively to convey autosaving, using the metaphor of a light switch (where the lights come on or off instantly upon operating the switch).
+[Toggle switches ](../entering-information/toggle-switches.md)are designed exclusively to convey autosaving, using the metaphor of a light switch (where the lights come on or off instantly upon operating the switch).
 
 #### 🚫 Don’t mix autosave controls on the same page (or modal) as explicit save controls.
 
@@ -48,8 +48,8 @@ Use a [success toast](success-notification.md) notification when autosaving.
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src=".gitbook/assets/ux-autosaving (1).md" %}
+{% file src="../.gitbook/assets/ux-autosaving (1).md" %}
 
-[Learn how to use](resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
+[Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 
 ***

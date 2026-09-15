@@ -22,7 +22,7 @@ Use End Truncation only. Never in the middle, never in the beginning.
 When designing the width of the overarching container (like the dropdown list), it should still be designed to fit _most_ items in a group/list without needing truncation. Truncated items should be the exception case, not the norm. An exception to this might be a data table column where most values can't fit without truncation, though you could fit more than you'd think by wrapping the value in the cell.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (127).png" alt=""><figcaption><p>Show the full value while <a href="../hover-interactions.md">hovering</a> anywhere on the truncated value (not just the ellipsis). It's okay to <a href="line-lengths-and-text-wrapping.md">wrap text</a> while displaying the untruncated value, too</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (127).png" alt=""><figcaption><p>Show the full value while <a href="../layout-and-navigation/hover-interactions.md">hovering</a> anywhere on the truncated value (not just the ellipsis). It's okay to <a href="line-lengths-and-text-wrapping.md">wrap text</a> while displaying the untruncated value, too</p></figcaption></figure>
 
 {% hint style="info" icon="accessible-icon" %}
 Screen readers should always read full text without truncation
@@ -60,7 +60,7 @@ The number of sample items - and the logic behind which items are sampled (e.g. 
 
 ✅ Apply the truncation at the **end of the value**
 
-✅ [**Hover**](../hover-interactions.md) **anywhere** on the truncated text value to read the full value
+✅ [**Hover**](../layout-and-navigation/hover-interactions.md) **anywhere** on the truncated text value to read the full value
 
 ✅ The **default width of the overarching container** that houses the truncated item will vary by context, and most of the time should still support the full width of most items in the list/group without needing truncation (exception: tables)
 

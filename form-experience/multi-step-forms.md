@@ -20,7 +20,7 @@ For that reason, usability test and only add more fields per step as indicated b
 
 ### Multi-step form anatomy
 
-<figure><img src=".gitbook/assets/image (52).png" alt=""><figcaption><p>When moving from step 1 to step 2 in a multi-step form, observe that new controls become available - like a Back button, and S<a href="saving-drafts.md">ave and close for drafts</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (52).png" alt=""><figcaption><p>When moving from step 1 to step 2 in a multi-step form, observe that new controls become available - like a Back button, and S<a href="saving-drafts.md">ave and close for drafts</a></p></figcaption></figure>
 
 #### Stepper
 
@@ -38,7 +38,7 @@ Subsequent steps offer Back, and sometimes the opportunity to [save a draft (Sav
 
 The Back and Next buttons should exhibit [Saving state on buttons](saving-state-on-buttons.md) when clicked.
 
-The Back and Next buttons are oriented left and right at the outer edges of the navigation bar respectively to match the linear progression of the form left to right. Position and alignment of these buttons matter - review the [Button Alignment guidelines](button-alignment.md#multi-step-forms).
+The Back and Next buttons are oriented left and right at the outer edges of the navigation bar respectively to match the linear progression of the form left to right. Position and alignment of these buttons matter - review the [Button Alignment guidelines](../layout-and-navigation/button-alignment.md#multi-step-forms).
 
 ### The Review Step
 
@@ -54,9 +54,9 @@ Finish most multi-step forms with a review of information entered on previous st
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src=".gitbook/assets/ux-multi-step-forms (1).md" %}
+{% file src="../.gitbook/assets/ux-multi-step-forms (1).md" %}
 
-[Learn how to use](resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
+[Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 
 ***
 

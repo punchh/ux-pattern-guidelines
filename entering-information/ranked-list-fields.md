@@ -133,13 +133,13 @@ Drag-and-drop-only ranking interfaces fail WCAG 2.5.7 at Level AA and exclude us
 
 With more than 15 items in a ranked list, consider offering the user a context menu action to "Move to position" where the user can enter a specific position number.
 
-Upon choosing "Move to position" in the context menu, offer the user a [modal form](../modals-lightboxes-and-dialogs.md#id-1-field-form) for entering the position number, making sure to state the range of options for the list in context. For example, the text label above the lone numeric field in a modal like this would be:
+Upon choosing "Move to position" in the context menu, offer the user a [modal form](../layout-and-navigation/modals-lightboxes-and-dialogs.md#id-1-field-form) for entering the position number, making sure to state the range of options for the list in context. For example, the text label above the lone numeric field in a modal like this would be:
 
 > Enter a position (1-36).
 
 36 in this example represents the number of items in this ranked list.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>After choosing "Move to position", the user can enter the desired position number in a <a href="../modals-lightboxes-and-dialogs.md#id-1-field-form">modal </a>form.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>After choosing "Move to position", the user can enter the desired position number in a <a href="../layout-and-navigation/modals-lightboxes-and-dialogs.md#id-1-field-form">modal </a>form.</p></figcaption></figure>
 
 The lone field in the modal is focused from the outset, text selected selected for typing over (it's populated with the item's current position by default), allowing the user to type the desired position number immediately without having to click, select, or tab to the field.
 
@@ -155,9 +155,9 @@ However, in some contexts - like if [building an array on a form page](../readin
 
 ### Saving behavior
 
-The user's ranking should not be saved on every reorder — the user is likely still mid-decision. Treat the ranked list field like any other form field: the rank value is captured when the user submits or applies the form per your form's [saving pattern](../saving-state-on-buttons.md).
+The user's ranking should not be saved on every reorder — the user is likely still mid-decision. Treat the ranked list field like any other form field: the rank value is captured when the user submits or applies the form per your form's [saving pattern](../form-experience/saving-state-on-buttons.md).
 
-If the user navigates away or cancels mid-rank, follow the [canceling guidelines](../canceling.md) for unsaved changes.
+If the user navigates away or cancels mid-rank, follow the [canceling guidelines](../form-experience/canceling.md) for unsaved changes.
 
 ***
 

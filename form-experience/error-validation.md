@@ -20,7 +20,7 @@ Gives the user feedback field by field when changing focus to another field (or 
 * disruption for assistive technology users (accessibility issues)
 
 {% hint style="warning" %}
-Exception: [Confirm password fields](entering-information/password-fields-and-sign-in.md#with-complex-password-requirements) should validate inline the moment the user changes focus
+Exception: [Confirm password fields](../entering-information/password-fields-and-sign-in.md#with-complex-password-requirements) should validate inline the moment the user changes focus
 {% endhint %}
 
 #### Summary validation or form-level validation (do this)
@@ -31,7 +31,7 @@ Gives the user feedback about any errors only when they attempt to submit the fo
 
 #### On the submit button
 
-<figure><img src=".gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
 **Pop an error-styled tooltip on the submit button**
 
@@ -64,7 +64,7 @@ See our pattern guideline for [Disabled buttons](disabled-buttons.md) to learn w
 
 #### With a toast
 
-<figure><img src=".gitbook/assets/image (51).png" alt=""><figcaption><p>An error toast appearing near the top of a form</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption><p>An error toast appearing near the top of a form</p></figcaption></figure>
 
 Briefly state whatever action couldn't be completed (for example: "We couldn't save your changes"), then list the affected fields and corresponding error messages for each one.
 
@@ -74,7 +74,7 @@ For persistence and timing of an error toast, use the same guidelines as a [Succ
 
 #### On the field
 
-<figure><img src=".gitbook/assets/image (48).png" alt=""><figcaption><p>Anatomy of a text field under an error condition state</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption><p>Anatomy of a text field under an error condition state</p></figcaption></figure>
 
 During an error condition, style the affected field's label text and input region border (if applicable) using a red or "danger" equivalent color.
 
@@ -94,9 +94,9 @@ Your design system may have slightly different aesthetic treatment and styling f
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src=".gitbook/assets/ux-error-validation (1).md" %}
+{% file src="../.gitbook/assets/ux-error-validation (1).md" %}
 
-[Learn how to use](resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
+[Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 
 ***
 

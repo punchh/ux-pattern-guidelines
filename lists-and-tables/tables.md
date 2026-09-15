@@ -46,7 +46,7 @@ The action is "page level" because it's overarching of any tabs below: Since tab
 
 On a table page, tabs are the highest level of organization. They allow each tab to independently operate its own filters, tab-level actions, item counts, and data display.
 
-Details are covered in the [tabs](../tabs.md) UX pattern guideline, including their [usage in a table context](../tabs.md#as-a-top-level-filter-on-table-and-list-pages).&#x20;
+Details are covered in the [tabs](../layout-and-navigation/tabs.md) UX pattern guideline, including their [usage in a table context](../layout-and-navigation/tabs.md#as-a-top-level-filter-on-table-and-list-pages).&#x20;
 
 ***
 

@@ -10,7 +10,7 @@ description: How we protect the user from inadvertently performing destructive a
 
 Any time we offer a user the chance to permanently delete a record or item, we should confirm their intent. These are often irreversible changes, so better to err on the side of caution.
 
-<figure><img src=".gitbook/assets/image (53).png" alt=""><figcaption><p>We often place destructive action inside of an overflow menu (3 vertical dots icon button) to reduce accidental taps, and because it's a seldom used action</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption><p>We often place destructive action inside of an overflow menu (3 vertical dots icon button) to reduce accidental taps, and because it's a seldom used action</p></figcaption></figure>
 
 ### When to offer deletion
 
@@ -34,9 +34,9 @@ Use the word "**Remove**" for removing an selected item from a list. For example
 
 ### Anatomy of a delete confirmation dialog
 
-<figure><img src=".gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 
-Delete confirmations should manifest as a [modal confirmation dialog](modals-lightboxes-and-dialogs.md).
+Delete confirmations should manifest as a [modal confirmation dialog](../layout-and-navigation/modals-lightboxes-and-dialogs.md).
 
 #### Title
 
@@ -62,7 +62,7 @@ Used to close the confirmation dialog, returning the user to the underlying form
 
 ### Bulk delete
 
-Refer to [Bulk Action guidelines](lists-and-tables/bulk-actions.md) for the nuances of the bulk deletion experience.
+Refer to [Bulk Action guidelines](../lists-and-tables/bulk-actions.md) for the nuances of the bulk deletion experience.
 
 ***
 
@@ -84,8 +84,8 @@ UX Collective, 2019
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src=".gitbook/assets/ux-destructive-actions (1).md" %}
+{% file src="../.gitbook/assets/ux-destructive-actions (1).md" %}
 
-[Learn how to use](resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
+[Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 
 ***

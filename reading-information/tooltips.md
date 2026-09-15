@@ -20,7 +20,7 @@ description: >-
 
 ✅ Use the separate description element to help users complete the field or enter the information correctly. 
 
-✅ Invoke on [hover](../hover-interactions.md) only (including keyboard and accessibility tool equivalent of mouse hover - refer to [hover behavior](../hover-interactions.md) guidelines) 
+✅ Invoke on [hover](../layout-and-navigation/hover-interactions.md) only (including keyboard and accessibility tool equivalent of mouse hover - refer to [hover behavior](../layout-and-navigation/hover-interactions.md) guidelines) 
 
 ✅ Break sentences longer than 6 words into 2+ lines 
 

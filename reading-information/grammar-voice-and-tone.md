@@ -466,7 +466,7 @@ Information banners have a bit more leeway for writing in long form compared to 
 
 
 
-[**Toast messages**](../success-notification.md)**: No punctuation**
+[**Toast messages**](../form-experience/success-notification.md)**: No punctuation**
 
 Treat toasts like very short status messages: favor no period for single, brief lines, and use normal punctuation only when you have more than one sentence.
 

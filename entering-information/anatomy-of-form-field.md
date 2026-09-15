@@ -30,7 +30,7 @@ Accessed on hover through an icon just after the field label, a [tooltip](../rea
 
 <figure><img src="../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
 
-To signal needing to be filled to submit the form. Read more about r[equired field patterns](../required-versus-optional-fields.md).
+To signal needing to be filled to submit the form. Read more about r[equired field patterns](../form-experience/required-versus-optional-fields.md).
 
 ### Input region
 
@@ -70,7 +70,7 @@ This is usually an interactive icon button, most common in dropdown lists and co
 
 <figure><img src="../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
 
-Always bottom-aligned with respect to the input region. Learn more about [error validation patterns](../error-validation.md).
+Always bottom-aligned with respect to the input region. Learn more about [error validation patterns](../form-experience/error-validation.md).
 
 ***
 

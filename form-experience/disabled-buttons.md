@@ -24,7 +24,7 @@ We keep a form's submit button enabled even when an error validation occurs (inc
 
 ### ✅ Hide buttons entirely when its action isn’t relevant to the current selection or context
 
-A good example of this is on a table with [bulk actions](lists-and-tables/bulk-actions.md). Bulk actions are only relevant when one or more item in the table is selected. So when no items are selected, the bulk action buttons aren’t visible at all.
+A good example of this is on a table with [bulk actions](../lists-and-tables/bulk-actions.md). Bulk actions are only relevant when one or more item in the table is selected. So when no items are selected, the bulk action buttons aren’t visible at all.
 
 ***
 
@@ -56,8 +56,8 @@ UX Collective, 2019
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src=".gitbook/assets/ux-disabled-buttons (1).md" %}
+{% file src="../.gitbook/assets/ux-disabled-buttons (1).md" %}
 
-[Learn how to use](resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
+[Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 
 ***

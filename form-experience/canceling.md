@@ -10,13 +10,13 @@ description: >-
 [**Get the AI skill**](canceling.md#ai-skill-file) for this UX pattern guideline in a markdown (.MD) file.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
 ### Anatomy of a cancel confirmation dialog
 
-<figure><img src=".gitbook/assets/image (56).png" alt=""><figcaption><p>Cancel confirmation dialogs should manifest as a <a href="modals-lightboxes-and-dialogs.md">modal lightbox</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption><p>Cancel confirmation dialogs should manifest as a <a href="../layout-and-navigation/modals-lightboxes-and-dialogs.md">modal lightbox</a></p></figcaption></figure>
 
-Cancel confirmations should manifest as a [modal confirmation dialog](modals-lightboxes-and-dialogs.md).
+Cancel confirmations should manifest as a [modal confirmation dialog](../layout-and-navigation/modals-lightboxes-and-dialogs.md).
 
 #### Title
 
@@ -70,8 +70,8 @@ UX Collective, 2019
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src=".gitbook/assets/ux-canceling (1).md" %}
+{% file src="../.gitbook/assets/ux-canceling (1).md" %}
 
-[Learn how to use](resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
+[Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 
 ***

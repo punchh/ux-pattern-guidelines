@@ -5,15 +5,13 @@
 
 ## Layout and navigation
 
-***
-
-* [Button alignment](button-alignment.md)
-* [Breadcrumbs](breadcrumbs.md)
-* [Hover interactions](hover-interactions.md)
-* [Hyperlinks versus link buttons](hyperlinks-versus-link-buttons.md)
-* [Modals, lightboxes, and dialogs](modals-lightboxes-and-dialogs.md)
-* [Opening links in same vs new tab](opening-links-in-same-vs-new-tab.md)
-* [Tabs](tabs.md)
+* [Breadcrumbs](layout-and-navigation/breadcrumbs.md)
+* [Button alignment](layout-and-navigation/button-alignment.md)
+* [Hover interactions](layout-and-navigation/hover-interactions.md)
+* [Hyperlinks versus link buttons](layout-and-navigation/hyperlinks-versus-link-buttons.md)
+* [Modals, lightboxes, and dialogs](layout-and-navigation/modals-lightboxes-and-dialogs.md)
+* [Opening links in same vs new tab](layout-and-navigation/opening-links-in-same-vs-new-tab.md)
+* [Tabs](layout-and-navigation/tabs.md)
 
 ## Lists and tables
 
@@ -41,22 +39,20 @@
 
 ## Form experience
 
-***
-
-* [Autosaving](autosaving.md)
-* [Canceling](canceling.md)
-* [Destructive actions and deleting](destructive-actions-and-deleting.md)
-* [Disabled buttons](disabled-buttons.md)
-* [Combining buttons and styles](combining-buttons-and-styles.md)
-* [Error validation](error-validation.md)
-* [Field alignment and column layout](field-alignment-and-column-layout.md)
-* [Multi-step forms](multi-step-forms.md)
-* [Required versus optional fields](required-versus-optional-fields.md)
-* [Reviewing / review step](reviewing-review-step.md)
-* [Saving drafts](saving-drafts.md)
-* [Saving state on buttons](saving-state-on-buttons.md)
-* [Steppers](steppers.md)
-* [Success notification](success-notification.md)
+* [Saving drafts](form-experience/saving-drafts.md)
+* [Autosaving](form-experience/autosaving.md)
+* [Canceling](form-experience/canceling.md)
+* [Destructive actions and deleting](form-experience/destructive-actions-and-deleting.md)
+* [Disabled buttons](form-experience/disabled-buttons.md)
+* [Combining buttons and styles](form-experience/combining-buttons-and-styles.md)
+* [Error validation](form-experience/error-validation.md)
+* [Field alignment and column layout](form-experience/field-alignment-and-column-layout.md)
+* [Multi-step forms](form-experience/multi-step-forms.md)
+* [Required versus optional fields](form-experience/required-versus-optional-fields.md)
+* [Reviewing / review step](form-experience/reviewing-review-step.md)
+* [Saving state on buttons](form-experience/saving-state-on-buttons.md)
+* [Steppers](form-experience/steppers.md)
+* [Success notification](form-experience/success-notification.md)
 
 ## Entering information
 

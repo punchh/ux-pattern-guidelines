@@ -10,21 +10,21 @@ description: How to mix and match button hierarchies effectively
 
 ### ✅ Combine 1 filled button with 1 outline or transparent button
 
-Generally, a form page's main controls / form submission area should use 1 primary button (filled), with any number of secondary and tertiary buttons accompanying it, adjacent. Read more about [Button Alignment](button-alignment.md), too.
+Generally, a form page's main controls / form submission area should use 1 primary button (filled), with any number of secondary and tertiary buttons accompanying it, adjacent. Read more about [Button Alignment](../layout-and-navigation/button-alignment.md), too.
 
-<figure><img src=".gitbook/assets/image (136).png" alt=""><figcaption><p>Sample buttons clusters at the bottom of a form, using appropriate button hierarchy combinations</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (136).png" alt=""><figcaption><p>Sample buttons clusters at the bottom of a form, using appropriate button hierarchy combinations</p></figcaption></figure>
 
 ### 🚫 Don’t combine multiple filled buttons in the same cluster or array
 
 In a single region of a form page, don't have multiple filled (primary) buttons, and definitely don't combine different variants of filled (primary) buttons.
 
-<figure><img src=".gitbook/assets/image (137).png" alt=""><figcaption><p>These button combinations are in violation of our pattern guideline, as there are varying fills / primary buttons in the same cluster</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (137).png" alt=""><figcaption><p>These button combinations are in violation of our pattern guideline, as there are varying fills / primary buttons in the same cluster</p></figcaption></figure>
 
 ### Exceptions
 
-Some highly specialized components - like a context menu or [multi-selection action bar (bulk actions)](lists-and-tables/bulk-actions.md) on a list or table - may necessitate combining filled button styles.
+Some highly specialized components - like a context menu or [multi-selection action bar (bulk actions)](../lists-and-tables/bulk-actions.md) on a list or table - may necessitate combining filled button styles.
 
-<figure><img src=".gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -36,9 +36,9 @@ Some highly specialized components - like a context menu or [multi-selection act
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src=".gitbook/assets/ux-combining-buttons (1).md" %}
+{% file src="../.gitbook/assets/ux-combining-buttons (1).md" %}
 
-[Learn how to use](resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
+[Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 
 ***
 

@@ -74,7 +74,7 @@ For any file upload in any state, allow the user to delete the file.
 
 <figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption><p>A file upload field showing a connection related error</p></figcaption></figure>
 
-Our [error validation guidelines](../error-validation.md) call for all error validation to happen during form submission (rather than inline errors as the user types).
+Our [error validation guidelines](../form-experience/error-validation.md) call for all error validation to happen during form submission (rather than inline errors as the user types).
 
 In a way, file upload errors are an exception: We should give the user feedback instantly if there's an issue with a file upload activity.
 

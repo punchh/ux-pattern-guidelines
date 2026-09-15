@@ -16,13 +16,13 @@ Some high-compute actions - often found in context menus - necessitate an API ca
 
 That means a potentially high latency load time for users.
 
-The designer has properly included for a [Success](../success-notification.md) Toast (or failure) to close the feedback loop after the action is attempted.
+The designer has properly included for a [Success](../form-experience/success-notification.md) Toast (or failure) to close the feedback loop after the action is attempted.
 
 However, if it takes the system a few moments to determine success or failure, that might be a few moments too many for the user - leaving them confused about why the system is taking so long to give them a response.
 
-For these situations, use an interstitial loading dialog in between the action and the destination page (where the [success](../success-notification.md) toast message eventually appears) - or whatever the next feedback element is.
+For these situations, use an interstitial loading dialog in between the action and the destination page (where the [success](../form-experience/success-notification.md) toast message eventually appears) - or whatever the next feedback element is.
 
-In implementation, that probably looks a bit like a small [lightbox](../modals-lightboxes-and-dialogs.md), containing just an animated spinner/loader icon, and some friendly text to explain what's going on. No other modal controls or elements.
+In implementation, that probably looks a bit like a small [lightbox](../layout-and-navigation/modals-lightboxes-and-dialogs.md), containing just an animated spinner/loader icon, and some friendly text to explain what's going on. No other modal controls or elements.
 
 A good generic message for this situation might be:
 

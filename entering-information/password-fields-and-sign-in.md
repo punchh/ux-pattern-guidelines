@@ -88,7 +88,7 @@ If using a paired Password + Confirm Password fields, a password validation erro
 
 The Confirm password field only throws validation errors related to not matching the first password field. "Password doesn't match" is an effective universal error validation message here.
 
-Notably, this is one of the rare exceptions to our [Error Validation guidelines](../error-validation.md) where we should validate for password match error the moment the user changes focus to another field (so don't wait for form submission).
+Notably, this is one of the rare exceptions to our [Error Validation guidelines](../form-experience/error-validation.md) where we should validate for password match error the moment the user changes focus to another field (so don't wait for form submission).
 
 
 

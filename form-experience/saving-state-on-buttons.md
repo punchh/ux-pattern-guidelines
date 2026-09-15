@@ -10,7 +10,7 @@ description: >-
 [**Get the AI skill**](saving-state-on-buttons.md#ai-skill-file) for this UX pattern guideline in a markdown (.MD) file.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image (57).png" alt=""><figcaption><p>On click of a Save button or equivalent, the state and text changes briefly</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (57).png" alt=""><figcaption><p>On click of a Save button or equivalent, the state and text changes briefly</p></figcaption></figure>
 
 ✅ Make it so all buttons that perform a "Save" or "Submit" (or similar) action exhibit a Saving state on click or tap. This is for single page forms and [multi-step](multi-step-forms.md) forms that commit a record or execute a transaction, but not temporary state forms like applying filters.
 
@@ -44,9 +44,9 @@ Even with a very low latency action, product, or network environment, show and p
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src=".gitbook/assets/ux-saving-state-buttons (1).md" %}
+{% file src="../.gitbook/assets/ux-saving-state-buttons (1).md" %}
 
-[Learn how to use](resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
+[Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 
 ***
 

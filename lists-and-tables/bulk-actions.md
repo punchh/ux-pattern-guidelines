@@ -78,7 +78,7 @@ Usually right-aligned in the action bar, allow the user to bulk de-select any it
 
 What if only _some_ items in the user’s selection are  eligible for an action?  
 
-When the user initiates an action on a bulk selection containing items of mixed eligibility, the system should let the  user know before proceeding with that action via an [acknowledgement prompt](../modals-lightboxes-and-dialogs.md#acknowledgement-with-1-2-lines-of-text). Something along the lines of:
+When the user initiates an action on a bulk selection containing items of mixed eligibility, the system should let the  user know before proceeding with that action via an [acknowledgement prompt](../layout-and-navigation/modals-lightboxes-and-dialogs.md#acknowledgement-with-1-2-lines-of-text). Something along the lines of:
 
 > We skipped 3 items in your selection because they’re ineligible for that action.
 
@@ -90,7 +90,7 @@ For mixed eligibility selections for a destructive action, see [bulk deletion](b
 
 ### Bulk deletion
 
-When performing a bulk delete, we generally follow the same principles as defined by [Destructive Actions guidelines](../destructive-actions-and-deleting.md) - that means showing a [confirmation prompt](../modals-lightboxes-and-dialogs.md#confirmation-prompt) to give the user a chance to back out before doing something irreversible.
+When performing a bulk delete, we generally follow the same principles as defined by [Destructive Actions guidelines](../form-experience/destructive-actions-and-deleting.md) - that means showing a [confirmation prompt](../layout-and-navigation/modals-lightboxes-and-dialogs.md#confirmation-prompt) to give the user a chance to back out before doing something irreversible.
 
 Here are some nuances unique to bulk deletions:
 
@@ -104,9 +104,9 @@ Generically use the label:
 
 Where n=the number of items selected in the list.
 
-For the remaining elements on the [confirmation prompt](../modals-lightboxes-and-dialogs.md#confirmation-prompt), use the guidance provided in [destructive actions](../destructive-actions-and-deleting.md).
+For the remaining elements on the [confirmation prompt](../layout-and-navigation/modals-lightboxes-and-dialogs.md#confirmation-prompt), use the guidance provided in [destructive actions](../form-experience/destructive-actions-and-deleting.md).
 
-After confirming to delete, the system should show an [acknowledgement prompt](../modals-lightboxes-and-dialogs.md#acknowledgement) if there were any ineligible items in the selection. See "[Handling mixed eligibility](bulk-actions.md#handling-mixed-eligibility)" above for details.
+After confirming to delete, the system should show an [acknowledgement prompt](../layout-and-navigation/modals-lightboxes-and-dialogs.md#acknowledgement) if there were any ineligible items in the selection. See "[Handling mixed eligibility](bulk-actions.md#handling-mixed-eligibility)" above for details.
 
 ***
 

@@ -8,7 +8,7 @@ description: Knowing when and how to identify fields are required or optional
 [**Get the AI skill**](required-versus-optional-fields.md#ai-skill-file) for this UX pattern guideline in a markdown (.MD) file.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image (58).png" alt=""><figcaption><p>A required field is indicated by an asterisk. Refer to <a href="entering-information/anatomy-of-form-field.md">Field anatomy</a> to understand this element's place in a form field</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (58).png" alt=""><figcaption><p>A required field is indicated by an asterisk. Refer to <a href="../entering-information/anatomy-of-form-field.md">Field anatomy</a> to understand this element's place in a form field</p></figcaption></figure>
 
 ### Usage
 
@@ -42,9 +42,9 @@ We do this for accessibility. Accomplished in the code via engineering markup.
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src=".gitbook/assets/ux-required-optional-fields (1).md" %}
+{% file src="../.gitbook/assets/ux-required-optional-fields (1).md" %}
 
-[Learn how to use](resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
+[Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 
 ***
 

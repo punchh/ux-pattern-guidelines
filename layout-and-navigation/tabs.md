@@ -14,7 +14,7 @@ description: >-
 
 Tabs are effectively our secondary navigation menu system. Each tab menu group is unique to the active/selected primary navigation (left nav).
 
-<div data-with-frame="true"><figure><img src=".gitbook/assets/image (241).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (241).png" alt=""><figcaption></figcaption></figure></div>
 
 ### Layout and interaction
 
@@ -55,7 +55,7 @@ Any more than that might necessitate rethinking your information architecture
 
 🚫 There's a dropdown list built into any tab
 
-🚫 If you're trying to use tabs to facilitate a mutually exclusive selection. Moreover, don't use tabs as a form field. Tabs are not a form field. The pattern you want for this is a [button group](entering-information/button-groups.md) with accompanying [conditional fields](entering-information/conditional-fields.md). 
+🚫 If you're trying to use tabs to facilitate a mutually exclusive selection. Moreover, don't use tabs as a form field. Tabs are not a form field. The pattern you want for this is a [button group](../entering-information/button-groups.md) with accompanying [conditional fields](../entering-information/conditional-fields.md). 
 
 ### AI skill file
 
@@ -65,9 +65,9 @@ Any more than that might necessitate rethinking your information architecture
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src=".gitbook/assets/ux-tabs (1).md" %}
+{% file src="../.gitbook/assets/ux-tabs (1).md" %}
 
-[Learn how to use](resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
+[Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 
 ***
 

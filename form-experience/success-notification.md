@@ -12,9 +12,9 @@ After the user submits a form or completes and action, it's important for the sy
 
 Our vehicle for this feedback is a success toast.
 
-<figure><img src=".gitbook/assets/image (131).png" alt=""><figcaption><p>A success toast floats over the top of page content, sticking to one position, centered horizontally, and offset vertically to favor the eye level (so not quite vertical middle - about 10% from the top of the viewport)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (131).png" alt=""><figcaption><p>A success toast floats over the top of page content, sticking to one position, centered horizontally, and offset vertically to favor the eye level (so not quite vertical middle - about 10% from the top of the viewport)</p></figcaption></figure>
 
-Refer to [Grammar, Voice, and Tone guidelines](reading-information/grammar-voice-and-tone.md) for how to write effective success toast copy.
+Refer to [Grammar, Voice, and Tone guidelines](../reading-information/grammar-voice-and-tone.md) for how to write effective success toast copy.
 
 ### Implementation choreography
 
@@ -45,9 +45,9 @@ New to WCAG 2.1, satisfying [Guideline 4.1.3](https://www.w3.org/TR/WCAG21/#stat
 
 
 
-{% file src=".gitbook/assets/ux-success-notification (1).md" %}
+{% file src="../.gitbook/assets/ux-success-notification (1).md" %}
 
-[Learn how to use](resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
+[Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 
 ***
 
