@@ -46,7 +46,7 @@ The action is "page level" because it's overarching of any tabs below: Since tab
 
 On a table page, tabs are the highest level of organization. They allow each tab to independently operate its own filters, tab-level actions, item counts, and data display.
 
-Details are covered in the [tabs](../layout-and-navigation/tabs.md) UX pattern guideline, including their [usage in a table context](../layout-and-navigation/tabs.md#as-a-top-level-filter-on-table-and-list-pages).&#x20;
+Details are covered in the [tabs](../layout-and-navigation/tabs.md) UX pattern guideline, including their [usage in a table context](../layout-and-navigation/tabs.md#as-a-top-level-filter-on-table-and-list-pages).
 
 ***
 
@@ -141,7 +141,7 @@ The top-most row is for the column header. Remember, [sorting](tables.md#sort-se
 
 <figure><img src="../.gitbook/assets/image (234).png" alt=""><figcaption><p>A data table with the checkboxes column highlighted</p></figcaption></figure>
 
-The left-most column is for checkboxes if [bulk actions](bulk-actions.md) are needed. Notably the column header for checkboxes is a checkbox itself, with no text label. It's also unique in that interacting with this header checkbox performs a select all/deselect all toggle for all **visible items** on the current page of pagination.&#x20;
+The left-most column is for checkboxes if [bulk actions](bulk-actions.md) are needed. Notably the column header for checkboxes is a checkbox itself, with no text label. It's also unique in that interacting with this header checkbox performs a select all/deselect all toggle for all **visible items** on the current page of pagination.
 
 Items excluded by filters or on other pages of pagination are **not** included in the selection.
 
@@ -149,7 +149,7 @@ Items excluded by filters or on other pages of pagination are **not** included i
 
 <figure><img src="../.gitbook/assets/image (235).png" alt=""><figcaption><p>A data table with an identifier value highlighted</p></figcaption></figure>
 
-The next left-most column is the item's identifying _label_. Emphasis on _label:_ In most contexts, this is probably a plain language text title rather than a numeric expression.&#x20;
+The next left-most column is the item's identifying _label_. Emphasis on _label:_ In most contexts, this is probably a plain language text title rather than a numeric expression.
 
 The goal is to use an identifier that's easily scannable, recognizable, and distinct from other rows.
 
@@ -177,7 +177,7 @@ The sequence and composition of remaining data columns will vary by project cont
 
 <figure><img src="../.gitbook/assets/image (237).png" alt=""><figcaption><p>A data table with action menu for a row item opened</p></figcaption></figure>
 
-The right-most column is reserved for the action menu icon button. Often represented by a 3-dot overflow icon, clicking this region in each row invokes a context menu with any tasks or actions that can be performed on an individual item.&#x20;
+The right-most column is reserved for the action menu icon button. Often represented by a 3-dot overflow icon, clicking this region in each row invokes a context menu with any tasks or actions that can be performed on an individual item.
 
 Common examples might include but not limited to Edit, Delete, Archive, and Duplicate.
 
@@ -212,7 +212,7 @@ Covered in the pagination UX pattern guideline.
 Click or tap _anywhere_ on a row (except the checkbox and overflow buttons if present) to drill-down to its detail view.
 
 {% hint style="warning" %}
-**Don't make it so tapping on a row expands the row / opens the row as an accordion.**&#x20;
+**Don't make it so tapping on a row expands the row / opens the row as an accordion.**
 
 Studies have shown this approach presents a myriad of usability and accessibility issues. Use a slide-out panel instead.
 {% endhint %}
@@ -248,12 +248,12 @@ Instead, the designer should be thoughtful when designing column widths, and hig
 ### AI skill file
 
 {% hint style="info" %}
-**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).&#x20;
+**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).
 
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="../.gitbook/assets/ux-tables (1).md" %}
+{% file src="/broken/files/gWLz58MFc1Jnj2EO0Ios" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

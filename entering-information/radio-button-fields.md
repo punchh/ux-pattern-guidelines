@@ -44,12 +44,12 @@ Place descriptions underneath each radio options (in the same pattern as we do f
 ### AI skill file
 
 {% hint style="info" %}
-**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).&#x20;
+**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).
 
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="../.gitbook/assets/ux-radio-button-fields.md" %}
+{% file src="/broken/files/4OZX4tkYoFp6PnHnzUc3" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

@@ -13,15 +13,11 @@ description: When and how to use combo boxes
 * For a single-select combo box, use when there are 15+ options to choose from (for fewer options, use a dropdown list or button group)
 * For a multi-select combo box, use when there are 10+ options to choose from (for fewer options, use a [checkbox field)](checkbox-fields.md)
 
-
-
 ### Single select
 
 #### Unpopulated
 
 <figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
-
-
 
 #### Menu invoked, unpopulated
 
@@ -38,13 +34,9 @@ description: When and how to use combo boxes
 
 Emphasize the **non-matching portion** of text (seen here as bold) to help the user focus on the difference between their typed entry and matches.
 
-
-
 <figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
 The **selected value appears as underlined**. If the user modifies the value (by modifying any portion of the text), the underline is removed, and the search begins again.
-
-
 
 ***
 
@@ -53,8 +45,6 @@ The **selected value appears as underlined**. If the user modifies the value (by
 #### Unpopulated
 
 <figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
-
-
 
 #### Menu invoked, unpopulated
 
@@ -129,12 +119,12 @@ Same experience as single-select no matches.
 ### AI skill file
 
 {% hint style="info" %}
-**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).&#x20;
+**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).
 
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="../.gitbook/assets/ux-combo-box.md" %}
+{% file src="/broken/files/wFxWUGnaBozIkzHb64nW" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

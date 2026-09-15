@@ -90,8 +90,6 @@ The Confirm password field only throws validation errors related to not matching
 
 Notably, this is one of the rare exceptions to our [Error Validation guidelines](../form-experience/error-validation.md) where we should validate for password match error the moment the user changes focus to another field (so don't wait for form submission).
 
-
-
 ***
 
 ### Stored passwords
@@ -117,12 +115,12 @@ A stored password field doesn’t fire a sign-in attempt when the form it appear
 ### AI skill file
 
 {% hint style="info" %}
-**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).&#x20;
+**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).
 
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="../.gitbook/assets/ux-password-fields.md" %}
+{% file src="/broken/files/ix3IIwS6WDQyVoxmQv4X" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

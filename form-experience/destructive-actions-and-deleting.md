@@ -18,8 +18,6 @@ Any time we offer a user the chance to permanently delete a record or item, we s
 
 ✅ When examining an item's detail page
 
-
-
 ### How to label
 
 ✅ Literally use the word "delete" when labeling the action button or link that leads to permanently destroying a record. Don't be ambiguous or gentle about it; users need to understand the severity
@@ -79,12 +77,12 @@ UX Collective, 2019
 ### AI skill file
 
 {% hint style="info" %}
-**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).&#x20;
+**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).
 
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="../.gitbook/assets/ux-destructive-actions (1).md" %}
+{% file src="/broken/files/ljD7VTMKR8NiaAdJqmmN" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

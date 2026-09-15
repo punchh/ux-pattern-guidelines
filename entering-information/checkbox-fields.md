@@ -14,7 +14,7 @@ description: How and when to use the classic boolean form field control
 
 #### As a multi-select field
 
-* When zero, 1, or many options may be selected from a list&#x20;
+* When zero, 1, or many options may be selected from a list
 * There's a decent likelihood the user will select 1 or more option
 * When there are 9 or fewer options total (if there are 10+ options and/or the opportunity to search, use a Multi-Select Combo Box)
 * Must have an accompanying Save or Apply button on the form page or modal (if no Save or Apply button, then use a Toggle Switch)
@@ -57,12 +57,12 @@ Ticking an indeterminate checkbox once turns the property to ‘on’ (checked) 
 ### AI skill file
 
 {% hint style="info" %}
-**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).&#x20;
+**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).
 
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="../.gitbook/assets/ux-checkbox-fields.md" %}
+{% file src="/broken/files/KCnEQcb5IxIkZdjQZDih" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

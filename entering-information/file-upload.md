@@ -10,8 +10,6 @@ description: How to design the file upload experience
 
 <figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
-
-
 ### Anatomy
 
 #### Drag and drop region
@@ -32,15 +30,13 @@ Just like a field description, tell users what they need to do to populate this 
 
 List the supported file formats and maximum file size. For example: "PNG, JPG, or PDF only. 8 MB maximum file size"
 
-
-
 #### Files region
 
 Give the user feedback about the progress of each file upload.
 
 Persist the upload region during and after upload.
 
-<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 **Icon**
 
@@ -99,12 +95,12 @@ When the user selects a file that doesn't meet the requirements, the system shou
 ### AI skill file
 
 {% hint style="info" %}
-**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).&#x20;
+**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).
 
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="../.gitbook/assets/ux-file-upload.md" %}
+{% file src="/broken/files/gQ5Hk4yGqiQkbkYrs3bY" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

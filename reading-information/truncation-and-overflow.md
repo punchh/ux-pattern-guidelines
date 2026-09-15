@@ -46,8 +46,6 @@ In a [combo box](../entering-information/combo-box-fields.md) or other horizonta
 
 <figure><img src="../.gitbook/assets/image (129).png" alt=""><figcaption><p>In this context, a hover tooltp on the overflow chip shows the user some more values. Here, if there were even more values than shown, truncation logic could be applied again.</p></figcaption></figure>
 
-
-
 #### Vertical lists
 
 The number of sample items - and the logic behind which items are sampled (e.g. most recent first) - before the truncation indicator will vary by feature depending on context. The overflow text follow the same label and logic as described above.
@@ -71,12 +69,12 @@ The number of sample items - and the logic behind which items are sampled (e.g. 
 ### AI skill file
 
 {% hint style="info" %}
-**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).&#x20;
+**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).
 
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="../.gitbook/assets/ux-truncation-and-overflow (1).md" %}
+{% file src="/broken/files/21qPgPhbOnlAYZOLnoTr" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

@@ -39,12 +39,12 @@ Even with a very low latency action, product, or network environment, show and p
 ### AI skill file
 
 {% hint style="info" %}
-**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).&#x20;
+**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).
 
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="../.gitbook/assets/ux-saving-state-buttons (1).md" %}
+{% file src="/broken/files/hT9Xq0RHML26YoJBEeak" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 
@@ -55,4 +55,3 @@ Even with a very low latency action, product, or network environment, show and p
 #### [When You Need to Show a Button’s Loading State](https://uxmovement.com/buttons/when-you-need-to-show-a-buttons-loading-state/)
 
 UX Movement, 2019
-

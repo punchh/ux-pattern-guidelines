@@ -29,8 +29,6 @@ Use a toast message to convey the issue.
 > Try again in a few moments.\
 > If the problem persists, contact support so we can help.
 
-
-
 <figure><img src="../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
 
 #### The problem is isolated to a specific portion of the page
@@ -81,19 +79,19 @@ For example, imagine building a marketing campaign where on step 1 the user sele
 
 > {field name} "{value}" isn't available anymore
 
-<figure><img src="../.gitbook/assets/image (121).png" alt=""><figcaption><p>Truncate {Value} with an ellipsis (...) after 16 characters.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (120).png" alt=""><figcaption><p>Truncate {Value} with an ellipsis (...) after 16 characters.</p></figcaption></figure>
 
 ***
 
 ### AI skill file
 
 {% hint style="info" %}
-**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).&#x20;
+**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).
 
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="../.gitbook/assets/ux-environmental-errors (1).md" %}
+{% file src="/broken/files/iCu4ohjYhNtjjWdjdgUQ" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

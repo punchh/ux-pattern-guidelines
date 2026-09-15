@@ -12,7 +12,7 @@ Sometimes a user needs to save incomplete information on a form in progress, go 
 
 For that reason, we should support the ability to save a draft in more complex forms - especially multi-step forms.
 
-<figure><img src="../.gitbook/assets/image (138).png" alt=""><figcaption><p>In a multi-step form, the "Save and close" button facilitates saving as a draft </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (138).png" alt=""><figcaption><p>In a multi-step form, the "Save and close" button facilitates saving as a draft</p></figcaption></figure>
 
 ### [Multi-step forms](multi-step-forms.md)
 
@@ -31,11 +31,11 @@ In a mutli-step form, understand that the Back and Next buttons also save a draf
 ### AI skill file
 
 {% hint style="info" %}
-**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).&#x20;
+**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).
 
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="../.gitbook/assets/ux-saving-drafts (1).md" %}
+{% file src="/broken/files/oI5YsMTdTTbYBA6DTsJV" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.

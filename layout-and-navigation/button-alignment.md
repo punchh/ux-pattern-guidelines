@@ -34,11 +34,11 @@ In [multi-step forms](../form-experience/multi-step-forms.md) we prioritize the 
 
 The left-to-right linear alignment (for Back and Save buttons respectively) also matches the [stepper navigation pattern](../form-experience/steppers.md) present on all multi-step forms.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>A multi-step form on the first step (so it has a Next button, but not  Back button)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>A multi-step form on the first step (so it has a Next button, but not Back button)</p></figcaption></figure>
 
 In a multi-step form, we keep the Cancel button aligned to the bottom left. We move the Next button (form submit) to the bottom right.
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>A multi-step form on the 2nd step - so it has a Next button AND a Back button in its save bar / region</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>A multi-step form on the 2nd step - so it has a Next button AND a Back button in its save bar / region</p></figcaption></figure>
 
 On steps 2 and onward of a multi-step form, a Back button appears in the bottom left, just before the Cancel button. Next button stays on the right.
 
@@ -56,7 +56,7 @@ For this experience - almost always in a [modal](modals-lightboxes-and-dialogs.m
 
 #### [Confirmation](modals-lightboxes-and-dialogs.md#confirmation-prompt) popup
 
-A primary button (confirm) and secondary button (decline) pair, we center align these buttons at the bottom.&#x20;
+A primary button (confirm) and secondary button (decline) pair, we center align these buttons at the bottom.
 
 A [generic casual ](../reading-information/grammar-voice-and-tone.md)way we sometimes label these buttons is "Let's go" and "Nevermind" respectively.
 
@@ -64,7 +64,7 @@ A [generic casual ](../reading-information/grammar-voice-and-tone.md)way we some
 
 ### [Modal forms](modals-lightboxes-and-dialogs.md#id-1-field-form)
 
-Unlike forms on a regular page, eye tracking studies have shown that in a modal window, forms are more effectively filled out when the buttons are aligned to follow the "z pattern".&#x20;
+Unlike forms on a regular page, eye tracking studies have shown that in a modal window, forms are more effectively filled out when the buttons are aligned to follow the "z pattern".
 
 That means the form submit button (usually labeled "Save") is aligned bottom **right**, with the Cancel button just next to it on its left (still bottom-right aligned overall).
 
@@ -89,12 +89,12 @@ Refer to [field anatomy guidelines](../entering-information/anatomy-of-form-fiel
 ### AI skill file
 
 {% hint style="info" %}
-**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).&#x20;
+**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).
 
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="../.gitbook/assets/ux-button-alignment (2).md" %}
+{% file src="/broken/files/2pizy71dg4WhFGJVBMQv" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

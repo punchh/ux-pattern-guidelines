@@ -26,12 +26,12 @@ Use breadcrumbs when:
 * The page's place in the hierarchy is not obvious from the primary navigation alone
 * Users frequently land on deep pages via search, deep links, or notifications, and benefit from a way to navigate "up" to a parent section without using the browser's back button
 * The information architecture follows a clear parent-child structure (e.g. Content type page → Content detail page)
-* The page or feature is a detail page child of an overarching content type landing page&#x20;
+* The page or feature is a detail page child of an overarching content type landing page
 
 {% hint style="warning" %}
 **Don't create a new breadcrumb node for going into "Edit" mode on a detail page**
 
-Often when navigating from a landing page to a detail page, the information is in display-only/read-only mode. Permitted users might want to go into Edit mode (often by clicking a button labeled "Edit": The page usually refreshes or navigates to an editable form version of the same page). This should NOT introduce a new node on the breadcrumb trail.&#x20;
+Often when navigating from a landing page to a detail page, the information is in display-only/read-only mode. Permitted users might want to go into Edit mode (often by clicking a button labeled "Edit": The page usually refreshes or navigates to an editable form version of the same page). This should NOT introduce a new node on the breadcrumb trail.
 
 The breadcrumb remains the same as the display-only/read-only version of the same page.
 {% endhint %}
@@ -135,12 +135,12 @@ If truncating the current page node still doesn't fit, consider truncating indiv
 ### AI skill file
 
 {% hint style="info" %}
-**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).&#x20;
+**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).
 
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="../.gitbook/assets/ux-breadcrumbs (1).md" %}
+{% file src="/broken/files/NMuN4sqg0yDsZQyvx87d" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

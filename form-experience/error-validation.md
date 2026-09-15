@@ -54,7 +54,7 @@ Bounce -> 2 REM over 50ms. \
 Bounce <- 2 REM over 50ms. \
 Bounce -> 1 REM over 50ms.   \
 \
-Total duration 300ms. \
+Total duration 300ms.\
 \
 Button finishes in same position as start.
 
@@ -89,12 +89,12 @@ Your design system may have slightly different aesthetic treatment and styling f
 ### AI skill file
 
 {% hint style="info" %}
-**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).&#x20;
+**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).
 
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="../.gitbook/assets/ux-error-validation (1).md" %}
+{% file src="/broken/files/WFyCZSDRfEAvRatRTZ95" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

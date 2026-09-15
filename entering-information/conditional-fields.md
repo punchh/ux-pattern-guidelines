@@ -23,8 +23,6 @@ That means a conditional field should only be visible when the selection made on
 * Always place conditional fields **immediately following** the field that triggers it. Don’t place it further down in the form (or worse, on another page of a multi-step form) - the user needs to see the condition fire adjacent to the qualifying condition.
 * Use a graphical element to indent the conditional field(s) - such as a vertical line spanning their height - to visually emphasize their dependency on and association with the parent field
 
-
-
 ### Behavior
 
 * **Preserve values** that a user populates into a conditional field even if the conditional field visibility changes. Moreover, if the user changes their mind about the qualifying field, but then changes their mind _again_, we don't want to make the user populate the conditional field from scratch.
@@ -35,12 +33,12 @@ That means a conditional field should only be visible when the selection made on
 ### AI skill file
 
 {% hint style="info" %}
-**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).&#x20;
+**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).
 
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="../.gitbook/assets/ux-conditional-fields.md" %}
+{% file src="/broken/files/BFHk2H7caqeOnqbGYEUO" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

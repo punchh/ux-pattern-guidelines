@@ -24,7 +24,7 @@ For that reason, usability test and only add more fields per step as indicated b
 
 #### Stepper
 
-Help the user understand their progress in the overall form using a [stepper](steppers.md).&#x20;
+Help the user understand their progress in the overall form using a [stepper](steppers.md).
 
 Learn more about stepper anatomy and experience in our [Steppers pattern guideline](steppers.md).
 
@@ -49,12 +49,12 @@ Finish most multi-step forms with a review of information entered on previous st
 ### AI skill file
 
 {% hint style="info" %}
-**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).&#x20;
+**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).
 
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="../.gitbook/assets/ux-multi-step-forms (1).md" %}
+{% file src="/broken/files/AA1v1UQXlFNhfv2NWztm" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 
@@ -69,4 +69,3 @@ Venture Harbor, 2023
 #### [Why Multi-Step Lead Forms Get up to 300% More Conversions](https://www.smashingmagazine.com/2017/05/better-form-design-one-thing-per-page/)
 
 Smashing Magazine, 2017
-

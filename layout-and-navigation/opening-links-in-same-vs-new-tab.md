@@ -41,12 +41,12 @@ We should be thoughtful about designing a predictable but flexible experience fo
 ### AI skill file
 
 {% hint style="info" %}
-**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).&#x20;
+**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).
 
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="../.gitbook/assets/ux-link-tab-behavior (1).md" %}
+{% file src="/broken/files/4zILgXpt6ABexkjOq0fM" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 
@@ -65,4 +65,3 @@ Nielsen Norman Group, 2020
 #### [Should Links Open in New Windows?](https://www.smashingmagazine.com/2008/07/should-links-open-in-new-windows/)
 
 Vitaly Friedman, 2019
-

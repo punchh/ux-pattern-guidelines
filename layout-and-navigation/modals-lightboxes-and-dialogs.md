@@ -14,7 +14,7 @@ A **modal** (also sometimes called "modal dialog" or "modal window") is a UI ele
 
 A **lightbox** just means a UI element where the background is dimmed.
 
-There are such things as non-modal lightboxes, and non-lightboxed modals, but the vast majority of our product design calls for a **modal lightbox** as an overlay.  &#x20;
+There are such things as non-modal lightboxes, and non-lightboxed modals, but the vast majority of our product design calls for a **modal lightbox** as an overlay.
 
 We'll just refer to it as "**modal**" going forward.
 
@@ -48,13 +48,13 @@ We'll just refer to it as "**modal**" going forward.
 
 #### Is it okay to have a modal on top of a modal?
 
-Yes, though some situations are more appropriate than others.&#x20;
+Yes, though some situations are more appropriate than others.
 
 ✅ There should be no more than 2 layers of modals
 
 ✅ The 2nd modal completely covers or replaces the 1st modal (effectively a temporary swap), OR
 
-✅ The 1st modal is nearly a full screen modal, and the 2nd modal much smaller &#x20;
+✅ The 1st modal is nearly a full screen modal, and the 2nd modal much smaller
 
 <figure><img src="../.gitbook/assets/image (139).png" alt=""><figcaption><p>This example illustrates an appropriate use of modal over modal: A full-screen chatbot interface contains actions that invoke a smaller nested modal.</p></figcaption></figure>
 
@@ -106,11 +106,11 @@ Modals shouldn't span more than 95% of the viewport height and width. Implement 
 
 #### Acknowledgement
 
-<figure><img src="../.gitbook/assets/image (77).png" alt=""><figcaption><p>With just 1 or 2 lines of text, centered body content is acceptable</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p>With just 1 or 2 lines of text, centered body content is acceptable</p></figcaption></figure>
 
-We use an acknowledgement modal to show useful-to-know information that doesn't warrant persistent visibility directly on the underlying page.&#x20;
+We use an acknowledgement modal to show useful-to-know information that doesn't warrant persistent visibility directly on the underlying page.
 
-Examples might include (but not limited to) an exhaustive privacy policy or terms of use.&#x20;
+Examples might include (but not limited to) an exhaustive privacy policy or terms of use.
 
 It's often (but not always) surfaced from a text link on the underlying page (again, like Terms of Use or Privacy Policy).
 
@@ -120,7 +120,7 @@ In the example illustrated in the image above, the body text is just 1-2 lines l
 
 #### Confirmation prompt
 
-<figure><img src="../.gitbook/assets/image (78).png" alt=""><figcaption><p>More than a couple lines of text - like in a Terms of Use agreement or similar - left align content for readability. </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (78).png" alt=""><figcaption><p>More than a couple lines of text - like in a Terms of Use agreement or similar - left align content for readability.</p></figcaption></figure>
 
 We use confirmation prompts to get active agreement from the user to move forward with something.
 
@@ -144,7 +144,7 @@ The button alignment should follow [button alignment guidelines](button-alignmen
 
 #### Multi-field form
 
-<figure><img src="../.gitbook/assets/image (80).png" alt=""><figcaption><p>With more than 1 field, all body content is left aligned.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption><p>With more than 1 field, all body content is left aligned.</p></figcaption></figure>
 
 When faced with populating a complex form with nested information or an array, we can surface entry fields in a modal window.
 
@@ -156,7 +156,7 @@ With more 2+ fields in a modal form, the body contents (the fields) are left ali
 
 <figure><img src="../.gitbook/assets/image (82).png" alt=""><figcaption><p>Finally, in a <a href="../form-experience/multi-step-forms.md">multi-step form </a>we use our <a href="../form-experience/multi-step-forms.md#navigation-bar">conventional multi-step form navigational button cluster</a></p></figcaption></figure>
 
-Filling out forms in a modal window should still follow guidelines for when a [multi-step form](../form-experience/multi-step-forms.md) is appropriate.&#x20;
+Filling out forms in a modal window should still follow guidelines for when a [multi-step form](../form-experience/multi-step-forms.md) is appropriate.
 
 Refer to [button alignment guidelines](button-alignment.md#multi-step-forms) for this type of modal, too.
 
@@ -165,12 +165,12 @@ Refer to [button alignment guidelines](button-alignment.md#multi-step-forms) for
 ### AI skill file
 
 {% hint style="info" %}
-**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).&#x20;
+**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).
 
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="../.gitbook/assets/ux-modals (2).md" %}
+{% file src="/broken/files/S1qNJ5bTeEfQkeFXFKxl" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

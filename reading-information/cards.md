@@ -99,7 +99,7 @@ Including a CTA button like "order now" might increase conversion rate moreso th
 
 This is the highly variable part that we can't be too prescriptive for.
 
-We can't predict what your content will be for every context, so just be sure to use distinct hierarchies to distinguish elements from one another.&#x20;
+We can't predict what your content will be for every context, so just be sure to use distinct hierarchies to distinguish elements from one another.
 
 If the card has a short title, use a subheading element. If there are multiple pieces of metadata, use different font weights, and/or subdued/muted font colors to establish a consistent hierarchy across cards that allow the user to quickly scan and discern common data across cards.
 
@@ -124,12 +124,11 @@ Cards are intended to facilitate large click areas with highly accessible target
 ### AI skill file
 
 {% hint style="info" %}
-**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).&#x20;
+**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).
 
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="../.gitbook/assets/ux-cards (2).md" %}
+{% file src="/broken/files/Z9pHqEs4A9K3EV88FGpe" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
-

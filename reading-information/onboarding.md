@@ -58,15 +58,15 @@ Don’t let any tooltip implementation be introduced using a visual style that b
 
 Functionally, modal style onboarding experiences are just a [modal](onboarding.md#modal-style) that appears automatically upon loading opening a app or one of its pages.
 
-It usually contains at least one button on it to dismiss the onboarding ("Got it" is a good casual way to label the button), and sometimes an accompanying button to direct the user to "Read more" about the feature, or to "Try now".  The destination and label may vary by your product's context.
+It usually contains at least one button on it to dismiss the onboarding ("Got it" is a good casual way to label the button), and sometimes an accompanying button to direct the user to "Read more" about the feature, or to "Try now". The destination and label may vary by your product's context.
 
 <figure><img src="../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
 
 #### Tooltip style
 
-[Tooltip](tooltips.md)-style onboarding helps users focus on a specific area of a page. In implementation, they probably look more link a very small card with a notch pointing toward the relevant element. There's also at least one button on it to dismiss the onboarding ("Got it" is a good casual way to label the button), and sometimes an accompanying button to direct the user to "Read more" about the feature, or to "Try now".&#x20;
+[Tooltip](tooltips.md)-style onboarding helps users focus on a specific area of a page. In implementation, they probably look more link a very small card with a notch pointing toward the relevant element. There's also at least one button on it to dismiss the onboarding ("Got it" is a good casual way to label the button), and sometimes an accompanying button to direct the user to "Read more" about the feature, or to "Try now".
 
-It appears automatically upon loading the page.&#x20;
+It appears automatically upon loading the page.
 
 While present, the page background is dimmed like a [lightbox](onboarding.md#modal-style)
 
@@ -77,12 +77,12 @@ While present, the page background is dimmed like a [lightbox](onboarding.md#mod
 ### AI skill file
 
 {% hint style="info" %}
-**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).&#x20;
+**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).
 
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="../.gitbook/assets/ux-onboarding (1).md" %}
+{% file src="/broken/files/E3pjgtRDFJ5vmzlQXk4K" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

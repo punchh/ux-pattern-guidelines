@@ -16,8 +16,6 @@ Generally we use the Description element for when the product needs to convey ve
 
 <figure><img src="../.gitbook/assets/image (97).png" alt=""><figcaption><p>This content - explaining how to properly populate the field - meets the criteria for being a field description (rather than a tooltip), and is just about as long as we’d ever want a field description to be.</p></figcaption></figure>
 
-
-
 The other utility is for conveying must-know implications that affect user trust or decision making.
 
 The information must still be very concise.
@@ -37,8 +35,6 @@ More examples:<br>
 * Detailed rules
 * Exception cases or situations affecting just a small subset of users
 * Anything you can’t articulate so succinctly it could have been a Description
-
-
 
 <figure><img src="../.gitbook/assets/image (99).png" alt=""><figcaption><p>The tooltip contains useful information, but not critical to the field’s completion. It mentions exception cases and detailed rules. And it’s way too long to be in the description.</p></figcaption></figure>
 
@@ -99,12 +95,12 @@ Use the **Tooltip**
 ### AI skill file
 
 {% hint style="info" %}
-**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).&#x20;
+**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).
 
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="../.gitbook/assets/ux-descriptions-vs-tooltips (1).md" %}
+{% file src="/broken/files/dIt8Q8L3l7NprtnNoigq" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

@@ -12,9 +12,7 @@ description: >-
 
 Use a single vertical column (a single, straight line path to completion) to maximize readability, completion success, and scalability for narrower viewports.
 
-
-
-<figure><img src="../.gitbook/assets/image (134).png" alt=""><figcaption><p>A sample form page depicting all form field elements left aligned along a single column, straight down to the Save button. A reference pane - read-only display field information used to assist filling the form - is okay to be right-aligned next to the form fields.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (133).png" alt=""><figcaption><p>A sample form page depicting all form field elements left aligned along a single column, straight down to the Save button. A reference pane - read-only display field information used to assist filling the form - is okay to be right-aligned next to the form fields.</p></figcaption></figure>
 
 ✅ Align all form fields along the left edge, lining up perfectly with the Save button at the bottom of a single page form
 
@@ -42,12 +40,12 @@ The latter goes beyond logical connection: The value entered for zip code often 
 ### AI skill file
 
 {% hint style="info" %}
-**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).&#x20;
+**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).
 
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="../.gitbook/assets/ux-field-alignment (1).md" %}
+{% file src="/broken/files/nlfAfFhbmXjFFV2PMfyN" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

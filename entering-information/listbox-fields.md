@@ -22,7 +22,7 @@ A listbox facilitates selecting one or more options by "shuttling" or moving ite
 
 ### Why we don't use them
 
-[Combo boxes ](combo-box-fields.md)do everything that a list box does but better.&#x20;
+[Combo boxes ](combo-box-fields.md)do everything that a list box does but better.
 
 ### Why combo boxes are better
 
@@ -35,19 +35,19 @@ Combo boxes:
 * Are mobile friendly
 * Promote progressive disclosure principles
 
-<figure><img src="../.gitbook/assets/image (167).png" alt=""><figcaption><p>A combo box serving the same utility as a listbox, but with many usability improvements</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption><p>A combo box serving the same utility as a listbox, but with many usability improvements</p></figcaption></figure>
 
 ***
 
 ### AI skill file
 
 {% hint style="info" %}
-**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).&#x20;
+**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).
 
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="../.gitbook/assets/ux-listbox-fields.md" %}
+{% file src="/broken/files/zf16wxNmoHsOZdPITnu9" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

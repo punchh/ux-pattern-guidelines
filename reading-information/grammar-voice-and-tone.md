@@ -34,8 +34,6 @@ Refrain from using superfluous possessive adjectives. Just use the unique word a
 
 Possible exception: The user is looking at a list of mix content and needs to distinguish or filter items created themselves versus items created by others. Even then, first try using the user’s first name to personalize before going with “My”.
 
-
-
 {% columns %}
 {% column %}
 ✅ Campaigns
@@ -94,8 +92,6 @@ Be casual and informal (lending itself to brevity) - this is an overarching prin
 
 ***
 
-
-
 **Strive to use 2-syllable words where possible**
 
 2 syllables or fewer increases accessibility for varying reading levels. It’s also a boon to users who speak English as a second language.
@@ -120,8 +116,6 @@ Be casual and informal (lending itself to brevity) - this is an overarching prin
 
 ***
 
-
-
 **Be informal and brief - like speaking with a friend**
 
 A great example is in confirmation prompts: write like you’re talking to a good acquaintance that’s comfortable and familiar.
@@ -137,8 +131,6 @@ A great example is in confirmation prompts: write like you’re talking to a goo
 {% endcolumns %}
 
 ***
-
-
 
 **Be emotionally resonant**
 
@@ -157,8 +149,6 @@ General usability ensures our products are functional and easy to navigate. Emot
 {% endcolumns %}
 
 ***
-
-
 
 **Use words that foster emotional engagement**
 
@@ -180,8 +170,6 @@ In UI copy, we can choose words that encourage return visits and usage.
 
 ***
 
-
-
 **Don’t use adjectives that imply the user should perceive something as “simple”**
 
 We can’t assume the user will agree with the designer’s perceived simplicity.
@@ -200,8 +188,6 @@ We can’t assume the user will agree with the designer’s perceived simplicity
 
 ***
 
-
-
 **Don't say please**
 
 Save the user the time of having to read an extra word, if for no other reason than to reduce cognitive load.
@@ -217,8 +203,6 @@ Save the user the time of having to read an extra word, if for no other reason t
 {% endcolumns %}
 
 ***
-
-
 
 ## Capitalization
 
@@ -247,8 +231,6 @@ Understand that your design system may use typography on some elements that’s 
 {% endcolumns %}
 
 ***
-
-
 
 **Use sentence case, even for subheadings, buttons, links, modal and page title**
 
@@ -279,8 +261,6 @@ Even when a phrase is just a couple of words long, use sentence case. While Titl
 {% endcolumns %}
 
 ***
-
-
 
 **...but use Title Case on proprietary brand features**
 
@@ -324,8 +304,6 @@ Present perfect tense adds too many words, syllables, and strokes, and strays to
 
 ***
 
-
-
 **Use full, unabbreviated words**
 
 Full stop. Don’t make users spend brain cycles on decoding acronyms, nor make them refer to a glossary to translate.  This goes back to the fundamental principle of speaking like a human, not a robot.
@@ -364,8 +342,6 @@ The only exception is for file format extensions.
 
 ***
 
-
-
 **Even if citing an example, don’t abbreviate the word “Example”**
 
 The full word “example” is least ambiguous. Abbreviations like “ex.” are too easily confused with “excluding”, and “e.g.” is often used incorrectly.
@@ -381,8 +357,6 @@ The full word “example” is least ambiguous. Abbreviations like “ex.” are
 {% endcolumns %}
 
 ***
-
-
 
 **Use numerals instead of spelled words**
 
@@ -404,8 +378,6 @@ Note that support documentation will differ - that's okay; different context.
 
 ## Punctuation
 
-
-
 [**Field Descriptions**](../entering-information/anatomy-of-form-field.md#description-text)**: No punctuation at the end pretty much all the time**
 
 Descriptions should be written short enough that you don’t need a period at the end. Most descriptions should be a short instructive phrase that’s not a complete sentence anyway. Even if a description is technically a complete sentence grammatically speaking, it should be written short enough that it doesn’t look “wrong” to omit the period. <br>
@@ -424,8 +396,6 @@ In other words. if you find yourself writing a field description so long that it
 
 ***
 
-
-
 [**Tooltips**](tooltips.md)**: No punctuation unless multiple sentences**
 
 While Tooltips have a bit more allowance for longer statements, generally avoid sentences so long that you think it might need a period. If a tooltip genuinely needs to break into multiple sentences, it’s okay to use a period at the end of sentences.
@@ -441,8 +411,6 @@ While Tooltips have a bit more allowance for longer statements, generally avoid 
 {% endcolumns %}
 
 ***
-
-
 
 [**Information Banners**](information-banners.md)**: Only use punctuation if a genuine complete sentence**
 
@@ -464,8 +432,6 @@ Information banners have a bit more leeway for writing in long form compared to 
 
 ***
 
-
-
 [**Toast messages**](../form-experience/success-notification.md)**: No punctuation**
 
 Treat toasts like very short status messages: favor no period for single, brief lines, and use normal punctuation only when you have more than one sentence.
@@ -482,8 +448,6 @@ Treat toasts like very short status messages: favor no period for single, brief 
 
 ***
 
-
-
 **Buttons, links, modal titles, page titles, subheadings: No punctuation**
 
 {% columns %}
@@ -498,8 +462,6 @@ Treat toasts like very short status messages: favor no period for single, brief 
 
 ***
 
-
-
 [**Empty states, blank states, no results states**](../lists-and-tables/empty-states.md)**: No punctuation**
 
 {% columns %}
@@ -513,8 +475,6 @@ Treat toasts like very short status messages: favor no period for single, brief 
 {% endcolumns %}
 
 ***
-
-
 
 **Never use exclamatory punctuation**
 
@@ -537,12 +497,12 @@ Recapping this and the previous related guidelines: Most of the time don’t eve
 ### AI skill file
 
 {% hint style="info" %}
-**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).&#x20;
+**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).
 
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="../.gitbook/assets/ux-grammar-voice-tone (2).md" %}
+{% file src="/broken/files/j12LpZUwaho6Vkl2Y3j8" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

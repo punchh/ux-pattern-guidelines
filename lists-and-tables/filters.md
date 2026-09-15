@@ -18,13 +18,13 @@ Filtering principally occurs _within_ a tab (if tabs are present at all) and app
 
 ### Unstructured filters
 
-Our lone unstructured filter is effectively a text refinement.&#x20;
+Our lone unstructured filter is effectively a text refinement.
 
 This one warrants top-placement in the filter hierarchy (often just above the list or table in the left-most position) as its ease of use makes it highly attractive for making refinements.
 
 The user types a few characters (usually 2 or 3), and the system shows items that contain a matching string (in title or some other element in the list). The user needn't press enter nor click any button to execute.
 
-This is not to be confused with site search. Search implies looking through a broader dataset with no items pre-loaded.&#x20;
+This is not to be confused with site search. Search implies looking through a broader dataset with no items pre-loaded.
 
 **Search** is "find something I have a vague idea about".
 
@@ -38,7 +38,7 @@ Structured filters refer to an array of form fields that hone in on specific met
 
 <figure><img src="../.gitbook/assets/image (205).png" alt=""><figcaption><p>The user can access a side panel of filter fields</p></figcaption></figure>
 
-Since there can be many structured filters - many of which may never be used - we often use progressive disclosure to access them. For example, some list page experiences provide a button right next to the free-form text filter called "More filters..." that invokes a side panel where structured filter fields are stacked vertically.&#x20;
+Since there can be many structured filters - many of which may never be used - we often use progressive disclosure to access them. For example, some list page experiences provide a button right next to the free-form text filter called "More filters..." that invokes a side panel where structured filter fields are stacked vertically.
 
 This also makes the list of filters highly scalable to accommodate add-ons in the future, rather than trying to cram them all in next to the free-form text filter.
 
@@ -97,12 +97,12 @@ Now the behavior for this refinement is unambiguous.
 ### AI skill file
 
 {% hint style="info" %}
-**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).&#x20;
+**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).
 
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="../.gitbook/assets/ux-filters.md" %}
+{% file src="/broken/files/12942vJhkPqHCY59c8Et" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 
@@ -114,13 +114,6 @@ Now the behavior for this refinement is unambiguous.
 
 Mikkel Bo Schmidt, 2014
 
-
-
 [**Enterprise Filtering**](https://pencilandpaper.io/articles/ux-pattern-analysis-enterprise-filtering/)
 
 Pencil & Paper, 2021
-
-
-
-
-

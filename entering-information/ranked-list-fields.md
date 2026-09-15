@@ -8,7 +8,7 @@ description: How to facilitate ranking, sequencing, or relative order in a set o
 [**Get the AI skill**](ranked-list-fields.md#ai-skill-file) for this UX pattern guideline in a markdown (.MD) file.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (214).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
 
 A ranked list field lets users assign a relative order to a set of items. The user manipulates the items into a desired sequence, and the position of each item carries meaning. For example, but not limited to:
 
@@ -53,9 +53,9 @@ This is not a hard fast "never do it rule" - some rare situations may necessitat
 
 ### Anatomy
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-A ranked list field often uses a design system's card component to represent the items being ranked, as users find the tangible nature of a card to be easy to manipulate and track. In that model, each item in the list is a card, and each card has the same anatomy as defined by the [cards guideline](../reading-information/cards.md#anatomy).&#x20;
+A ranked list field often uses a design system's card component to represent the items being ranked, as users find the tangible nature of a card to be easy to manipulate and track. In that model, each item in the list is a card, and each card has the same anatomy as defined by the [cards guideline](../reading-information/cards.md#anatomy).
 
 In addition to the field label and description standard to a f[orm field's anatomy](anatomy-of-form-field.md), each item in the ranked list is composed of:
 
@@ -95,7 +95,7 @@ Use a subtle tilt or scale effect on the dragged card during transit. This isn't
 
 #### Reordering via the context menu (required for accessibility)
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>An open context menu on an item on a ranked list field offers several "Move" actions for accessibility compliance and convenience.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>An open context menu on an item on a ranked list field offers several "Move" actions for accessibility compliance and convenience.</p></figcaption></figure>
 
 Drag and drop alone is not sufficient. Users with motor impairments, users on speech-controlled or eye-tracking input, and users who simply find dragging fiddly all need a non-drag alternative. WCAG 2.2 (Success Criterion 2.5.7, Level AA) makes this a compliance requirement: any function that uses dragging must also be achievable through a single pointer without dragging.
 
@@ -129,7 +129,7 @@ Drag-and-drop-only ranking interfaces fail WCAG 2.5.7 at Level AA and exclude us
 
 #### Longer lists
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>In a longer ranked list (described below), each item card in the ranked list also shows a position number, and the context menu offers a "Move to position" action </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>In a longer ranked list (described below), each item card in the ranked list also shows a position number, and the context menu offers a "Move to position" action</p></figcaption></figure>
 
 With more than 15 items in a ranked list, consider offering the user a context menu action to "Move to position" where the user can enter a specific position number.
 
@@ -178,12 +178,12 @@ If the user navigates away or cancels mid-rank, follow the [canceling guidelines
 ### AI skill file
 
 {% hint style="info" %}
-**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).&#x20;
+**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).
 
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="../.gitbook/assets/ux-ranked-list-fields (1).md" %}
+{% file src="/broken/files/I77BVHJ3T27yDWsMrDb1" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

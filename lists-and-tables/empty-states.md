@@ -112,7 +112,7 @@ To shortcut clearing any filters in one fell swoop, offer the user a button at t
 
 ### "Coming soon" states
 
-The feature isn’t available yet under any user controlled condition.&#x20;
+The feature isn’t available yet under any user controlled condition.
 
 The product team / organization hasn’t released it to anyone yet.  It can also be accompanied with a sneak peak of what’s to come. The design goal is to generate excitement and manage expectations.
 
@@ -146,19 +146,17 @@ Get users engaged in following your product by including a primary CTA button at
 
 ✅ Offer a notification sign-up
 
-
-
 ***
 
 ### AI skill file
 
 {% hint style="info" %}
-**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).&#x20;
+**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).
 
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="../.gitbook/assets/ux-empty-states (2).md" %}
+{% file src="/broken/files/aVotcderBaAHBKEhBbIt" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 
