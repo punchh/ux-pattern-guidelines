@@ -42,7 +42,7 @@ Download `CLAUDE.md` and place it in the same folder as your skill files. Claude
 
 When you download new skills, just drop them in the same folder. `CLAUDE.md` picks them up automatically.
 
-{% file src="/broken/files/KzohCgP09VvykDnvCoQt" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/claude.md" %}
 
 </details>
 
@@ -78,7 +78,7 @@ When you download new skills, drop them into the same folder. Copilot picks them
 Setup varies across Copilot configurations and team settings. If this path doesn't work in your environment, check with your team for how custom instructions are configured.
 {% endhint %}
 
-{% file src="/broken/files/1xmAeaBuTQkJDXqyoLIM" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/copilot-instructions.md" %}
 
 </details>
 
