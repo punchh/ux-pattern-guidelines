@@ -8,7 +8,7 @@ description: How to orient users in their current depth of navigation
 [**Get the AI skill**](breadcrumbs.md#ai-skill-file) for this UX pattern guideline in a markdown (.MD) file.
 {% endhint %}
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (220).png" alt=""><figcaption><p>A business application with breadcrumbs navigation just above the page title.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/breadcrumbs.png" alt=""><figcaption><p>A business application with breadcrumbs navigation just above the page title.</p></figcaption></figure></div>
 
 A breadcrumb is a secondary navigation aid that shows the user where the current page sits within the overall information hierarchy of the application, and provides one-click access back to any parent level.
 

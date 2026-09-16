@@ -30,11 +30,11 @@ Mask the password entry by default.
 
 Using the right-most icon from the [form field anatomy](anatomy-of-form-field.md#right-most-icon), provide a toggle for unmasking/masking the password.
 
-<figure><img src="../.gitbook/assets/image (174).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/pw1.png" alt=""><figcaption></figcaption></figure>
 
 **Unmasked password**
 
-<figure><img src="../.gitbook/assets/image (175).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/pw2.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

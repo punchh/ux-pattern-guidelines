@@ -76,7 +76,7 @@ With multi-select, the populated view can get BIG. That’s potentially harmful 
 \
 As a workaround, consider [truncating](../reading-information/truncation-and-overflow.md) subsequent chips using the “+_n_ more" model.\
 \
-Refer to [Truncation and Overflow guidelines](https://www.figma.com/proto/J8CoHtuFZFFdlt6qFReNpM/UX-Pattern-Guidelines?page-id=26%3A2\&node-id=1814-11150\&viewport=-141%2C-875%2C0.32\&t=iFOsC3nhnHIq0MEQ-1\&scaling=scale-down\&content-scaling=fixed\&starting-point-node-id=26%3A38) for the authority on truncation handling.
+Refer to [Truncation and Overflow guidelines](../reading-information/truncation-and-overflow.md) for the authority on truncation handling.
 
 <figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 

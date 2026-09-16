@@ -46,7 +46,7 @@ Using cards also gives the user something tangible to "grab onto" while dragging
 
 #### Lists or tables
 
-<figure><img src="../.gitbook/assets/image (209).png" alt=""><figcaption><p>A list view where each item in the table is represented as a card rather than a traditional table with inflexible columns and cells.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/SCR-20260916-kaxy.png" alt=""><figcaption><p>A list view where each item in the table is represented as a card rather than a traditional table with inflexible columns and cells.</p></figcaption></figure>
 
 Cards can also be used to represent the items in the list (as opposed to classic table rows). Cards are better than traditional table rows and cells at supporting:
 

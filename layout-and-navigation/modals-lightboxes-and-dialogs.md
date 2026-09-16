@@ -56,7 +56,7 @@ Yes, though some situations are more appropriate than others.
 
 ✅ The 1st modal is nearly a full screen modal, and the 2nd modal much smaller
 
-<figure><img src="../.gitbook/assets/image (139).png" alt=""><figcaption><p>This example illustrates an appropriate use of modal over modal: A full-screen chatbot interface contains actions that invoke a smaller nested modal.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ava-chat.png" alt=""><figcaption><p>This example illustrates an appropriate use of modal over modal: A full-screen chatbot interface contains actions that invoke a smaller nested modal.</p></figcaption></figure>
 
 ***
 
