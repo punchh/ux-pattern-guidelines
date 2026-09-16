@@ -44,7 +44,7 @@ Once selected from the search menu, the menu closes, and the selection manifests
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="/broken/files/WVgtoR9KnfNj5sPOaP7q" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-placeholder-variables.md" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

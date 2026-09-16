@@ -118,7 +118,7 @@ After confirming to delete, the system should show an [acknowledgement prompt](.
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="/broken/files/RrIXZs4ycfdcUiLn6Arj" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-bulk-actions.md" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

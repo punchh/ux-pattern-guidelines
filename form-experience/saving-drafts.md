@@ -36,6 +36,6 @@ In a mutli-step form, understand that the Back and Next buttons also save a draf
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="/broken/files/oI5YsMTdTTbYBA6DTsJV" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-saving-drafts.md" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.

@@ -502,7 +502,7 @@ Recapping this and the previous related guidelines: Most of the time don’t eve
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="/broken/files/j12LpZUwaho6Vkl2Y3j8" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-grammar-voice-tone.md" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

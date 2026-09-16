@@ -156,7 +156,7 @@ Get users engaged in following your product by including a primary CTA button at
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="/broken/files/aVotcderBaAHBKEhBbIt" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-empty-states.md" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

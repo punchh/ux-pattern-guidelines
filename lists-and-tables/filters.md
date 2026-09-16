@@ -102,7 +102,7 @@ Now the behavior for this refinement is unambiguous.
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="/broken/files/12942vJhkPqHCY59c8Et" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-filters.md" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

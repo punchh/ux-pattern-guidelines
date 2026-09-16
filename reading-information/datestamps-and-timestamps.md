@@ -70,7 +70,7 @@ Relative timestamps (e.g., "2 hours ago") are most useful when the recency of co
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="/broken/files/0h1ABK2G8dLjSCxSkgRZ" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-datestamps.md" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

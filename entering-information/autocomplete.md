@@ -103,7 +103,7 @@ Search fields are cleared as soon as the search is fired - meaning the moment th
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="/broken/files/FmRe1miIceFJh6xRaf8h" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-autocomplete.md" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

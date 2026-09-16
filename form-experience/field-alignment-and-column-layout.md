@@ -45,7 +45,7 @@ The latter goes beyond logical connection: The value entered for zip code often 
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="/broken/files/nlfAfFhbmXjFFV2PMfyN" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-field-alignment.md" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

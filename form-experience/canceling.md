@@ -70,7 +70,7 @@ UX Collective, 2019
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="/broken/files/FA3uhE1txr89ExN90KIK" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-canceling.md" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

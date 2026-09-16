@@ -49,7 +49,7 @@ In a time field with selectable intervals, as the user types, pop the dropdown l
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="/broken/files/sVic04sVAGf2hCCh69Uu" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-time-fields.md" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

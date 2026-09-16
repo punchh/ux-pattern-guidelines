@@ -75,7 +75,7 @@ In short, skeleton loaders are really about managing user perception and anxiety
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="/broken/files/vOxGz8ev1aQLOt1BgYZy" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-skeleton-loaders.md" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

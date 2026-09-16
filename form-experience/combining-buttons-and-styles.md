@@ -36,7 +36,7 @@ Some highly specialized components - like a context menu or [multi-selection act
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="/broken/files/tujSd3cKoDmz90QCiYP0" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-combining-buttons.md" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

@@ -49,7 +49,7 @@ Place descriptions underneath each radio options (in the same pattern as we do f
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="/broken/files/4OZX4tkYoFp6PnHnzUc3" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-radio-button-fields.md" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

@@ -42,7 +42,7 @@ We do this for accessibility. Accomplished in the code via engineering markup.
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="/broken/files/Xamoz2MbQm91FhmWyue3" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-required-optional-fields.md" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

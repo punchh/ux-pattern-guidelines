@@ -100,7 +100,7 @@ When the user selects a file that doesn't meet the requirements, the system shou
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="/broken/files/gQ5Hk4yGqiQkbkYrs3bY" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-file-upload.md" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

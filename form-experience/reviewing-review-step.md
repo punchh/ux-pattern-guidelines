@@ -50,6 +50,6 @@ If the user chooses to jump to the next affected step, the navigation bar persis
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="/broken/files/xmOjO9ODQyOXMjGXnDBR" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-review-step.md" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.

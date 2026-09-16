@@ -54,7 +54,7 @@ The situations in your product that have so much latency (details below) will va
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="/broken/files/Hh235Awsf42z6lY8Gm4U" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-loading-dialogs.md" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

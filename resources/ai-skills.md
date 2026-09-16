@@ -88,131 +88,247 @@ Setup varies across Copilot configurations and team settings. If this path doesn
 
 Pick and choose which skills are relevant for your scope. Download as many or as few as are relevant.
 
-#### Layout and navigation
+### Layout and navigation <a href="#layout-and-navigation" id="layout-and-navigation"></a>
 
-{% file src="/broken/files/2pizy71dg4WhFGJVBMQv" %}
+#### Breadcrumbs <a href="#breadcrumbs" id="breadcrumbs"></a>
 
-{% file src="/broken/files/NMuN4sqg0yDsZQyvx87d" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-breadcrumbs.md" %}
 
-{% file src="/broken/files/Z9pHqEs4A9K3EV88FGpe" %}
+#### Button alignment <a href="#button-alignment" id="button-alignment"></a>
 
-{% file src="/broken/files/muKsA4W26Xte7wr8fQiB" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-button-alignment.md" %}
 
-{% file src="/broken/files/3bjmBNCJRI4ZplKCWBYp" %}
+#### Hover interactions <a href="#hover-interactions" id="hover-interactions"></a>
 
-{% file src="/broken/files/S1qNJ5bTeEfQkeFXFKxl" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-hover-interactions.md" %}
 
-{% file src="/broken/files/4zILgXpt6ABexkjOq0fM" %}
+#### Hyperlinks versus link buttons <a href="#hyperlinks-versus-link-buttons" id="hyperlinks-versus-link-buttons"></a>
 
-{% file src="/broken/files/AzLWFS38bPM8WsqQOVOh" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-hyperlinks-vs-link-buttons.md" %}
 
-#### Lists and tables
+#### Modals, lightboxes, and dialogs <a href="#modals-lightboxes-and-dialogs" id="modals-lightboxes-and-dialogs"></a>
 
-{% file src="/broken/files/RrIXZs4ycfdcUiLn6Arj" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-modals.md" %}
 
-{% file src="/broken/files/25DXRgSuec6hfoAaR1DM" %}
+#### Opening links in same vs new tab <a href="#opening-links-in-same-vs-new-tab" id="opening-links-in-same-vs-new-tab"></a>
 
-{% file src="/broken/files/aVotcderBaAHBKEhBbIt" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-link-tab-behavior.md" %}
 
-{% file src="/broken/files/12942vJhkPqHCY59c8Et" %}
+#### Tabs <a href="#tabs" id="tabs"></a>
 
-{% file src="/broken/files/gWLz58MFc1Jnj2EO0Ios" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-tabs.md" %}
 
-#### Reading information
+### Lists and tables <a href="#lists-and-tables" id="lists-and-tables"></a>
 
-{% file src="/broken/files/Etl9fBvJYGw2cUHkqjMf" %}
+#### Bulk actions <a href="#bulk-actions" id="bulk-actions"></a>
 
-{% file src="/broken/files/0h1ABK2G8dLjSCxSkgRZ" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-bulk-actions.md" %}
 
-{% file src="/broken/files/dIt8Q8L3l7NprtnNoigq" %}
+#### Column alignment <a href="#column-alignment" id="column-alignment"></a>
 
-{% file src="/broken/files/iCu4ohjYhNtjjWdjdgUQ" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-column-alignment.md" %}
 
-{% file src="/broken/files/j12LpZUwaho6Vkl2Y3j8" %}
+#### Empty states <a href="#empty-states" id="empty-states"></a>
 
-{% file src="/broken/files/0TbNtp466cBjavFaBLYf" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-empty-states.md" %}
 
-{% file src="/broken/files/iYbsJdLYW95PPmORwKn9" %}
+#### Filters <a href="#filters" id="filters"></a>
 
-{% file src="/broken/files/Hh235Awsf42z6lY8Gm4U" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-filters.md" %}
 
-{% file src="/broken/files/E3pjgtRDFJ5vmzlQXk4K" %}
+#### Tables <a href="#tables" id="tables"></a>
 
-{% file src="/broken/files/vOxGz8ev1aQLOt1BgYZy" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-tables.md" %}
 
-{% file src="/broken/files/ziCGZE0Kou1B3YLoDWsj" %}
+### Reading information <a href="#reading-information" id="reading-information"></a>
 
-{% file src="/broken/files/21qPgPhbOnlAYZOLnoTr" %}
+#### Accordions <a href="#accordions" id="accordions"></a>
 
-#### Form experience
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-accordions.md" %}
 
-{% file src="/broken/files/JxnNT7QKDKatnCMHT9nK" %}
+#### Cards <a href="#cards" id="cards"></a>
 
-{% file src="/broken/files/FA3uhE1txr89ExN90KIK" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-cards.md" %}
 
-{% file src="/broken/files/ljD7VTMKR8NiaAdJqmmN" %}
+#### Datestamps and timestamps <a href="#datestamps-and-timestamps" id="datestamps-and-timestamps"></a>
 
-{% file src="/broken/files/d1Dj4eFViE398rRNGMbD" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-datestamps.md" %}
 
-{% file src="/broken/files/tujSd3cKoDmz90QCiYP0" %}
+#### Descriptions versus tooltips <a href="#descriptions-versus-tooltips" id="descriptions-versus-tooltips"></a>
 
-{% file src="/broken/files/WFyCZSDRfEAvRatRTZ95" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-descriptions-vs-tooltips.md" %}
 
-{% file src="/broken/files/nlfAfFhbmXjFFV2PMfyN" %}
+#### Environmental errors <a href="#environmental-errors" id="environmental-errors"></a>
 
-{% file src="/broken/files/AA1v1UQXlFNhfv2NWztm" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-environmental-errors.md" %}
 
-{% file src="/broken/files/Xamoz2MbQm91FhmWyue3" %}
+#### Grammar, voice, and tone <a href="#grammar-voice-and-tone" id="grammar-voice-and-tone"></a>
 
-{% file src="/broken/files/xmOjO9ODQyOXMjGXnDBR" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-grammar-voice-tone.md" %}
 
-{% file src="/broken/files/oI5YsMTdTTbYBA6DTsJV" %}
+#### Information banners <a href="#information-banners" id="information-banners"></a>
 
-{% file src="/broken/files/hT9Xq0RHML26YoJBEeak" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-information-banners.md" %}
 
-{% file src="/broken/files/DQAJBdhPvi67EE9ISpeJ" %}
+#### Line lengths and text wrapping <a href="#line-lengths-and-text-wrapping" id="line-lengths-and-text-wrapping"></a>
 
-{% file src="/broken/files/so0una0vsJMQ0Ye6qPBh" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-line-lengths.md" %}
 
-#### Entering information
+#### Loading dialogs <a href="#loading-dialogs" id="loading-dialogs"></a>
 
-{% file src="/broken/files/BJ3L4NOPo2Qei0pVEZ42" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-loading-dialogs.md" %}
 
-{% file src="/broken/files/FmRe1miIceFJh6xRaf8h" %}
+#### Onboarding <a href="#onboarding" id="onboarding"></a>
 
-{% file src="/broken/files/OLKcYacxUeHJKb5AnHjK" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-onboarding.md" %}
 
-{% file src="/broken/files/KCnEQcb5IxIkZdjQZDih" %}
+#### Skeleton loaders <a href="#skeleton-loaders" id="skeleton-loaders"></a>
 
-{% file src="/broken/files/wFxWUGnaBozIkzHb64nW" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-skeleton-loaders.md" %}
 
-{% file src="/broken/files/BFHk2H7caqeOnqbGYEUO" %}
+#### Tooltips <a href="#tooltips" id="tooltips"></a>
 
-{% file src="/broken/files/385G4FLDt3uWwhodYlNz" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-tooltips.md" %}
 
-{% file src="/broken/files/w1f8QODoBMGRGz0dJ8Ka" %}
+#### Truncation and overflow <a href="#truncation-and-overflow" id="truncation-and-overflow"></a>
 
-{% file src="/broken/files/gQ5Hk4yGqiQkbkYrs3bY" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-truncation-and-overflow.md" %}
 
-{% file src="/broken/files/zf16wxNmoHsOZdPITnu9" %}
+### Form experience <a href="#form-experience" id="form-experience"></a>
 
-{% file src="/broken/files/f8LUy53lzSkDFjuHjrj0" %}
+#### Saving drafts <a href="#saving-drafts" id="saving-drafts"></a>
 
-{% file src="/broken/files/ix3IIwS6WDQyVoxmQv4X" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-saving-drafts.md" %}
 
-{% file src="/broken/files/FUGNjzLplpaSjBBXAvve" %}
+#### Autosaving <a href="#autosaving" id="autosaving"></a>
 
-{% file src="/broken/files/WVgtoR9KnfNj5sPOaP7q" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-autosaving.md" %}
 
-{% file src="/broken/files/4OZX4tkYoFp6PnHnzUc3" %}
+#### Canceling <a href="#canceling" id="canceling"></a>
 
-{% file src="/broken/files/I77BVHJ3T27yDWsMrDb1" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-canceling.md" %}
 
-{% file src="/broken/files/sVic04sVAGf2hCCh69Uu" %}
+#### Destructive actions and deleting <a href="#destructive-actions-and-deleting" id="destructive-actions-and-deleting"></a>
 
-{% file src="/broken/files/sCqtKgpqnSgDVbfP7Uh7" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-destructive-actions.md" %}
 
-{% file src="/broken/files/wuqRxkkfJ2blJl80NDhO" %}
+#### Disabled buttons <a href="#disabled-buttons" id="disabled-buttons"></a>
+
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-disabled-buttons.md" %}
+
+#### Combining buttons and styles <a href="#combining-buttons-and-styles" id="combining-buttons-and-styles"></a>
+
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-combining-buttons.md" %}
+
+#### Error validation <a href="#error-validation" id="error-validation"></a>
+
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-error-validation.md" %}
+
+#### Field alignment and column layout <a href="#field-alignment-and-column-layout" id="field-alignment-and-column-layout"></a>
+
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-field-alignment.md" %}
+
+#### Multi-step forms <a href="#multi-step-forms" id="multi-step-forms"></a>
+
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-multi-step-forms.md" %}
+
+#### Required versus optional fields <a href="#required-versus-optional-fields" id="required-versus-optional-fields"></a>
+
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-required-optional-fields.md" %}
+
+#### Reviewing / review step <a href="#reviewing-review-step" id="reviewing-review-step"></a>
+
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-review-step.md" %}
+
+#### Saving state on buttons <a href="#saving-state-on-buttons" id="saving-state-on-buttons"></a>
+
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-saving-state-buttons.md" %}
+
+#### Steppers <a href="#steppers" id="steppers"></a>
+
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-steppers.md" %}
+
+#### Success notification <a href="#success-notification" id="success-notification"></a>
+
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-success-notification.md" %}
+
+### Entering information <a href="#entering-information" id="entering-information"></a>
+
+#### Anatomy of form field <a href="#anatomy-of-form-field" id="anatomy-of-form-field"></a>
+
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-form-field-anatomy.md" %}
+
+#### Autocomplete <a href="#autocomplete" id="autocomplete"></a>
+
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-autocomplete.md" %}
+
+#### Button groups <a href="#button-groups" id="button-groups"></a>
+
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-button-groups.md" %}
+
+#### Checkbox fields <a href="#checkbox-fields" id="checkbox-fields"></a>
+
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-checkbox-fields.md" %}
+
+#### Combo box fields <a href="#combo-box-fields" id="combo-box-fields"></a>
+
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-combo-box.md" %}
+
+#### Conditional fields <a href="#conditional-fields" id="conditional-fields"></a>
+
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-conditional-fields.md" %}
+
+#### Date fields <a href="#date-fields" id="date-fields"></a>
+
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-date-fields.md" %}
+
+#### Dropdown lists <a href="#dropdown-lists" id="dropdown-lists"></a>
+
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-dropdown-lists.md" %}
+
+#### File upload <a href="#file-upload" id="file-upload"></a>
+
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-file-upload.md" %}
+
+#### Listbox fields <a href="#listbox-fields" id="listbox-fields"></a>
+
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-listbox-fields.md" %}
+
+#### Paragraph fields <a href="#paragraph-fields" id="paragraph-fields"></a>
+
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-paragraph-fields.md" %}
+
+#### Password fields and sign in <a href="#password-fields-and-sign-in" id="password-fields-and-sign-in"></a>
+
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-password-fields.md" %}
+
+#### Phone number fields <a href="#phone-number-fields" id="phone-number-fields"></a>
+
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-phone-number-fields.md" %}
+
+#### Placeholder variables <a href="#placeholder-variables" id="placeholder-variables"></a>
+
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-placeholder-variables.md" %}
+
+#### Radio button fields <a href="#radio-button-fields" id="radio-button-fields"></a>
+
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-radio-button-fields.md" %}
+
+#### Ranked list fields <a href="#ranked-list-fields" id="ranked-list-fields"></a>
+
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-ranked-list-fields.md" %}
+
+#### Time fields <a href="#time-fields" id="time-fields"></a>
+
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-time-fields.md" %}
+
+#### Time zone fields <a href="#time-zone-fields" id="time-zone-fields"></a>
+
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-time-zone-fields.md" %}
+
+#### Toggle switches <a href="#toggle-switches" id="toggle-switches"></a>
+
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-toggle-switches.md" %}
 
 ***
 

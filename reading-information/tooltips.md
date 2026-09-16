@@ -42,7 +42,7 @@ description: >-
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="/broken/files/ziCGZE0Kou1B3YLoDWsj" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-tooltips.md" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

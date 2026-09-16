@@ -74,7 +74,7 @@ The number of sample items - and the logic behind which items are sampled (e.g. 
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="/broken/files/21qPgPhbOnlAYZOLnoTr" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-truncation-and-overflow.md" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

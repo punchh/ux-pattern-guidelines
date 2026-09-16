@@ -76,7 +76,7 @@ The dropdown list surfaces a search-menu style dropdown, allowing the user to fi
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="/broken/files/FUGNjzLplpaSjBBXAvve" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-phone-number-fields.md" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

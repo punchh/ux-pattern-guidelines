@@ -253,7 +253,7 @@ Instead, the designer should be thoughtful when designing column widths, and hig
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="/broken/files/gWLz58MFc1Jnj2EO0Ios" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-tables.md" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

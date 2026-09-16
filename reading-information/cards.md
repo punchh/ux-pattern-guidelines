@@ -129,6 +129,6 @@ Cards are intended to facilitate large click areas with highly accessible target
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="/broken/files/Z9pHqEs4A9K3EV88FGpe" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-cards.md" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.

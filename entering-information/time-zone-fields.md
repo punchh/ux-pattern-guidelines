@@ -60,7 +60,7 @@ This helps distinguish linguistically similar time zone names (like the United S
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="/broken/files/sCqtKgpqnSgDVbfP7Uh7" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-time-zone-fields.md" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

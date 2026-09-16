@@ -54,7 +54,7 @@ Finish most multi-step forms with a review of information entered on previous st
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="/broken/files/AA1v1UQXlFNhfv2NWztm" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-multi-step-forms.md" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

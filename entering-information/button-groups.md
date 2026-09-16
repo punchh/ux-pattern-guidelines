@@ -41,6 +41,6 @@ Button groups, grouped buttons, and segmented control fields are all the same th
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="/broken/files/OLKcYacxUeHJKb5AnHjK" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-button-groups.md" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.

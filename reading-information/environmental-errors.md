@@ -91,7 +91,7 @@ For example, imagine building a marketing campaign where on step 1 the user sele
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="/broken/files/iCu4ohjYhNtjjWdjdgUQ" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-environmental-errors.md" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

@@ -84,7 +84,7 @@ When the entered date is not a valid calendar date at all, tell the user "Enter 
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="/broken/files/385G4FLDt3uWwhodYlNz" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-date-fields.md" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

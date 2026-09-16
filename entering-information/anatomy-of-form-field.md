@@ -80,7 +80,7 @@ Always bottom-aligned with respect to the input region. Learn more about [error 
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="/broken/files/BJ3L4NOPo2Qei0pVEZ42" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-form-field-anatomy.md" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

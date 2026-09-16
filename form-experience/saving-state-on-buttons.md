@@ -44,7 +44,7 @@ Even with a very low latency action, product, or network environment, show and p
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="/broken/files/hT9Xq0RHML26YoJBEeak" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-saving-state-buttons.md" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

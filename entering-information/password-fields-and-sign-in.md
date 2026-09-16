@@ -120,7 +120,7 @@ A stored password field doesn’t fire a sign-in attempt when the form it appear
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="/broken/files/ix3IIwS6WDQyVoxmQv4X" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-password-fields.md" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

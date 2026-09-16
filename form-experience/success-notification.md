@@ -43,7 +43,7 @@ New to WCAG 2.1, satisfying [Guideline 4.1.3](https://www.w3.org/TR/WCAG21/#stat
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="/broken/files/so0una0vsJMQ0Ye6qPBh" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-success-notification.md" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 
