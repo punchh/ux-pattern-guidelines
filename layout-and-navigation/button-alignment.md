@@ -94,7 +94,9 @@ Refer to [field anatomy guidelines](../entering-information/anatomy-of-form-fiel
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="/broken/files/2pizy71dg4WhFGJVBMQv" %}
+#### Use this guideline with AI tools
+
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-button-alignment.md" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

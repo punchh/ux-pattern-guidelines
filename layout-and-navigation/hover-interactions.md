@@ -40,7 +40,7 @@ description: >-
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="/broken/files/muKsA4W26Xte7wr8fQiB" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-hover-interactions.md" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

@@ -46,7 +46,7 @@ We should be thoughtful about designing a predictable but flexible experience fo
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="/broken/files/4zILgXpt6ABexkjOq0fM" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-link-tab-behavior.md" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 

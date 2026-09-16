@@ -170,7 +170,7 @@ Refer to [button alignment guidelines](button-alignment.md#multi-step-forms) for
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% file src="/broken/files/S1qNJ5bTeEfQkeFXFKxl" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-modals.md" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
 
