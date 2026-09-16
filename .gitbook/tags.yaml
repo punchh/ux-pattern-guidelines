@@ -10,3 +10,5 @@
 - tag: reading-information
   label: Reading information
   color: red
+- tag: architecture
+  label: Architecture

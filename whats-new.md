@@ -5,6 +5,12 @@ description: A changelog of updates to UX pattern guidelines
 # What's new
 
 {% updates format="full" %}
+{% update date="2026-09-16" tags="architecture" %}
+## Updated AI skill files
+
+Improved reliability, security, and cross-guideline discovery for AI agents using our skill files. Guideline content is unchanged.
+{% endupdate %}
+
 {% update date="2026-07-08" tags="lists-and-tables,navigation,entering-information,reading-information" %}
 ## Updated AI skills
 
@@ -66,6 +72,3 @@ Principal UX Designer
 PAR Engagement
 
 </details>
-
-
-
