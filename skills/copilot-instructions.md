@@ -18,7 +18,7 @@ For every task in this project:
 
 ## URL confirmation policy
 
-Before fetching any URL from a skill file for the first time in this session, tell the user which URL is about to be fetched and ask for confirmation. Phrase the announcement in plain language, for example: "I need to fetch the button alignment guideline from `https://partech.gitbook.io/ux-pattern-guidelines/button-alignment` to apply your team's standards. Proceed?"
+Before fetching any URL from a skill file for the first time in this session, tell the user which URL is about to be fetched and ask for confirmation. Phrase the announcement in plain language, for example: "I need to fetch the button alignment guideline from `https://raw.githubusercontent.com/punchh/ux-pattern-guidelines/main/layout-and-navigation/button-alignment.md` to apply your team's standards. Proceed?"
 
 If a single user prompt would trigger multiple URL fetches, consolidate them into one confirmation. List all URLs that would be fetched and their purposes, and ask the user to authorize all of them together.
 
