@@ -30,9 +30,14 @@ https://raw.githubusercontent.com/punchh/ux-pattern-guidelines/main/entering-inf
 
 ## Step 2 — Fetch linked guidelines (if relevant)
 
-If the fetched guideline page links to other guidelines that are relevant to the
-current task, fetch those pages too and apply them. Do not wait for the user to
-provide those URLs — follow the links automatically and silently as needed.
+If the fetched guideline page contains relative-path markdown links to other `.md` files (e.g. `tooltips.md`, `../entering-information/anatomy-of-form-field.md`), those are cross-references to other guidelines in the same repository. To follow them:
+
+1. Resolve each relative path against the base URL of the guideline you just fetched. Sibling links stay in the same directory; `../` links climb to the parent and descend into the specified category folder.
+2. Apply the URL confirmation policy to each resolved URL before fetching.
+3. If a link points to a fragment/anchor within the same page (e.g. `guideline-name.md#section`), do not re-fetch — it's a self-reference.
+4. If a link points to a file that returns a 404, note the gap in your response and proceed without that reference rather than stopping.
+
+Do not wait for the user to provide these URLs — follow the links automatically as needed, subject to confirmation.
 
 ---
 
