@@ -28,7 +28,7 @@ Accessed on hover through an icon just after the field label, a [tooltip](../rea
 
 <figure><img src="../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
 
-To signal needing to be filled to submit the form. Read more about r[equired field patterns](../form-experience/required-versus-optional-fields.md).
+To signal needing to be filled to submit the form. Read more about [required field patterns](../form-experience/required-versus-optional-fields.md).
 
 ### Input region
 
@@ -50,7 +50,9 @@ Conveys expected format or type of information. Always left aligned. Not all fie
 
 <figure><img src="../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
 
-Shows a sample input value, or the syntax/format
+Shows a sample input value, or the syntax/format.
+
+In the rare case of a field that doesn't have an accompanying label and description (like the [filter field at the top of a table ](../lists-and-tables/filters.md#unstructured-filters)or listing), it's okay to use the hint text for _how_ to fill out the field - typically reserved for the [Description](anatomy-of-form-field.md#description-text) element.
 
 ### Clear button
 

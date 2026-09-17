@@ -98,7 +98,7 @@ The text here can usually be pretty generic and still effective, so we suggest:
 
 **Text underneath main text:**
 
-> Try pairing down your filter
+> Try paring down your filter
 
 **Button**
 
@@ -114,7 +114,7 @@ To shortcut clearing any filters in one fell swoop, offer the user a button at t
 
 The feature isn’t available yet under any user controlled condition.
 
-The product team / organization hasn’t released it to anyone yet.  It can also be accompanied with a sneak peak of what’s to come. The design goal is to generate excitement and manage expectations.
+The product team / organization hasn’t released it to anyone yet.  It can also be accompanied with a sneak peek of what’s to come. The design goal is to generate excitement and manage expectations.
 
 You'll want to write these using words that are relevant to the content or business context for whatever feature you're working on, but as a casual example:
 

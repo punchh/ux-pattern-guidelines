@@ -12,11 +12,11 @@ description: How to present date and time information
 
 #### 12-hour time format 
 
-> Wed, Feb 5, 2023 at 4:42 PM
+> Wed, Feb 5, 2023 at 4:42 PM UTC
 
 #### 24-hour time format 
 
-> Wed, Feb 5, 2023 at 16:42
+> Wed, Feb 5, 2023 at 16:42 UTC
 
 ### Relative
 

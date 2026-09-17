@@ -57,4 +57,4 @@ U.S. Digital Service, 2025
 
 #### [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/#status-messages)
 
-W3C, 2028
+W3C, 2018

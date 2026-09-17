@@ -54,9 +54,15 @@ Possible exception: The user is looking at a list of mix content and needs to di
 
 ####
 
-**Use specific action verb phrases on buttons and links - especially destructive ones**
+**Use specific action verb phrases on buttons and links for destructive, irreversible, or financial actions**
 
-You'll mostly find these on buttons.
+For buttons that aren't any of those, you don't necessarily need to use a verb. Some examples:
+
+* Answers a question ("Yes", "Not yet")
+* Conventional nav state change or terminator ("Done", "Next", "Back", dismissals like "Got it")
+* Navigating to a choice among peers, like a content page or listing: ("Templates", "Plans", "Tiers")
+
+
 
 {% columns %}
 {% column %}
@@ -262,7 +268,7 @@ Even when a phrase is just a couple of words long, use sentence case. While Titl
 
 ***
 
-**...but use Title Case on proprietary brand features**
+**...but use Title Case on product features**
 
 Standalone marketing terms - like ‘campaign’ - don’t need to be capitalized by themselves unless preceded by an adjective that makes it a unique Punchh feature.  
 
@@ -308,7 +314,11 @@ Present perfect tense adds too many words, syllables, and strokes, and strays to
 
 Full stop. Don’t make users spend brain cycles on decoding acronyms, nor make them refer to a glossary to translate.  This goes back to the fundamental principle of speaking like a human, not a robot.
 
-The only exception is for file format extensions.
+Exceptions:
+
+* File format extensions
+* [Column headers in a table](../lists-and-tables/tables.md#header-row) (especially when the content in the cells below the header are particularly narrow anyway - like small numeric values. No sense in having a wide column just to fit a super wide unabbreviated text label when the values underneath are all a small handful of characters long)
+* Time zones when on a [date/time stamp](datestamps-and-timestamps.md) (and also used to accompany the abbreviated time zone name on a [time zone picker](../entering-information/time-zone-fields.md))
 
 {% columns %}
 {% column %}
@@ -450,6 +460,8 @@ Treat toasts like very short status messages: favor no period for single, brief 
 
 **Buttons, links, modal titles, page titles, subheadings: No punctuation**
 
+Exception: Buttons sometimes end in an ellipsis.
+
 {% columns %}
 {% column %}
 ✅ Yes, delete this store
@@ -480,7 +492,7 @@ Treat toasts like very short status messages: favor no period for single, brief 
 
 That would be a little too casual.  
 
-Recapping this and the previous related guidelines: Most of the time don’t ever use punctuation; okay to us a ‘?’ on confirmation prompts, and seldom use of a period on an Information Banner complete sentence is okay.
+Recapping this and the previous related guidelines: Most of the time don’t ever use punctuation; okay to use a ‘?’ on confirmation prompts, and seldom use of a period on an Information Banner complete sentence is okay.
 
 {% columns %}
 {% column %}
