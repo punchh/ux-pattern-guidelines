@@ -238,7 +238,7 @@ Understand that your design system may use typography on some elements that’s 
 
 ***
 
-**Use sentence case, even for subheadings, buttons, links, modal and page title**
+**Use sentence case - even for subheadings, buttons, links, modal and page titles**
 
 Even when a phrase is just a couple of words long, use sentence case. While Title Case creates the perception of symmetry and seriousness (nothing wrong with that), the PAR brand leans human and approachable.
 
@@ -268,25 +268,29 @@ Even when a phrase is just a couple of words long, use sentence case. While Titl
 
 ***
 
-**...but use Title Case on product features**
+**...but use Title Case for specific product features**
 
-Standalone marketing terms - like ‘campaign’ - don’t need to be capitalized by themselves unless preceded by an adjective that makes it a unique Punchh feature.  
+If your element is referring to the name of a product feature - particularly landing pages like Campaign Management or All Segments - use Title Case for the product feature portion of the text. These often appear in elements like nav, buttons, modal titles, and page titles.
 
-Check with a product manager to validate feature phrases that warrant Title Case designation.  
+However, if the feature is merely a create or edit variant of the main feature (like "Create campaign" or "Edit segment"), use sentence case for those.
 
-It’s also okay to use Title Case when designing a list of items where there’s a mix of proprietary phrases and generic phrases.
+Standalone mentions of generic content types - like ‘campaign’, 'segments', or 'guests' - don’t need to use title case by themselves unless preceded by an adjective for the purpose of referring to a marketed product feature.
 
 {% columns %}
 {% column %}
 ✅ Data Pipeline
 
 ✅ Smart Segments
+
+✅ Create campaign
 {% endcolumn %}
 
 {% column %}
 🚫 data pipeline
 
 🚫 Smart segments
+
+🚫 Create Campaign
 {% endcolumn %}
 {% endcolumns %}
 
