@@ -8,7 +8,7 @@ description: Giving users feedback about successful completion of a form or acti
 [**Get the AI skill**](success-notification.md#ai-skill-file) for this UX pattern guideline in a markdown (.MD) file.
 {% endhint %}
 
-After the user submits a form or completes and action, it's important for the system to let the user know whatever transaction they attempted was completed successfully.
+After the user [submits a form](editing-and-saving-forms.md) or completes and action, it's important for the system to let the user know whatever transaction they attempted was completed successfully.
 
 Our vehicle for this feedback is a success toast.
 

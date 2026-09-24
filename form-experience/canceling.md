@@ -42,7 +42,7 @@ Used to close the confirmation dialog, returning the user to the underlying form
 
 ### Usage
 
-✅ Offer a labeled **cancel action** whenever a user is in a create or edit experience (meaning the user is genuinely creating or modifying a record
+✅ Offer a labeled **cancel action** whenever a user is in a create or [edit experience](editing-and-saving-forms.md) (meaning the user is genuinely creating or modifying a record
 
 🚫 Don't offer cancel on a temporary state form like filters, filtering, or search
 

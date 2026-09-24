@@ -14,7 +14,7 @@ Use a single vertical column (a single, straight line path to completion) to max
 
 <figure><img src="../.gitbook/assets/image (133).png" alt=""><figcaption><p>A sample form page depicting all form field elements left aligned along a single column, straight down to the Save button. A reference pane - read-only display field information used to assist filling the form - is okay to be right-aligned next to the form fields.</p></figcaption></figure>
 
-✅ Align all form fields along the left edge, lining up perfectly with the Save button at the bottom of a single page form
+✅ Align all form fields along the left edge, lining up perfectly with the Save button at the bottom of a [single page form](editing-and-saving-forms.md)
 
 🚫 Don't be tempted to add more columns of fields to "fill in white space" or "balance the page" - this harms scannability and increases error rates
 

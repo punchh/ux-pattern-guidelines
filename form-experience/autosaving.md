@@ -18,7 +18,7 @@ Autosave triggers may include:
 
 <i class="fa-circle-x">:circle-x:</i> Closing a modal
 
-The other patterns we’ve established in these guidelines limit the opportunity to responsibly recommend autosaving, as our guidelines always call for the user to click or tap on a discrete Save button or action.
+The other patterns we’ve established in these guidelines limit the opportunity to responsibly recommend autosaving, as our guidelines always call for the user to click or tap on a discrete [Save button or action](editing-and-saving-forms.md).
 
 In the unlikely event we encounter autosave opportunity in our products, follow these rules:
 
@@ -28,7 +28,7 @@ In the unlikely event we encounter autosave opportunity in our products, follow 
 
 #### 🚫 Don’t mix autosave controls on the same page (or modal) as explicit save controls.
 
-That means no toggle switches (an autosave-only field type) on a form that also has checkboxes. A page should be either entirely manual save, or entirely autosave - never a mix of both.
+That means no toggle switches (an autosave-only field type) on a form that also has checkboxes. A page should be either entirely [manual save](editing-and-saving-forms.md), or entirely autosave - never a mix of both.
 
 #### 🚫 Don’t use autosave on any form containing checkboxes, radio buttons, or drop-down lists.
 

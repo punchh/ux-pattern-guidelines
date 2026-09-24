@@ -39,17 +39,18 @@
 
 ## Form experience
 
-* [Saving drafts](form-experience/saving-drafts.md)
 * [Autosaving](form-experience/autosaving.md)
 * [Canceling](form-experience/canceling.md)
 * [Destructive actions and deleting](form-experience/destructive-actions-and-deleting.md)
 * [Disabled buttons](form-experience/disabled-buttons.md)
 * [Combining buttons and styles](form-experience/combining-buttons-and-styles.md)
+* [Editing and saving forms](form-experience/editing-and-saving-forms.md)
 * [Error validation](form-experience/error-validation.md)
 * [Field alignment and column layout](form-experience/field-alignment-and-column-layout.md)
 * [Multi-step forms](form-experience/multi-step-forms.md)
 * [Required versus optional fields](form-experience/required-versus-optional-fields.md)
 * [Reviewing / review step](form-experience/reviewing-review-step.md)
+* [Saving drafts](form-experience/saving-drafts.md)
 * [Saving state on buttons](form-experience/saving-state-on-buttons.md)
 * [Steppers](form-experience/steppers.md)
 * [Success notification](form-experience/success-notification.md)

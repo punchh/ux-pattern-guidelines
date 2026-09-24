@@ -25,7 +25,7 @@ Exception: [Confirm password fields](../entering-information/password-fields-and
 
 #### Summary validation or form-level validation (do this)
 
-Gives the user feedback about any errors only when they attempt to submit the form.
+Gives the user feedback about any errors only when they attempt to [submit the form](editing-and-saving-forms.md).
 
 ### Experience
 
