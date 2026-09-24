@@ -5,6 +5,12 @@ description: A changelog of updates to UX pattern guidelines
 # What's new
 
 {% updates format="full" %}
+{% update date="2026-09-24" tags="form-experience" %}
+## New UX pattern: Editing and saving forms
+
+Also linked related pattern guidelines to it.
+{% endupdate %}
+
 {% update date="2026-09-16" tags="architecture" %}
 ## Updated AI skill files
 

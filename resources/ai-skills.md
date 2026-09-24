@@ -220,6 +220,10 @@ Pick and choose which skills are relevant for your scope. Download as many or as
 
 {% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-combining-buttons.md" %}
 
+#### Editing and saving forms <a href="#error-validation" id="error-validation"></a>
+
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-editing-and-saving-forms.md" %}
+
 #### Error validation <a href="#error-validation" id="error-validation"></a>
 
 {% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-error-validation.md" %}
