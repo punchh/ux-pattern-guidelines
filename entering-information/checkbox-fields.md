@@ -22,7 +22,7 @@ description: How and when to use the classic boolean form field control
 #### As a single-option confirmation field
 
 * When the user needs to acknowledge, approve, or turn on an individual option or feature (but DON’T disabled the button - see Buttons and links)
-* Always using a statement phrased in the positive ("Sign up" not "Don't subscribe me")
+* Always using a [declarative statement](../reading-information/grammar-voice-and-tone.md#punctuation) phrased in the positive ("Sign up" not "Don't subscribe me")
 
 <figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption><p>An individual checkbox field with other form field elements like a Tooltip and Description directly on the label</p></figcaption></figure>
 

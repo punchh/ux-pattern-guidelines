@@ -20,6 +20,7 @@
 * [Empty states](lists-and-tables/empty-states.md)
 * [Filters](lists-and-tables/filters.md)
 * [Tables](lists-and-tables/tables.md)
+* [Text lists](lists-and-tables/text-lists.md)
 
 ## Reading information
 

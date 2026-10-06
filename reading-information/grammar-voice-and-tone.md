@@ -26,7 +26,7 @@ You'll mostly find these on buttons.
 
 ***
 
-####
+
 
 **...but don’t use the word ‘My’ to prefix features or content**
 
@@ -52,7 +52,7 @@ Possible exception: The user is looking at a list of mix content and needs to di
 
 ***
 
-####
+
 
 **Use specific action verb phrases on buttons and links for destructive, irreversible, or financial actions**
 
@@ -75,6 +75,30 @@ For buttons that aren't any of those, you don't necessarily need to use a verb. 
 🚫 Proceed
 
 🚫 Submit
+{% endcolumn %}
+{% endcolumns %}
+
+***
+
+**Use American English spelling**
+
+No UK English here.
+
+{% columns %}
+{% column %}
+✅ Color
+
+✅ Center
+
+✅ Canceled
+{% endcolumn %}
+
+{% column %}
+🚫 Colour
+
+🚫 Centre
+
+🚫 Cancelled
 {% endcolumn %}
 {% endcolumns %}
 
@@ -392,11 +416,13 @@ Note that support documentation will differ - that's okay; different context.
 
 ## Punctuation
 
+### Periods
+
 [**Field Descriptions**](../entering-information/anatomy-of-form-field.md#description-text)**: No punctuation at the end pretty much all the time**
 
 Descriptions should be written short enough that you don’t need a period at the end. Most descriptions should be a short instructive phrase that’s not a complete sentence anyway. Even if a description is technically a complete sentence grammatically speaking, it should be written short enough that it doesn’t look “wrong” to omit the period. <br>
 
-In other words. if you find yourself writing a field description so long that it has you wondering whether it should have a period (or a line break, or how wrapping should work, etc.), that’s probably a good sign your description is too long anyway.
+In other words. if you find yourself writing a field description so long that it has you wondering whether it should have a period (or a line break, or how wrapping should work, etc.), that’s probably a good sign your description is too long.
 
 {% columns %}
 {% column %}
@@ -492,6 +518,72 @@ Exception: Buttons sometimes end in an ellipsis.
 
 ***
 
+**Body text: Use punctuation**
+
+We have fewer instances of genuine body text in our SaaS apps and product, but when we do, use full sentences, periods, and regular punctuation.
+
+{% columns %}
+{% column %}
+✅ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{% endcolumn %}
+
+{% column %}
+🚫 (don't neglect to use full sentences and punctuation in body text)
+{% endcolumn %}
+{% endcolumns %}
+
+***
+
+**Subtitles: Usually no punctuation**
+
+Usually found beneath a heading or subheading, subtitles have a bit more leeway for writing in long form compared to the "H" heading itself, but still strive to keep subtitles short, phrase-based, and omit the period. Once it becomes a full sentence though (in essence: has a verb), use a period.
+
+{% columns %}
+{% column %}
+✅&#x20;
+
+**Page title:**
+
+Line Item Selectors
+
+**Subtitle:**
+
+Filters for identifying menu items as they appear in your point-of-sale system
+{% endcolumn %}
+
+{% column %}
+🚫&#x20;
+
+**Page title:**
+
+Line Item Selectors
+
+**Subtitle:**
+
+Filters for identifying menu items as they appear in your point-of-sale system.
+{% endcolumn %}
+{% endcolumns %}
+
+***
+
+**Buttons, Navigation Menu Items, Dropdown menu values, Radio list values, other form field control values: Never use punctuation**
+
+Just the label, no punctuation.
+
+{% columns %}
+{% column %}
+✅ Launch campaign
+{% endcolumn %}
+
+{% column %}
+🚫 Launch campiagn.
+{% endcolumn %}
+{% endcolumns %}
+
+***
+
+### Exclamation points
+
 **Never use exclamatory punctuation**
 
 That would be a little too casual.  
@@ -510,7 +602,288 @@ Recapping this and the previous related guidelines: Most of the time don’t eve
 
 ***
 
-### AI skill file
+### Question marks
+
+**Use question marks only in specific contexts**
+
+One of the only elements suitable for using a question mark are [confirmation prompts in the modal window](../layout-and-navigation/modals-lightboxes-and-dialogs.md#confirmation-prompt) title.
+
+In some conversational form experiences (like a wizard where the user is guided to fill information 1 field at a time or so), it's okay to use a question mark as the field label.
+
+Don't use them on [checkbox fields](../entering-information/checkbox-fields.md#as-a-single-option-confirmation-field) nor [toggle switches](../entering-information/toggle-switches.md) (those should be phrased in the declarative).
+
+{% columns %}
+{% column %}
+✅&#x20;
+
+(on a confirmation prompt)
+
+Deactivate guest?
+
+✅&#x20;
+
+(in a wizard)
+
+What do you want to call this template?&#x20;
+{% endcolumn %}
+
+{% column %}
+🚫&#x20;
+
+(on an individual checkbox field)
+
+Allow coupon stacking?
+
+🚫&#x20;
+
+(on a checkbox field or toggle)
+
+Allow coupon stacking?
+{% endcolumn %}
+{% endcolumns %}
+
+***
+
+### Apostrophes
+
+Use apostrophes to represent omitted letters or numbers:
+
+* Omitted numbers (’40s)
+* Omitted letters (don’t, can’t, won’t)
+* Verb contractions (it’s, you’re, we’re)
+
+Use apostrophes to form possessives:
+
+* Singular nouns: add _’s_, even if they end in _s_ (client’s, bus’s)
+* Plural nouns that don’t end in s: add _’s_ (women’s, men’s)
+* Plural nouns that end in s: add an apostrophe (boxes’, customers’)
+
+Don’t use apostrophes to form possessive pronouns such as hers or his.
+
+To type an apostrophe, just use the apostrophe key on your keyboard next to your Enter key, like you always probably have. Some design software may convert it to a more-grammatically correct curly apostrophe, which is preferred, but if your software doesn't, it's not a deal breaker. Don't go revising designs for this.
+
+{% columns %}
+{% column %}
+✅ Client's store
+
+✅ Women's clothing
+
+✅ Customers' credit cards
+
+✅ ’
+{% endcolumn %}
+
+{% column %}
+🚫 Clients store
+
+🚫 Womens clothing
+
+🚫 Customers credit cards
+
+🚫'
+{% endcolumn %}
+{% endcolumns %}
+
+***
+
+### Colons
+
+Avoid using colons in sentences, but it's not a deal breaker if you do sometimes. If you need to use one, don’t capitalize the first word after the colon unless it’s a proper noun.
+
+Don't use colons to introduce radio buttons or checkboxes.
+
+Use colons to introduce a bulleted list in body text. Don't use it in a heading/subheading though.
+
+{% columns %}
+{% column %}
+✅&#x20;
+
+(in a subtitle)
+
+Group stores to easily manage configurations, settings or entities
+
+✅&#x20;
+
+(in a radio field)
+
+Order for
+
+* [ ] &#x20;Dine-in
+* [ ] Takeout
+* [ ] Delivery
+
+✅&#x20;
+
+(in body text)
+
+If you delete your account:
+
+* You will no longer be able to log in with your account
+* You will no longer be able to see receipts of all of your past orders
+* You will no longer be able to order delicious meals from our restaurants
+{% endcolumn %}
+
+{% column %}
+🚫&#x20;
+
+(in a subtitle)
+
+Group stores to easily manage: configurations, settings or entities
+
+🚫
+
+(in a radio field)
+
+Order for:
+
+* [ ] &#x20;Dine-in
+* [ ] Takeout
+* [ ] Delivery
+
+✅&#x20;
+
+(in body text)
+
+If you delete your account
+
+* you will no longer be able to log in with your account
+* you will no longer be able to see receipts of all of your past orders
+* you will no longer be able to order delicious meals from our restaurants
+{% endcolumn %}
+{% endcolumns %}
+
+***
+
+### Commas
+
+Use the Oxford comma (also known as the serial comma) in sentences. There should be a comma after every list of 3 or more items (unless you’re using a bulleted or numbered list).
+
+Don’t use commas to separate bulleted or numbered list items.
+
+{% columns %}
+{% column %}
+✅ Invite users, edit their details, and manage their store level access
+{% endcolumn %}
+
+{% column %}
+🚫 Invite users, edit their details and manage their store level access
+{% endcolumn %}
+{% endcolumns %}
+
+***
+
+### Ellipses
+
+The ellipses (...) can be used in several places throughout the interface.
+
+Use ellipses for:
+
+* Text [overflow](truncation-and-overflow.md) (if the space for the text is limited)
+* If there is more options behind actions in the menu
+
+Don’t use ellipses for:
+
+* Placeholder copy
+
+{% columns %}
+{% column %}
+✅ More filters... (where there configuration options that follow before actually executing the action)
+
+✅ Export... (where there configuration options that follow before actually executing the action)
+
+✅ Search by name (where there are no options or configuration that follow)
+
+
+{% endcolumn %}
+
+{% column %}
+🚫 More filters (where there configuration options that follow before actually executing the action)
+
+🚫 Export (where there configuration options that follow before actually executing the action)
+
+🚫 Search by name... (where there are no options or configuration that follow)
+{% endcolumn %}
+{% endcolumns %}
+
+***
+
+### En-dashes and em-dashes
+
+Don't use any kind of dash to join a range of numbers nor dates/times (see [date and timestamp guidelines](datestamps-and-timestamps.md#schedules-and-time-ranges) for more on this).
+
+{% columns %}
+{% column %}
+✅ 2020 to 2026
+{% endcolumn %}
+
+{% column %}
+🚫 2020-2026
+{% endcolumn %}
+{% endcolumns %}
+
+***
+
+Use a dash to indicate an abrupt or dramatic change in a sentence - like this. Technically the proper character to use for this is an em-dash ( — ) with a space on either side, but it's not terrible to use the dedicated en-dash key on our keyboard next to the 0 key.
+
+{% columns %}
+{% column %}
+✅ Choose your theme’s colors, typography, and pictures — all in one place.
+{% endcolumn %}
+
+{% column %}
+🚫 Choose your theme’s design—colors, typography, and pictures—all in one place.
+{% endcolumn %}
+{% endcolumns %}
+
+***
+
+### Hyphens
+
+Use hyphens to form a single idea from multiple words. When two or more words function together as a descriptor or adjective, we typically hyphenate those words if they precede the noun they describe but don't hyphenate if they come after the noun.
+
+{% columns %}
+{% column %}
+✅ Create and manage integrations for third-party ordering channels
+
+✅ Enable and manage configurations and controls for brand-specific white-label apps
+
+✅ Auto-assignment settings
+{% endcolumn %}
+
+{% column %}
+🚫 Create and manage integrations for third party ordering channels
+
+🚫 Enable and manage configurations and controls for brand specific white label apps
+
+🚫 Auto assignment settings
+{% endcolumn %}
+{% endcolumns %}
+
+Hyphenated compound words are the ones with a hyphen between the words. Over time, many hyphenated compounds become closed compounds — _teen-ager_ became _teenager_ for instance. Check a dictionary if you’re not sure whether to use a hyphen or not. Never use hyphens in the words "reorder” and "email.”
+
+Sometimes our long-running legacy products use a hypenless compound word that are an exception to the grammatical convention. For product and branding consistency, use the grammatically "incorrect" version. "Checkin" is a good example of this.
+
+{% columns %}
+{% column %}
+✅ Dine-in
+
+✅ e-commerice
+
+✅ Checkin (only because our product naming has established a counter convention)
+{% endcolumn %}
+
+{% column %}
+🚫 Dinein
+
+🚫 ecommerce
+
+🚫 Check-in (only because our product naming has established a counter convention)
+{% endcolumn %}
+{% endcolumns %}
+
+***
+
+## AI skill file
 
 {% hint style="info" %}
 **Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).
