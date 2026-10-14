@@ -4,6 +4,10 @@ description: Bulleted lists and numbered lists
 
 # Text lists
 
+{% hint style="success" icon="sparkles" %}
+[**Get the AI skill**](text-lists.md#ai-skill-file) for this UX pattern guideline in a markdown (.MD) file.
+{% endhint %}
+
 ### Bulleted lists
 
 Use a bulleted list when items are related but their order or priority doesn’t matter.
@@ -29,9 +33,9 @@ If you delete your account:
 
 Use a numbered list when item sequence or priority matters, such as step-by-step instructions.
 
-✅ Capitalize the first letter in the first word of each numbered item (sentence case)
+✅ **Capitalize the first letter** in the first word of each numbered item (sentence case)
 
-🚫 No commas at the end of any numbered item
+🚫 **No commas** at the end of any numbered item
 
 #### Example
 
@@ -43,5 +47,16 @@ How it works
 4. We’ll bring your order right out
 ```
 
+***
+
+### AI skill file
+
+{% hint style="info" %}
+**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).
+
+**Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
+{% endhint %}
 
 
+
+[Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.

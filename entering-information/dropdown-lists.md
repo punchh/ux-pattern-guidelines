@@ -21,6 +21,10 @@ description: >-
 * **Focus through items and scroll** the menu using the keyboard’s up and down arrows.
 * **Make a selection** using the Enter key (which also closes the menu and populates the field)
 
+### Capitalization and punctuation
+
+* Sentence case (except when the values are user-defined content; preserve the user's capitalization as they've titled each item)
+
 ### Usage
 
 * Useful with about 7-14 options to choose from, especially if the values are widely variable in length (for fewer options use a [radio button](radio-button-fields.md) or [button group](button-groups.md); for more options use a [combo box](combo-box-fields.md))

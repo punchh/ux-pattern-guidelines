@@ -4,11 +4,23 @@ description: How to present date and time information
 
 # Datestamps and timestamps
 
+
+
 {% hint style="success" icon="sparkles" %}
 [**Get the AI skill**](datestamps-and-timestamps.md#ai-skill-file) for this UX pattern guideline in a markdown (.MD) file.
 {% endhint %}
 
+✅ **Generally, use North American syntax** for dates: day of the week, month name, date number, year
+
+🚫 **Don't use ordinal numbers** like 1st, 2nd, 3rd
+
+✅ **When mentioning a date in a sentence or phrase** (like body copy, title, or information message), spell out the unabridged day of the week and month (Monday, January 8, 2027)
+
+✅ **Include the day of the week name only when contextually useful for the experience you're designing**. Sometimes it may be useful, and sometimes it may not.
+
 ### Absolute
+
+In a display field or data table (so a tactical UI element), we are in genuine datestamp territory and use the following format and syntax:
 
 #### 12-hour time format 
 

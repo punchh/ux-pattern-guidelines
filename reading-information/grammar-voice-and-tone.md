@@ -59,7 +59,7 @@ Possible exception: The user is looking at a list of mix content and needs to di
 For buttons that aren't any of those, you don't necessarily need to use a verb. Some examples:
 
 * Answers a question ("Yes", "Not yet")
-* Conventional nav state change or terminator ("Done", "Next", "Back", dismissals like "Got it")
+* Conventional nav state change or terminator ("Next", "Back", dismissals like "Got it")
 * Navigating to a choice among peers, like a content page or listing: ("Templates", "Plans", "Tiers")
 
 
@@ -234,6 +234,203 @@ Save the user the time of having to read an extra word, if for no other reason t
 
 ***
 
+## Word choice
+
+### Save versus done
+
+Use "Save" when a change is [committed to a database](../form-experience/editing-and-saving-forms.md) as a permanent record (even if it can be edited or deleted in the future). Don't use "Done".
+
+Save can also work on a modal form that launches in the midst of a larger underlying form (like when [building an array](../layout-and-navigation/modals-lightboxes-and-dialogs.md#multi-field-form)). Even though technically the database record isn't written to until the underlying form gets saved (a "deferred save"), the modal form contributes to the broader form, so that specific kind of modal uses the button label Save.
+
+### Apply versus done or save
+
+Use "Apply" for some temporary state change like a [filter](../lists-and-tables/filters.md), or some temporary change to a view.
+
+### Create versus add
+
+Use "Create" for starting to build a new major piece of content, often from a list page.
+
+Use "Add" for adding an item to an [array](../layout-and-navigation/modals-lightboxes-and-dialogs.md#multi-field-form), or some other set of multiples.
+
+### Edit versus manage
+
+Use “Edit” when you can change the input of a field (letters, numbers, properties).
+
+Use “Manage” when you can change selections and options, especially for organizing a list of options (like labels or tags for content). Pair this verb with a noun to make it clear what is being managed. For example: "Manage labels"
+
+### Delete versus remove
+
+Use “Delete” when the content will be permanently erased from the database.
+
+Use "Remove" if the content is eliminated from the current view or selection but still exists in the database.
+
+### View versus see
+
+Use "View” when for navigating to a specific page or section for more details, or to reveal more information. Use it on buttons, calls to action, and link text.
+
+{% columns %}
+{% column %}
+✅ View all guests
+
+✅ View details
+
+✅ View report
+{% endcolumn %}
+
+{% column %}
+🚫 See all guests
+
+🚫 See order
+
+🚫 See report
+{% endcolumn %}
+{% endcolumns %}
+
+Use "see" in very general conversational descriptions - usually not the first word of a sentence or label - when there's no specific call to action.
+
+{% columns %}
+{% column %}
+✅ Manage others see profile information
+{% endcolumn %}
+
+{% column %}
+🚫 Manage how others view profile information
+{% endcolumn %}
+{% endcolumns %}
+
+### Need versus must
+
+Use "need" for describing something that's required.
+
+Don't use "must".
+
+"Need" is more plain language conversational.
+
+{% columns %}
+{% column %}
+✅ File size needs to be less than 1 MB
+{% endcolumn %}
+
+{% column %}
+🚫 File size must be under 1 MB
+{% endcolumn %}
+{% endcolumns %}
+
+### Download versus export
+
+Use “Download” for actions that transfer data from our product into a format that can be used by other applications.
+
+Don't use "export" - it leans too technical whereas "download" is more conversational.
+
+{% columns %}
+{% column %}
+✅ Download as PNG
+
+✅ Download report
+{% endcolumn %}
+
+{% column %}
+🚫 Export as PNG
+
+🚫 Export report
+{% endcolumn %}
+{% endcolumns %}
+
+### Upload versus import
+
+Use “Upload” for actions that allow a user select a file on their device and upload it to our products.
+
+Use "Import" for bringing in a set of data from another product or database.
+
+{% columns %}
+{% column %}
+✅ Upload image
+
+✅ Import menu items from Point-of-Sale
+{% endcolumn %}
+
+{% column %}
+🚫 Import image
+
+🚫 Upload menu items from Point-of-Sale
+{% endcolumn %}
+{% endcolumns %}
+
+### Sign in versus Log in
+
+Use "Sign in" as the verb for authenticating.
+
+Don't use "Log in" as it leans more technical.
+
+{% columns %}
+{% column %}
+✅ Sign in
+{% endcolumn %}
+
+{% column %}
+🚫 Log in
+{% endcolumn %}
+{% endcolumns %}
+
+### Sign in versus sign-in
+
+Use "Sign in" as a verb.
+
+{% columns %}
+{% column %}
+✅ Sign in (as a call to action)
+{% endcolumn %}
+
+{% column %}
+🚫 Sign-in (as a call to action)
+{% endcolumn %}
+{% endcolumns %}
+
+Use "Sign-in" as a noun or adjective.
+
+{% columns %}
+{% column %}
+✅ You'll be able to set your preferences after sign-in
+
+✅ Reset your sign-in password
+{% endcolumn %}
+
+{% column %}
+🚫 You'll be able to set your preferences after sign in
+
+🚫 Reset your sign in password
+{% endcolumn %}
+{% endcolumns %}
+
+### Sign up versus Create account or Join
+
+Don't use "Sign up".
+
+* It's too linguistically similar to "Sign in", so it's especially conflicting to use on the same page
+* It's not specific enough and doesn't convey the benefits. Signing up for something has an effort and privacy cost, so use a more incentivized label
+
+Use "Create account" for a more administrative account creation experience.
+
+Use "Join \[program name or perk]" or "Get \[perks or benefits]" for loyalty or membership related accounts.
+
+{% columns %}
+{% column %}
+✅ Create account
+
+✅ Join rewards
+
+✅ Join ACME Loyalty
+
+✅ Start saving
+{% endcolumn %}
+
+{% column %}
+🚫 Sign up
+{% endcolumn %}
+{% endcolumns %}
+
+***
+
 ## Capitalization
 
 **Don’t use all caps (though typography styles may dictate otherwise)**
@@ -262,9 +459,11 @@ Understand that your design system may use typography on some elements that’s 
 
 ***
 
-**Use sentence case - even for subheadings, buttons, links, modal and page titles**
+**Use sentence case for subheadings, buttons, links, modal and page titles**
 
 Even when a phrase is just a couple of words long, use sentence case. While Title Case creates the perception of symmetry and seriousness (nothing wrong with that), the PAR brand leans human and approachable.
+
+Exceptions coming up next.
 
 {% columns %}
 {% column %}
@@ -292,13 +491,13 @@ Even when a phrase is just a couple of words long, use sentence case. While Titl
 
 ***
 
-**...but use Title Case for specific product features**
+**...but use Title Case on any of those when it's a marketable product feature**
 
 If your element is referring to the name of a product feature - particularly landing pages like Campaign Management or All Segments - use Title Case for the product feature portion of the text. These often appear in elements like nav, buttons, modal titles, and page titles.
 
 However, if the feature is merely a create or edit variant of the main feature (like "Create campaign" or "Edit segment"), use sentence case for those.
 
-Standalone mentions of generic content types - like ‘campaign’, 'segments', or 'guests' - don’t need to use title case by themselves unless preceded by an adjective for the purpose of referring to a marketed product feature.
+Standalone mentions of generic content types - like ‘campaign’, 'segments', or 'guests' - don’t need to use title case by themselves unless preceded by an adjective for the purpose of referring to a marketable product.
 
 {% columns %}
 {% column %}
@@ -320,7 +519,33 @@ Standalone mentions of generic content types - like ‘campaign’, 'segments', 
 
 ***
 
+**Also use Title Case for trademarked nouns, languages, countries, people, important universal documents, and standalone job titles**
+
+Job titles should be capitalized when they are not used in a sentence and whether before or after a person’s name.
+
+{% columns %}
+{% column %}
+✅ Apple Pay
+
+✅ Terms of Use
+
+✅ Senior Brand Manager
+{% endcolumn %}
+
+{% column %}
+🚫 Apple pay
+
+🚫 Terms of use
+
+🚫 Mr. Hanson is a senior brand manager.
+{% endcolumn %}
+{% endcolumns %}
+
+***
+
 ## Grammar and style
+
+### Tense
 
 **Use present tense, not present perfect tense (notably in success notifications)**
 
@@ -337,6 +562,8 @@ Present perfect tense adds too many words, syllables, and strokes, and strays to
 {% endcolumns %}
 
 ***
+
+### Abbreviations
 
 **Use full, unabbreviated words**
 
@@ -396,19 +623,65 @@ The full word “example” is least ambiguous. Abbreviations like “ex.” are
 
 ***
 
-**Use numerals instead of spelled words**
+### Contractions
 
-Numeric characters create fewer strokes and less cognitive load.
+**Use contractions when they'd likely be spoken in an informal American English conversation. Don't use contractions if it would sound awkward or unconventional for American English.**
 
-Note that support documentation will differ - that's okay; different context.
+Also avoid negative contractions like "can't" or "don't" as some users find them harder to read, or are high risk of being misread as the positive.
+
+"Should've", "could've", "would've", and "they've" are regarded as harder to read.
 
 {% columns %}
 {% column %}
-✅ You have 3 checkins
+✅ You'll have 5 minutes to use it
+
+✅ You got the offer but it’s not available here
+
+✅ You've reached the maximum number of points
+
+✅ We'll inform you when new ones are available
+
+✅ What's your name and phone number?
+
+✅ The cash amount can't be lower than the bill
+
+✅ What's the code?
+
+✅ We’d like to get to know you better
+
+✅ When enabled, users won’t be able to use one phone number with multiple accounts
+
+✅ This cannot be undone (negative contraction)
 {% endcolumn %}
 
 {% column %}
-🚫 You have three checkins
+🚫 This'll permanently delete the application
+
+🚫 Choose which chains and stores would've coupons enabled
+
+🚫 There're no applications added yet
+
+🚫 Only recipients who've the “Printer” alert type assigned are visible
+
+🚫 Your selected time was not available
+
+🚫 This can’t be undone (negative contraction)
+{% endcolumn %}
+{% endcolumns %}
+
+***
+
+**Only use an ampersand (&) when it's part of a proper noun like a brand name. Otherwise, spell out "and" instead.**
+
+In extreme outlier cases, user an ampersand instead of "and" in tight spaces for column headers after you've exhausted other solutions.
+
+{% columns %}
+{% column %}
+✅ Enable and manage your payment providers and methods
+{% endcolumn %}
+
+{% column %}
+🚫 Enable and manage your payment providers & methods
 {% endcolumn %}
 {% endcolumns %}
 
@@ -740,7 +1013,7 @@ Order for:
 * [ ] Takeout
 * [ ] Delivery
 
-✅&#x20;
+🚫&#x20;
 
 (in body text)
 
@@ -878,6 +1151,156 @@ Sometimes our long-running legacy products use a hypenless compound word that ar
 🚫 ecommerce
 
 🚫 Check-in (only because our product naming has established a counter convention)
+{% endcolumn %}
+{% endcolumns %}
+
+***
+
+## Numbers
+
+For numbers in dates and times, see [date and timestamp guidelines](datestamps-and-timestamps.md#schedules-and-time-ranges).
+
+### Spelled numbers versus numerals
+
+Use numerals. Don't spell out a number.
+
+Numeric characters create fewer strokes and less cognitive load.
+
+Note that support documentation will differ - that's okay; different context.
+
+{% columns %}
+{% column %}
+✅ 9
+
+✅ You have 3 checkins
+{% endcolumn %}
+
+{% column %}
+🚫 Nine
+
+🚫 You have three checkins
+{% endcolumn %}
+{% endcolumns %}
+
+### Long numbers and commas
+
+Use commas for numbers with four or more digits.&#x20;
+
+{% columns %}
+{% column %}
+✅ 1,000
+{% endcolumn %}
+
+{% column %}
+🚫 1000
+{% endcolumn %}
+{% endcolumns %}
+
+### Truncating numbers
+
+Don't truncate numbers EXCEPT if in a hero metric or table cells where all numbers in a data column use truncation.\
+\
+When truncating, since our products and customers are overwhelmingly Anglo-North American, use capital letter truncation (for example "K" for thousands or "M" for millions) with no space between the alphabetical character and the numeral.
+
+When a truncated number preserves precision such that a digit used a comma when unabbreviated, that comma becomes a decimal point when truncated (for example 1,200 becomes 1.2K, not 1,2K).
+
+Rounding rules will vary by the business context for the data and feature at play.
+
+{% hint style="warning" %}
+Understand that Franco-North American and many European locales use a different format and syntax (lowercase, space in between, commas), so consider when working with those markets.
+{% endhint %}
+
+
+
+{% columns %}
+{% column %}
+✅  (in a sentence) 1,200
+
+✅  (in a hero metric for an Anglo-North American user) 1.2K
+{% endcolumn %}
+
+{% column %}
+🚫 (in a sentence) 1K
+
+🚫 (in a hero metric for a United States user) 1,2 k
+{% endcolumn %}
+{% endcolumns %}
+
+***
+
+## Money and currency
+
+### Default currency
+
+By default, to align with the majority audience for our suite of products, use the dollar symbol to precede currency values (no space between the symbol and the numeral), with up to 2 digits of decimal value (the necessity of including decimals or cents will vary by business context for each feature you design).
+
+{% columns %}
+{% column %}
+✅  $12
+
+✅  $12.60
+{% endcolumn %}
+
+{% column %}
+🚫 12 $
+
+🚫 €12
+
+🚫 $12.594
+{% endcolumn %}
+{% endcolumns %}
+
+### Non-dollar currencies
+
+When designing for non-dollar currencies, like the Euro, use its syntax instead:
+
+* The Euro symbol _follows_ the numeric value
+* Euro values omit a comma when separating hundreds from thousands
+* Uses a comma _instead of a decimal_ when introducing decimal units.
+
+{% columns %}
+{% column %}
+✅  12,60 €
+
+✅  1569,99 €
+{% endcolumn %}
+
+{% column %}
+🚫 €12,60
+
+🚫 1,569.99 €
+
+🚫 1569.99 €
+{% endcolumn %}
+{% endcolumns %}
+
+***
+
+## Units of measurement
+
+Include a space between the number and the unit.
+
+Capitalization will vary by unit. Follow universal unit standards (English) - they're not all listed here.
+
+{% columns %}
+{% column %}
+✅  3.4 lb
+
+✅  2 kg
+
+✅  1 cm
+
+✅  11.875 × 3.375 × 13.625 cm
+{% endcolumn %}
+
+{% column %}
+🚫 3.4lb
+
+🚫 2kg
+
+🚫 1cm
+
+🚫 1.875 × 3.375 × 13.625cm
 {% endcolumn %}
 {% endcolumns %}
 

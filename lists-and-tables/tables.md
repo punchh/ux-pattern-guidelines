@@ -177,16 +177,16 @@ The sequence and composition of remaining data columns will vary by project cont
 
 <figure><img src="../.gitbook/assets/image (237).png" alt=""><figcaption><p>A data table with action menu for a row item opened</p></figcaption></figure>
 
-The right-most column is reserved for the action menu icon button. Often represented by a 3-dot overflow icon, clicking this region in each row invokes a context menu with any tasks or actions that can be performed on an individual item.
+The right-most column is reserved for the overflow button for accessing the [action menu](../layout-and-navigation/action-menus.md). Often represented by a 3-dot overflow icon, clicking this region in each row invokes an [action menu](../layout-and-navigation/action-menus.md) with any tasks or actions that can be performed on an individual item.
 
 Common examples might include but not limited to Edit, Delete, Archive, and Duplicate.
 
 {% hint style="warning" %}
-**Don't place specific action buttons directly on rows - use an overflow button and context menu**
+**Don't place specific action buttons directly on rows - use an overflow button and action menu**
 
 Including specific action buttons directly on every row of a table is visually redundant and competes with the user's ability to scan table data.
 
-Lean on a 3-dot overflow icon button and its context menu to house specific actions.
+Lean on a 3-dot overflow icon button and its action menu to house specific actions.
 {% endhint %}
 
 #### Empty states

@@ -1,5 +1,5 @@
 ---
-description: How to design for sign in, sign up, and password storage
+description: How to design for sign in, creating an account, and password storage
 ---
 
 # Password fields and sign in
@@ -11,6 +11,12 @@ description: How to design for sign in, sign up, and password storage
 ### During sign-in
 
 A sign-in password field captures credentials (a username and masked password) for a sign-in attempt - a one time event (not stored or saved).
+
+{% hint style="warning" %}
+**Use the correct word choice when labeling buttons and text related to sign-in**
+
+Sign in versus Sign-in. Create account versus Sign up. Read all about it in [Grammar, voice, and tone guidelines](../reading-information/grammar-voice-and-tone.md#sign-in-versus-log-in)
+{% endhint %}
 
 #### Blank state
 
@@ -50,7 +56,7 @@ Studies have shown simpler password rules actually boost security by reducing th
 
 With just 1 simple password rule, leverage conventional [form field elements](anatomy-of-form-field.md) for instructions: The [description text](anatomy-of-form-field.md#description-text).
 
-<figure><img src="../.gitbook/assets/image (176).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 #### With complex password requirements
 
@@ -74,11 +80,11 @@ Since requirements like these go beyond the scope of the [description text](anat
 
 🚫 Don’t position it to the side of the input field so that it remains mobile responsive friendly in a narrow viewport, following the single column rule
 
-<figure><img src="../.gitbook/assets/image (177).png" alt=""><figcaption><p>An account creation form with complex password requirements. On the left, the user hasn't attempted entering a password yet. On the right, the user has begun to enter a password and met some but not all requirements.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption><p>An account creation form with complex password requirements. On the left, the user hasn't attempted entering a password yet. On the right, the user has begun to enter a password and met some but not all requirements.</p></figcaption></figure>
 
 When there’s a form submission error related to meeting the password requirements, use conventional error validation styles and elements - don’t use the rules region to signal errors. That space is reserved for positivity and progress - not error feedback.
 
-<figure><img src="../.gitbook/assets/image (178).png" alt=""><figcaption><p>In this example, the user has attempted to submit the form, but not all password requirements have been met.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption><p>In this example, the user has attempted to submit the form, but not all password requirements have been met.</p></figcaption></figure>
 
 #### Confirm password field
 
