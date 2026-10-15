@@ -34,13 +34,13 @@ Users of our products have been shown in studies to be able to locate action men
 
 Like regular buttons that persist on a page, action menu items should:
 
-✅ Follow a verb + noun pattern (and ideally just the verb alone)
+✅ [Follow a verb](../reading-information/grammar-voice-and-tone.md#voice) + noun pattern (and ideally just the verb alone)
 
-✅ Be plain-language and specific about what the action is does
+✅ Be [plain-language and specific](../reading-information/grammar-voice-and-tone.md#voice) about what the action is does
 
-✅ Use Sentence case
+✅ Use [Sentence case](../reading-information/grammar-voice-and-tone.md#capitalization)
 
-✅ End in an ellipsis if there are more things to configure or define in a subsequent screen before the action actually gets executed
+✅ End in an [ellipsis](../reading-information/grammar-voice-and-tone.md#ellipses) if there are more things to configure or define in a subsequent screen before the action actually gets executed
 
 ✅ Have a leading icon to visually reinforce the action
 

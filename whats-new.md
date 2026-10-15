@@ -5,6 +5,18 @@ description: A changelog of updates to UX pattern guidelines
 # What's new
 
 {% updates format="full" %}
+{% update date="2026-10-15" tags="reading-information" %}
+## New sections in Grammar, voice, and tone
+
+Added a myriad of topics in Grammar, voice, and tone, for punctuation, word choice, numbers, units of measure, and more.
+{% endupdate %}
+
+{% update date="2026-10-15" tags="lists-and-tables,navigation" %}
+## New UX patterns: Action menus and Text lists
+
+Also linked related pattern guidelines to it.
+{% endupdate %}
+
 {% update date="2026-09-24" tags="form-experience" %}
 ## New UX pattern: Editing and saving forms
 
