@@ -49,7 +49,7 @@ Do not wait for the user to provide these URLs — follow the links automaticall
 | **Implement a tooltip** | Apply the fetched trigger, content, positioning, and visual rules. |
 | **Write tooltip content** | Write content that follows the fetched guidelines for what tooltips are and aren't for. If content belongs in a description instead, say so. |
 | **Review an existing tooltip** | Evaluate trigger behavior, content, positioning, and visual treatment against the fetched guidelines. Flag violations and suggest corrections. |
-| **Explain the guidelines** | Summarise the tooltip rules in plain language with examples. |
+| **Explain the guidelines** | Summarize the tooltip rules in plain language with examples. |
 
 ---
 
@@ -82,4 +82,4 @@ Do not wait for the user to provide these URLs — follow the links automaticall
 - Always cite the source: _"Per the [Tooltips Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/reading-information/tooltips)…"_
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
-- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labelled as such.
+- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labeled as such.

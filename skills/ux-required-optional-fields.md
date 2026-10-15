@@ -48,7 +48,7 @@ Do not wait for the user to provide these URLs — follow the links automaticall
 |---|---|
 | **Implement required field indicators** | Apply the fetched asterisk, color, instruction, and accessibility rules. |
 | **Review existing required field treatment** | Evaluate against the fetched guidelines. Flag violations and suggest corrections. |
-| **Explain the guidelines** | Summarise the required field rules in plain language. |
+| **Explain the guidelines** | Summarize the required field rules in plain language. |
 
 ---
 
@@ -72,4 +72,4 @@ Do not wait for the user to provide these URLs — follow the links automaticall
 - Always cite the source: _"Per the [Required vs Optional Fields Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/form-experience/required-versus-optional-fields)…"_
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
-- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labelled as such.
+- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labeled as such.

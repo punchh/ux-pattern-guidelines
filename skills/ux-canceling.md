@@ -59,7 +59,7 @@ If the context is ambiguous, ask one clarifying question before proceeding.
 | **Implement cancel behavior** | Apply the fetched dialog anatomy and copy defaults. |
 | **Write cancel dialog copy** | Write copy per the fetched anatomy and copy guidelines. |
 | **Review existing cancel behavior** | Evaluate against the fetched guidelines. Flag violations and suggest corrections. |
-| **Explain the guidelines** | Summarise the cancel rules in plain language with examples. |
+| **Explain the guidelines** | Summarize the cancel rules in plain language with examples. |
 
 ---
 
@@ -86,4 +86,4 @@ If the context is ambiguous, ask one clarifying question before proceeding.
 - Always cite the source: _"Per the [Canceling Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/form-experience/canceling)…"_
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
-- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labelled as such.
+- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labeled as such.

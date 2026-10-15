@@ -48,7 +48,7 @@ Do not wait for the user to provide these URLs — follow the links automaticall
 | **Lay out a form** | Apply the fetched single-column and left-alignment rules. Push back on multi-column requests per the guidelines. |
 | **Review an existing form layout** | Evaluate column structure and field alignment against the fetched guidelines. Flag violations and suggest corrections. |
 | **Advise on layout decisions** | Answer questions about column count, white space, and reference panes from the fetched guidelines. |
-| **Explain the guidelines** | Summarise the layout rules in plain language with examples. |
+| **Explain the guidelines** | Summarize the layout rules in plain language with examples. |
 
 ---
 
@@ -73,4 +73,4 @@ Do not wait for the user to provide these URLs — follow the links automaticall
 - Always cite the source: _"Per the [Field Alignment Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/form-experience/field-alignment-and-column-layout)…"_
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
-- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labelled as such.
+- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labeled as such.

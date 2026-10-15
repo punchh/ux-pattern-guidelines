@@ -49,7 +49,7 @@ Do not wait for the user to provide these URLs — follow the links automaticall
 | **Decide same vs new tab** | Evaluate the destination context against the fetched guidelines to determine the correct behavior. |
 | **Implement a link or button** | Apply the fetched tab behavior and iconography rules. |
 | **Review existing link behavior** | Evaluate against the fetched guidelines. Flag violations and suggest corrections. |
-| **Explain the guidelines** | Summarise the rules in plain language with examples. |
+| **Explain the guidelines** | Summarize the rules in plain language with examples. |
 
 ---
 
@@ -81,4 +81,4 @@ Do not wait for the user to provide these URLs — follow the links automaticall
 - Always cite the source: _"Per the [Link Tab Behavior Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/layout-and-navigation/opening-links-in-same-vs-new-tab)…"_
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
-- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labelled as such.
+- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labeled as such.

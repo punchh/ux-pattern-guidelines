@@ -49,7 +49,7 @@ Do not wait for the user to provide these URLs — follow the links automaticall
 | **Implement a success toast** | Apply the fetched fade, persistence, stacking, positioning, and accessibility rules. |
 | **Review an existing success toast** | Evaluate timing, stacking, and accessibility against the fetched guidelines. Flag violations and suggest corrections. |
 | **Write success toast copy** | Apply the fetched copy guidelines, or refer to the `ux-grammar-voice-tone` skill for tone guidance. |
-| **Explain the guidelines** | Summarise the success notification rules in plain language. |
+| **Explain the guidelines** | Summarize the success notification rules in plain language. |
 
 ---
 
@@ -76,4 +76,4 @@ Do not wait for the user to provide these URLs — follow the links automaticall
 - Always cite the source: _"Per the [Success Notification Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/form-experience/success-notification)…"_
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
-- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labelled as such.
+- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labeled as such.

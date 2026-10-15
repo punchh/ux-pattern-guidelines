@@ -48,7 +48,7 @@ Do not wait for the user to provide these URLs — follow the links automaticall
 | **Decide whether to use tabs** | Evaluate the use case against the fetched "use tabs when" and "don't use tabs when" criteria. |
 | **Generate a tab prototype** | Build the tab layout following the fetched guidelines for alignment, viewport behavior, nesting, and content placement. |
 | **Review an existing tab layout** | Evaluate against the fetched guidelines. Flag violations and suggest corrections. |
-| **Explain the guidelines** | Summarise the relevant principles in plain language with examples. |
+| **Explain the guidelines** | Summarize the relevant principles in plain language with examples. |
 
 ---
 
@@ -80,4 +80,4 @@ Do not wait for the user to provide these URLs — follow the links automaticall
 - Always cite the source: _"Per the [Tabs Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/layout-and-navigation/tabs)…"_
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
-- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labelled as such.
+- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labeled as such.

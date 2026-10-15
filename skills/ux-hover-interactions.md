@@ -48,7 +48,7 @@ Do not wait for the user to provide these URLs — follow the links automaticall
 | **Implement hover behavior** | Apply the fetched timing, affordance, hover zone, and persistence rules to the implementation. |
 | **Review existing hover behavior** | Evaluate against the fetched guidelines. Flag violations and suggest corrections. |
 | **Advise on hover behavior** | Answer questions about timing, zone scope, or affordance rules directly from the fetched guidelines. |
-| **Explain the guidelines** | Summarise the relevant principles in plain language with examples. |
+| **Explain the guidelines** | Summarize the relevant principles in plain language with examples. |
 
 ---
 
@@ -80,4 +80,4 @@ Do not wait for the user to provide these URLs — follow the links automaticall
 - Always cite the source: _"Per the [Hover Interaction Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/layout-and-navigation/hover-interactions)…"_
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
-- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labelled as such.
+- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labeled as such.

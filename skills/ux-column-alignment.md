@@ -49,7 +49,7 @@ Do not wait for the user to provide these URLs — follow the links automaticall
 | **Determine alignment for a column** | Identify the data type and apply the correct horizontal alignment per the fetched guidelines. |
 | **Generate a table prototype** | Build the table with correct horizontal and vertical alignment for all columns per the fetched guidelines. |
 | **Review an existing table** | Evaluate column alignment against the fetched guidelines. Flag violations and suggest corrections. |
-| **Explain the guidelines** | Summarise the alignment rules in plain language with examples. |
+| **Explain the guidelines** | Summarize the alignment rules in plain language with examples. |
 
 ---
 
@@ -82,4 +82,4 @@ Do not wait for the user to provide these URLs — follow the links automaticall
 - Always cite the source: _"Per the [Column Alignment Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/lists-and-tables/column-alignment)…"_
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
-- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labelled as such.
+- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labeled as such.

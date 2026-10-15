@@ -49,7 +49,7 @@ Do not wait for the user to provide these URLs — follow the links automaticall
 | **Implement a file upload** | Apply the fetched anatomy, files region feedback, progress, and error handling rules. |
 | **Review a file upload** | Evaluate anatomy, feedback, and error handling against the fetched guidelines. Flag violations and suggest corrections. |
 | **Advise on error handling** | Apply the fetched rules for connection errors vs file violations. |
-| **Explain the guidelines** | Summarise the file upload rules in plain language. |
+| **Explain the guidelines** | Summarize the file upload rules in plain language. |
 
 ---
 
@@ -74,4 +74,4 @@ Do not wait for the user to provide these URLs — follow the links automaticall
 - Always cite the source: _"Per the [File Upload Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/entering-information/file-upload)…"_
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
-- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labelled as such.
+- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labeled as such.

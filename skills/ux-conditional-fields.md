@@ -49,7 +49,7 @@ Do not wait for the user to provide these URLs — follow the links automaticall
 | **Implement conditional fields** | Apply the fetched placement, indentation, value preservation, and show/hide rules. |
 | **Review existing conditional fields** | Evaluate placement, indentation, and behavior against the fetched guidelines. Flag violations and suggest corrections. |
 | **Advise on hide vs disable** | Answer directly from the fetched guidelines — this is a clear, unambiguous rule. |
-| **Explain the guidelines** | Summarise the conditional field rules in plain language. |
+| **Explain the guidelines** | Summarize the conditional field rules in plain language. |
 
 ---
 
@@ -74,4 +74,4 @@ Do not wait for the user to provide these URLs — follow the links automaticall
 - Always cite the source: _"Per the [Conditional Fields Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/entering-information/conditional-fields)…"_
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
-- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labelled as such.
+- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labeled as such.

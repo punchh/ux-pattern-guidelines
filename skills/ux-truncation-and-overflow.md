@@ -57,7 +57,7 @@ reviewing anything. If ambiguous, ask one clarifying question before proceeding.
 |---|---|
 | **Implement truncation or overflow** | Apply the fetched rules for the identified context, including ellipsis style, position, overflow labeling, hover reveal, and accessibility. |
 | **Review existing truncation behavior** | Evaluate against the fetched guidelines for the identified context. Flag violations and suggest corrections. |
-| **Explain the guidelines** | Summarise the truncation rules in plain language with examples for each context. |
+| **Explain the guidelines** | Summarize the truncation rules in plain language with examples for each context. |
 
 ---
 
@@ -85,4 +85,4 @@ reviewing anything. If ambiguous, ask one clarifying question before proceeding.
 - Always cite the source: _"Per the [Truncation and Overflow Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/reading-information/truncation-and-overflow)…"_
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
-- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labelled as such.
+- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labeled as such.

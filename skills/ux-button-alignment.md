@@ -51,7 +51,7 @@ Determine which of the following is needed:
 | **Generate a prototype** | Build the UI following the fetched guidelines. Call out which alignment rules shaped the layout. |
 | **Review / audit a design** | Evaluate the provided design or description against the fetched guidelines. Flag specific violations and explain why. |
 | **Check button placement** | Run a focused pass on button position, grouping, and alignment relative to the guidelines. |
-| **Explain the guidelines** | Summarise the relevant principles in plain language, with examples where helpful. |
+| **Explain the guidelines** | Summarize the relevant principles in plain language, with examples where helpful. |
 
 ---
 
@@ -85,4 +85,4 @@ Determine which of the following is needed:
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
 - If the request falls outside the scope of the guidelines, say so and offer your
-  best general UX judgment as a fallback — clearly labelled as such.
+  best general UX judgment as a fallback — clearly labeled as such.

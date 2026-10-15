@@ -49,7 +49,7 @@ Do not wait for the user to provide these URLs — follow the links automaticall
 | **Implement form validation** | Apply the fetched rules for validation timing, submit button behavior, toast usage, and field-level error display. |
 | **Review existing validation** | Evaluate validation type, error display, and button behavior against the fetched guidelines. Flag violations and suggest corrections. |
 | **Advise on validation approach** | Answer questions about inline vs summary validation, toast thresholds, and button animation from the fetched guidelines. |
-| **Explain the guidelines** | Summarise the validation rules in plain language with examples. |
+| **Explain the guidelines** | Summarize the validation rules in plain language with examples. |
 
 ---
 
@@ -77,4 +77,4 @@ Do not wait for the user to provide these URLs — follow the links automaticall
 - Always cite the source: _"Per the [Error Validation Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/form-experience/error-validation)…"_
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
-- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labelled as such.
+- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labeled as such.

@@ -49,7 +49,7 @@ Do not wait for the user to provide these URLs — follow the links automaticall
 | **Implement draft saving** | Apply the fetched rules for save and close surfacing, navigation button behavior, and success feedback. |
 | **Review existing draft saving behavior** | Evaluate against the fetched guidelines. Flag violations and suggest corrections. |
 | **Advise on draft saving decisions** | Answer questions about when save and close should appear and how navigation buttons relate to draft saving. |
-| **Explain the guidelines** | Summarise the draft saving rules in plain language. |
+| **Explain the guidelines** | Summarize the draft saving rules in plain language. |
 
 ---
 
@@ -73,4 +73,4 @@ Do not wait for the user to provide these URLs — follow the links automaticall
 - Always cite the source: _"Per the [Saving Drafts Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/form-experience/saving-drafts)…"_
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
-- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labelled as such.
+- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labeled as such.

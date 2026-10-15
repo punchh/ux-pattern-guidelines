@@ -66,7 +66,7 @@ guidelines.
 | **Design or prototype a multi-step form** | Apply the fetched guidelines for field count, navigation bar, stepper, draft saving, and review step. |
 | **Review an existing multi-step form** | Evaluate structure and behavior against the fetched guidelines. Flag violations and suggest corrections. |
 | **Advise on multi-step form decisions** | Answer questions about step structure, navigation behavior, and supporting patterns from the fetched guidelines. |
-| **Explain the guidelines** | Summarise the multi-step form rules in plain language with examples. |
+| **Explain the guidelines** | Summarize the multi-step form rules in plain language with examples. |
 
 ---
 
@@ -90,4 +90,4 @@ guidelines.
 - Always cite the source: _"Per the [Multi-Step Forms Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/form-experience/multi-step-forms)…"_
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
-- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labelled as such.
+- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labeled as such.

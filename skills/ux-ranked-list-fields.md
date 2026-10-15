@@ -68,7 +68,7 @@ before proceeding.
 | **Implement a ranked list field** | Apply the fetched anatomy, drag-and-drop, context menu, and keyboard interaction rules. |
 | **Review an existing ranking field** | Evaluate anatomy, interactivity, and accessibility against the fetched guidelines. Flag violations and suggest corrections. |
 | **Advise on accessibility compliance** | Apply the fetched WCAG 2.5.7 single-pointer alternative rule. |
-| **Explain the guidelines** | Summarise the ranked list field rules in plain language. |
+| **Explain the guidelines** | Summarize the ranked list field rules in plain language. |
 
 ---
 
@@ -104,4 +104,4 @@ before proceeding.
 - Always cite the source: _"Per the [Ranked List Field Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/entering-information/ranked-list-fields)…"_
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
-- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labelled as such.
+- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labeled as such.

@@ -56,7 +56,7 @@ If the situation is ambiguous, ask one clarifying question before proceeding.
 | **Decide whether to use a banner** | Evaluate the use case against the fetched usage guidelines. |
 | **Generate a banner prototype** | Build the banner using the correct variant, placement, and scope per the fetched guidelines. |
 | **Review an existing banner** | Evaluate variant choice, placement, and scope against the fetched guidelines. Flag violations and suggest corrections. |
-| **Explain the guidelines** | Summarise the variants, placement rules, and usage principles in plain language with examples. |
+| **Explain the guidelines** | Summarize the variants, placement rules, and usage principles in plain language with examples. |
 
 ---
 
@@ -88,4 +88,4 @@ If the situation is ambiguous, ask one clarifying question before proceeding.
 - Always cite the source: _"Per the [Information Banners Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/reading-information/information-banners)…"_
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
-- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labelled as such.
+- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labeled as such.

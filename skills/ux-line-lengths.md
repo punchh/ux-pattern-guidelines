@@ -57,7 +57,7 @@ question before proceeding.
 | **Determine line length for a context** | Apply the fetched guidelines for the identified container type. |
 | **Implement text layout** | Apply the correct wrapping behavior per the fetched guidelines for the container context. |
 | **Review existing text layout** | Evaluate line lengths against the fetched guidelines. Flag violations and suggest corrections. |
-| **Explain the guidelines** | Summarise the wrapping rules and exceptions in plain language with examples. |
+| **Explain the guidelines** | Summarize the wrapping rules and exceptions in plain language with examples. |
 
 ---
 
@@ -89,4 +89,4 @@ question before proceeding.
 - Always cite the source: _"Per the [Line Lengths and Text Wrapping Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/reading-information/line-lengths-and-text-wrapping)…"_
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
-- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labelled as such.
+- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labeled as such.

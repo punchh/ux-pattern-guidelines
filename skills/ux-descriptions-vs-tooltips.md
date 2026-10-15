@@ -58,7 +58,7 @@ If the situation is ambiguous, ask one clarifying question before proceeding.
 | **Decide description vs tooltip** | Apply the fetched decision guide to determine the correct pattern. |
 | **Write description or tooltip copy** | Write copy appropriate to the classified pattern, following the fetched guidelines for length and tone. |
 | **Review existing field copy** | Evaluate whether the pattern and copy length match the fetched guidelines. Flag misclassifications and suggest corrections. |
-| **Explain the guidelines** | Summarise the distinction in plain language with examples. |
+| **Explain the guidelines** | Summarize the distinction in plain language with examples. |
 
 ---
 
@@ -88,4 +88,4 @@ If the situation is ambiguous, ask one clarifying question before proceeding.
 - Always cite the source: _"Per the [Descriptions vs Tooltips Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/reading-information/descriptions-versus-tooltips)…"_
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
-- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labelled as such.
+- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labeled as such.

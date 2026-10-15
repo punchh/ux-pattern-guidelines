@@ -51,7 +51,7 @@ Do not wait for the user to provide these URLs — follow the links automaticall
 | **Distinguish filtering from search** | Clarify the distinction per the fetched guidelines — filtering narrows visible items, search queries a broader dataset. |
 | **Implement multi-value filter logic** | Apply the fetched "All / Any" button group pattern for ambiguous multi-select filters. |
 | **Review existing filter behavior** | Evaluate hierarchy, layout, chip display, and multi-value logic against the fetched guidelines. Flag violations and suggest corrections. |
-| **Explain the guidelines** | Summarise the filter rules in plain language with examples. |
+| **Explain the guidelines** | Summarize the filter rules in plain language with examples. |
 
 ---
 
@@ -83,4 +83,4 @@ Do not wait for the user to provide these URLs — follow the links automaticall
 - Always cite the source: _"Per the [Filter Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/lists-and-tables/filters)…"_
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
-- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labelled as such.
+- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labeled as such.

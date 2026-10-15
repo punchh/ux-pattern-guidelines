@@ -49,7 +49,7 @@ Do not wait for the user to provide these URLs — follow the links automaticall
 | **Decide whether to use autosave** | Evaluate the form's control types and context against the fetched guidelines. |
 | **Implement autosave** | Apply the fetched rules for control types, mixing restrictions, and feedback requirements. |
 | **Review an existing autosave pattern** | Evaluate control types, mixing, and feedback against the fetched guidelines. Flag violations and suggest corrections. |
-| **Explain the guidelines** | Summarise the autosave rules in plain language with examples. |
+| **Explain the guidelines** | Summarize the autosave rules in plain language with examples. |
 
 ---
 
@@ -81,4 +81,4 @@ Do not wait for the user to provide these URLs — follow the links automaticall
 - Always cite the source: _"Per the [Autosaving Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/form-experience/autosaving)…"_
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
-- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labelled as such.
+- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labeled as such.

@@ -59,7 +59,7 @@ If the situation is ambiguous, ask one clarifying question before proceeding.
 | **Decide whether to use onboarding** | Evaluate the use case against the fetched usage criteria. Push back if the criteria aren't met. |
 | **Implement an onboarding element** | Build the onboarding experience using the correct type and behavior per the fetched guidelines. |
 | **Review an existing onboarding element** | Evaluate type choice, dismissal behavior, and re-fire logic against the fetched guidelines. Flag violations and suggest corrections. |
-| **Explain the guidelines** | Summarise the usage rules and types in plain language with examples. |
+| **Explain the guidelines** | Summarize the usage rules and types in plain language with examples. |
 
 ---
 
@@ -91,4 +91,4 @@ If the situation is ambiguous, ask one clarifying question before proceeding.
 - Always cite the source: _"Per the [Onboarding Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/reading-information/onboarding)…"_
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
-- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labelled as such.
+- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labeled as such.

@@ -55,7 +55,7 @@ a reporting context (typically pre-populated), as the default state differs.
 |---|---|
 | **Implement a time zone field** | Apply the fetched organization, search, sort, naming, and populated display rules. |
 | **Review a time zone field** | Evaluate organization, search behavior, naming, and display against the fetched guidelines. Flag violations and suggest corrections. |
-| **Explain the guidelines** | Summarise the time zone field rules in plain language. |
+| **Explain the guidelines** | Summarize the time zone field rules in plain language. |
 
 ---
 
@@ -79,4 +79,4 @@ a reporting context (typically pre-populated), as the default state differs.
 - Always cite the source: _"Per the [Time Zone Field Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/entering-information/time-zone-fields)…"_
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
-- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labelled as such.
+- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labeled as such.

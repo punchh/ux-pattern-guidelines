@@ -58,7 +58,7 @@ the wrong component — flag this before proceeding.
 | **Choose between toggle and checkbox** | Evaluate the use case against the fetched decision criteria — particularly the presence or absence of a Save/Apply button. |
 | **Implement a toggle switch** | Apply the fetched state labeling and instant-apply rules. |
 | **Review a toggle switch** | Evaluate usage appropriateness and labeling against the fetched guidelines. Flag violations and suggest corrections. |
-| **Explain the guidelines** | Summarise the toggle switch rules in plain language. |
+| **Explain the guidelines** | Summarize the toggle switch rules in plain language. |
 
 ---
 
@@ -83,4 +83,4 @@ the wrong component — flag this before proceeding.
 - Always cite the source: _"Per the [Toggle Switch Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/entering-information/toggle-switches)…"_
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
-- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labelled as such.
+- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labeled as such.

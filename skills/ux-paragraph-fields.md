@@ -49,7 +49,7 @@ Do not wait for the user to provide these URLs — follow the links automaticall
 | **Implement a paragraph field** | Apply the fetched hint text, character counter, resize, variant sizing, and auto-grow rules. |
 | **Review a paragraph field** | Evaluate anatomy and behavior against the fetched guidelines. Flag violations and suggest corrections. |
 | **Advise on sizing** | Apply the fetched guidance on matching variant size to anticipated input length. |
-| **Explain the guidelines** | Summarise the paragraph field rules in plain language. |
+| **Explain the guidelines** | Summarize the paragraph field rules in plain language. |
 
 ---
 
@@ -73,4 +73,4 @@ Do not wait for the user to provide these URLs — follow the links automaticall
 - Always cite the source: _"Per the [Paragraph Field Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/entering-information/paragraph-fields)…"_
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
-- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labelled as such.
+- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labeled as such.

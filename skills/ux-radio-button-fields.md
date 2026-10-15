@@ -58,7 +58,7 @@ before proceeding.
 | **Choose the right field type** | Evaluate the use case against the fetched decision criteria. |
 | **Implement a radio button field** | Apply the fetched layout and interaction rules. Determine if the standard or complex variant is warranted. |
 | **Review a radio button field** | Evaluate usage appropriateness, layout, and interaction against the fetched guidelines. Flag violations and suggest corrections. |
-| **Explain the guidelines** | Summarise the radio button rules in plain language. |
+| **Explain the guidelines** | Summarize the radio button rules in plain language. |
 
 ---
 
@@ -83,4 +83,4 @@ before proceeding.
 - Always cite the source: _"Per the [Radio Button Field Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/entering-information/radio-button-fields)…"_
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
-- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labelled as such.
+- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labeled as such.

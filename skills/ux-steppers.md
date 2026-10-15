@@ -48,7 +48,7 @@ Do not wait for the user to provide these URLs — follow the links automaticall
 |---|---|
 | **Implement a stepper** | Apply the fetched anatomy, status states, error handling, and placement rules. |
 | **Review an existing stepper** | Evaluate anatomy, states, and placement against the fetched guidelines. Flag violations and suggest corrections. |
-| **Explain the guidelines** | Summarise the stepper rules in plain language with examples. |
+| **Explain the guidelines** | Summarize the stepper rules in plain language with examples. |
 
 ---
 
@@ -72,4 +72,4 @@ Do not wait for the user to provide these URLs — follow the links automaticall
 - Always cite the source: _"Per the [Steppers Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/form-experience/steppers)…"_
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
-- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labelled as such.
+- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labeled as such.

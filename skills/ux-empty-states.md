@@ -58,7 +58,7 @@ If the situation is ambiguous, ask the user one clarifying question before proce
 | **Generate copy** | Write main text and supporting text following the fetched guidelines for the identified state type. |
 | **Generate a prototype** | Build the empty state UI with correct copy structure. Use the project's existing design system components for visual elements. |
 | **Review existing copy or design** | Evaluate against the fetched guidelines. Flag misclassified states or copy that doesn't match the intended tone. |
-| **Explain the guidelines** | Summarise the state types and copy principles in plain language with examples. |
+| **Explain the guidelines** | Summarize the state types and copy principles in plain language with examples. |
 
 ---
 
@@ -93,4 +93,4 @@ If the situation is ambiguous, ask the user one clarifying question before proce
 - Always cite the source: _"Per the [Empty State Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/lists-and-tables/empty-states)…"_
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
-- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labelled as such.
+- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labeled as such.

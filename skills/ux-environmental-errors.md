@@ -57,7 +57,7 @@ question before proceeding.
 | **Write error copy** | Write main and descriptive text following the fetched guidelines for the classified error type. |
 | **Generate an error state prototype** | Build the error state UI using the correct layout pattern per the fetched guidelines for the classified error type. |
 | **Review existing error states** | Evaluate copy and layout against the fetched guidelines. Flag misclassifications and violations. |
-| **Explain the guidelines** | Summarise the error types and patterns in plain language with examples. |
+| **Explain the guidelines** | Summarize the error types and patterns in plain language with examples. |
 
 ---
 
@@ -89,4 +89,4 @@ question before proceeding.
 - Always cite the source: _"Per the [Environmental Errors Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/reading-information/environmental-errors)…"_
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
-- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labelled as such.
+- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labeled as such.

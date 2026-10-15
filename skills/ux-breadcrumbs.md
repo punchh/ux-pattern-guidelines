@@ -64,7 +64,7 @@ proceeding.
 | **Implement a breadcrumb** | Apply the fetched anatomy, divider, placement, and styling rules. |
 | **Review an existing breadcrumb** | Evaluate against the fetched guidelines. Flag violations and suggest corrections. |
 | **Advise on edge cases** | Apply the fetched rules for Edit-mode pages, create flows, and truncation scenarios. |
-| **Explain the guidelines** | Summarise the breadcrumb rules in plain language. |
+| **Explain the guidelines** | Summarize the breadcrumb rules in plain language. |
 
 ---
 
@@ -94,4 +94,4 @@ proceeding.
 - Always cite the source: _"Per the [Breadcrumbs Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/layout-and-navigation/breadcrumbs)…"_
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
-- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labelled as such.
+- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labeled as such.

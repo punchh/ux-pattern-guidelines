@@ -49,7 +49,7 @@ Do not wait for the user to provide these URLs — follow the links automaticall
 | **Generate a prototype** | Build the bulk actions experience following the fetched guidelines for anatomy, visibility, selection logic, and mixed-eligibility behavior. |
 | **Review an existing design** | Evaluate against the fetched guidelines. Flag violations with specific rule references and suggest corrections. |
 | **Advise on behavior** | Apply the fetched rules to answer questions about when the bar appears/disappears, how mixed eligibility is handled, pagination scope, and filter scope. |
-| **Explain the guidelines** | Summarise the relevant principles in plain language with examples. |
+| **Explain the guidelines** | Summarize the relevant principles in plain language with examples. |
 
 ---
 
@@ -83,4 +83,4 @@ Do not wait for the user to provide these URLs — follow the links automaticall
 - Always cite the source: _"Per the [Bulk Actions Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/lists-and-tables/bulk-actions)…"_
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
-- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labelled as such.
+- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labeled as such.

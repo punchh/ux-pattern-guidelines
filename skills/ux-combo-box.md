@@ -57,7 +57,7 @@ recommend the correct alternative field type before proceeding.
 | **Choose the right field type** | Evaluate option count and selection type against the fetched thresholds. |
 | **Implement a combo box** | Apply the fetched behavior rules for the identified variant (single or multi-select). |
 | **Review a combo box** | Evaluate usage appropriateness and behavior against the fetched guidelines. Flag violations and suggest corrections. |
-| **Explain the guidelines** | Summarise the combo box rules in plain language. |
+| **Explain the guidelines** | Summarize the combo box rules in plain language. |
 
 ---
 
@@ -81,4 +81,4 @@ recommend the correct alternative field type before proceeding.
 - Always cite the source: _"Per the [Combo Box Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/entering-information/combo-box-fields)…"_
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
-- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labelled as such.
+- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labeled as such.

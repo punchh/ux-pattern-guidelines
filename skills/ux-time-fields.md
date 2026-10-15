@@ -55,7 +55,7 @@ Determine whether the time field is typed-only (free-form) or interval-based
 |---|---|
 | **Implement a time field** | Apply the fetched segment navigation, valid character acceptance, and type-ahead rules for the identified variant. |
 | **Review a time field** | Evaluate behavior against the fetched guidelines. Flag violations and suggest corrections. |
-| **Explain the guidelines** | Summarise the time field rules in plain language. |
+| **Explain the guidelines** | Summarize the time field rules in plain language. |
 
 ---
 
@@ -78,4 +78,4 @@ Determine whether the time field is typed-only (free-form) or interval-based
 - Always cite the source: _"Per the [Time Field Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/entering-information/time-fields)…"_
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
-- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labelled as such.
+- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labeled as such.

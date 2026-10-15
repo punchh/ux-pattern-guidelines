@@ -49,7 +49,7 @@ Do not wait for the user to provide these URLs — follow the links automaticall
 | **Decide whether to disable a button** | Evaluate the use case against the fetched guidelines. In most cases the answer will be: don't. |
 | **Implement the correct alternative** | Apply the fetched guidance on what to do instead of disabling. |
 | **Review existing button states** | Evaluate against the fetched guidelines. Flag inappropriate disabled states and suggest corrections. |
-| **Explain the guidelines** | Summarise the rules and rationale in plain language. |
+| **Explain the guidelines** | Summarize the rules and rationale in plain language. |
 
 ---
 
@@ -76,4 +76,4 @@ Do not wait for the user to provide these URLs — follow the links automaticall
 - Always cite the source: _"Per the [Disabled Buttons Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/form-experience/disabled-buttons)…"_
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
-- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labelled as such.
+- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labeled as such.

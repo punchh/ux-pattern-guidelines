@@ -49,7 +49,7 @@ Do not wait for the user to provide these URLs — follow the links automaticall
 | **Implement a form field** | Apply the fetched anatomy elements in the correct hierarchy and placement. Include only the elements warranted by the field's context. |
 | **Review a form field layout** | Evaluate which anatomy elements are present, their placement, and their usage against the fetched guidelines. Flag violations and suggest corrections. |
 | **Advise on a specific element** | Answer questions about description text, tooltip, input region width, hint text, syntax icons, or error placement from the fetched guidelines. |
-| **Explain the guidelines** | Summarise the anatomy elements and their hierarchy in plain language. |
+| **Explain the guidelines** | Summarize the anatomy elements and their hierarchy in plain language. |
 
 ---
 
@@ -78,4 +78,4 @@ Do not wait for the user to provide these URLs — follow the links automaticall
 - Always cite the source: _"Per the [Form Field Anatomy Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/entering-information/anatomy-of-form-field)…"_
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
-- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labelled as such.
+- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labeled as such.

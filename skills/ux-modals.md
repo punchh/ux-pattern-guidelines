@@ -49,7 +49,7 @@ Do not wait for the user to provide these URLs — follow the links automaticall
 | **Generate a modal prototype** | Build the modal following the fetched guidelines for anatomy, centering, size, and layout variation. Use the project's existing design system components; apply these guidelines for behavior and structure. |
 | **Review an existing modal design** | Evaluate against the fetched guidelines. Flag violations with specific rule references and suggest corrections. |
 | **Advise on stacked modals** | Apply the fetched rules for modal-on-modal usage. |
-| **Explain the guidelines** | Summarise the relevant principles in plain language with examples. |
+| **Explain the guidelines** | Summarize the relevant principles in plain language with examples. |
 
 ---
 
@@ -83,4 +83,4 @@ Do not wait for the user to provide these URLs — follow the links automaticall
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
 - Button alignment inside modals is governed by a separate skill. If button placement questions arise, refer to the `ux-button-alignment` skill or the button alignment guidelines at `https://partech.gitbook.io/ux-pattern-guidelines/layout-and-navigation/button-alignment`.
-- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labelled as such.
+- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labeled as such.

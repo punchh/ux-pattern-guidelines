@@ -1,6 +1,6 @@
 ---
 name: ux-grammar-voice-tone
-description: "Apply grammar, voice, and tone guidelines when writing or reviewing UI copy. Use this skill whenever anyone is writing, generating, or reviewing microcopy, labels, button text, tooltips, field descriptions, toast messages, banners, confirmation prompts, error messages, empty states, or any other words that appear in a UI. Trigger for requests like: 'does this copy sound right?', 'write a button label for this action', 'review my tooltip copy', 'is this the right tone?', 'check my capitalization', or any task involving the words, phrasing, punctuation, or tone of UI text. Apply pattern guidelines for copy only; defer to the project's existing design system for component and visual decisions."
+description: "Apply grammar, voice, and tone guidelines when writing or reviewing UI copy. Use whenever anyone writes, generates, or reviews microcopy: buttons, links, titles, headings, nav and feature names, field descriptions, tooltips, toasts, banners, prompts, errors, empty states, or how numbers, currency, and units are displayed. Trigger for requests like 'does this copy sound right?', 'Save or Done?', 'check my capitalization', 'should this have a period?', or any task involving the wording, word choice, capitalization, punctuation, abbreviations, or tone of UI text. Also trigger unprompted when a design is presented for review or prototyping and its copy likely breaks capitalization, punctuation, word choice, or number formatting conventions, such as Title Case buttons, 'Please', exclamation points, or generic labels like OK or Submit. Apply pattern guidelines for copy only; defer to the project's design system for visual decisions."
 ---
 
 # UX Grammar, Voice, and Tone Skill
@@ -41,14 +41,26 @@ Do not wait for the user to provide these URLs — follow the links automaticall
 
 ---
 
+## Step 2.5 — Proactively check copy (required when a design is presented)
+
+When a design is being reviewed or prototyped and the user has not asked about copy, check the design's visible text against the fetched guidelines. If any copy violates them:
+
+- Flag only the specific violations found, each with a suggested revision tied to the fetched guideline it breaks.
+- Keep copy feedback brief and secondary to what the user actually asked for. Do not rewrite all of the design's copy unprompted.
+- If the user explicitly wants to keep their current wording despite the recommendation, note the concern, respect their decision, and proceed.
+- If the copy is clean, continue to Step 3 without comment.
+
+---
+
 ## Step 3 — Identify the task
 
 | Task | What to do |
 |---|---|
 | **Write new copy** | Generate copy that follows the fetched guidelines. Note which key rules shaped the output. |
 | **Review / critique copy** | Evaluate the provided copy against the fetched guidelines. Call out specific violations and explain why. |
-| **Check grammar and formatting** | Run a focused pass on punctuation, capitalisation, tense, abbreviations, and any other grammar rules in the fetched guidelines. |
-| **Explain voice and tone** | Summarise the relevant principles from the fetched guidelines in plain language, with examples where helpful. |
+| **Check grammar and formatting** | Run a focused pass on punctuation, capitalization, tense, abbreviations, and any other grammar rules in the fetched guidelines. |
+| **Choose between similar terms** | Apply the fetched word choice rules (for example Save versus Done, Delete versus Remove) and recommend one term with the reason. |
+| **Explain voice and tone** | Summarize the relevant principles from the fetched guidelines in plain language, with examples where helpful. |
 
 ---
 
@@ -68,6 +80,10 @@ Do not wait for the user to provide these URLs — follow the links automaticall
 - Call out each issue with the rule it violates.
 - Provide a corrected version.
 
+### For word choice questions
+- Recommend one term, not a list of options.
+- State the distinction from the fetched guidelines in one sentence (for example: Delete erases from the database; Remove only takes it out of the current view).
+
 ### For explaining principles
 - Keep it concise and practical.
 - Use real UI examples from the fetched guidelines or invent minimal ones to illustrate.
@@ -79,4 +95,4 @@ Do not wait for the user to provide these URLs — follow the links automaticall
 - Always cite the source: _"Per the [Grammar, Voice, and Tone Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/reading-information/grammar-voice-and-tone)…"_
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
-- If the request falls outside the scope of the guidelines, say so and offer your best general UX writing judgment as a fallback — clearly labelled as such.
+- If the request falls outside the scope of the guidelines, say so and offer your best general UX writing judgment as a fallback — clearly labeled as such.

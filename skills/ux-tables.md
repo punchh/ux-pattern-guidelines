@@ -67,7 +67,7 @@ apply. If so, flag violations or missing elements before proceeding.
 | **Review an existing table page** | Evaluate structure, hierarchy, and interaction against the fetched guidelines. Flag violations and suggest corrections. |
 | **Advise on element placement** | Answer questions about where page actions, tabs, filters, sort selectors, item counts, and table-level actions belong. |
 | **Advise on row interaction** | Apply the fetched rules for drill-down behavior, bulk actions, and prohibited patterns. |
-| **Explain the guidelines** | Summarise the table pattern in plain language. |
+| **Explain the guidelines** | Summarize the table pattern in plain language. |
 
 ---
 
@@ -101,4 +101,4 @@ apply. If so, flag violations or missing elements before proceeding.
 - Always cite the source: _"Per the [Tables Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/lists-and-tables/tables)…"_
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
-- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labelled as such.
+- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labeled as such.

@@ -58,7 +58,7 @@ the context is ambiguous, ask one clarifying question before proceeding.
 | **Implement a destructive action** | Apply the fetched labeling, placement, and confirmation rules. |
 | **Write confirmation dialog copy** | Write copy per the fetched dialog anatomy guidelines. |
 | **Review an existing destructive action pattern** | Evaluate labeling, confirmation presence, and copy against the fetched guidelines. Flag violations and suggest corrections. |
-| **Explain the guidelines** | Summarise the rules in plain language with examples. |
+| **Explain the guidelines** | Summarize the rules in plain language with examples. |
 
 ---
 
@@ -85,4 +85,4 @@ the context is ambiguous, ask one clarifying question before proceeding.
 - Always cite the source: _"Per the [Destructive Actions Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/form-experience/destructive-actions-and-deleting)…"_
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
-- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labelled as such.
+- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labeled as such.

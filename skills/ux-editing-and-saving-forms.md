@@ -65,7 +65,7 @@ When a design is being reviewed or prototyped and the user has not mentioned edi
 | **Advise on entry-path routing** | Help the user determine which of the three entry paths applies to their case, and apply the appropriate rules from the fetched guideline. |
 | **Review an existing edit form** | Evaluate entry path, Save Bar visibility, save behavior, and failure behavior against the fetched guidelines. Flag violations and suggest corrections. |
 | **Advise on Save Bar behavior on mobile** | Apply the fetched rules for how the Save Bar should behave when the virtual keyboard is present. |
-| **Explain the guidelines** | Summarise the editing and saving pattern in plain language. |
+| **Explain the guidelines** | Summarize the editing and saving pattern in plain language. |
 
 ---
 
@@ -101,4 +101,4 @@ When a design is being reviewed or prototyped and the user has not mentioned edi
 - Always cite the source: _"Per the [Editing and Saving Forms Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/form-experience/editing-and-saving-forms)…"_
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
-- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labelled as such.
+- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labeled as such.

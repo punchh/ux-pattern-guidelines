@@ -63,7 +63,7 @@ recommend cards. If so, surface the opportunity to the user before proceeding.
 | **Implement a card** | Apply the fetched anatomy, context menu, CTA, and interactivity rules. |
 | **Decide card vs list row** | Apply the fetched guidance on when cards beat traditional table rows. |
 | **Review an existing card** | Evaluate anatomy, interactivity, and content against the fetched guidelines. Flag violations and suggest corrections. |
-| **Explain the guidelines** | Summarise the card rules in plain language. |
+| **Explain the guidelines** | Summarize the card rules in plain language. |
 
 ---
 
@@ -92,4 +92,4 @@ recommend cards. If so, surface the opportunity to the user before proceeding.
 - Always cite the source: _"Per the [Card Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/reading-information/cards)…"_
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
-- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labelled as such.
+- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labeled as such.

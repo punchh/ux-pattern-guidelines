@@ -48,7 +48,7 @@ Do not wait for the user to provide these URLs — follow the links automaticall
 |---|---|
 | **Implement placeholder variables** | Apply the fetched link button, search menu, syntax display, and post-selection rules. |
 | **Review a placeholder variable feature** | Evaluate against the fetched guidelines. Flag naming violations (e.g. use of "tag") and behavioral issues. |
-| **Explain the guidelines** | Summarise the placeholder variable rules in plain language. |
+| **Explain the guidelines** | Summarize the placeholder variable rules in plain language. |
 
 ---
 
@@ -73,4 +73,4 @@ Do not wait for the user to provide these URLs — follow the links automaticall
 - Always cite the source: _"Per the [Placeholder Variables Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/entering-information/placeholder-variables)…"_
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
-- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labelled as such.
+- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labeled as such.

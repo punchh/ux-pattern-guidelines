@@ -57,7 +57,7 @@ field type is more appropriate, recommend it before proceeding.
 | **Choose the right field type** | Evaluate the use case against the fetched decision criteria and recommend button group or an alternative. |
 | **Implement a button group** | Apply the fetched layout and behavior rules. |
 | **Review a button group field** | Evaluate usage appropriateness and layout against the fetched guidelines. Flag violations and suggest corrections. |
-| **Explain the guidelines** | Summarise the button group rules in plain language. |
+| **Explain the guidelines** | Summarize the button group rules in plain language. |
 
 ---
 
@@ -81,4 +81,4 @@ field type is more appropriate, recommend it before proceeding.
 - Always cite the source: _"Per the [Button Groups Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/entering-information/button-groups)…"_
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
-- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labelled as such.
+- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labeled as such.

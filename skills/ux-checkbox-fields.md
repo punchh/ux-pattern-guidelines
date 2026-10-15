@@ -58,7 +58,7 @@ before proceeding.
 | **Choose the right field type** | Evaluate the use case against the fetched decision criteria. |
 | **Implement a checkbox field** | Apply the fetched layout, interaction, and indeterminate state rules. |
 | **Review a checkbox field** | Evaluate usage appropriateness, layout, and interaction against the fetched guidelines. Flag violations and suggest corrections. |
-| **Explain the guidelines** | Summarise the checkbox rules in plain language. |
+| **Explain the guidelines** | Summarize the checkbox rules in plain language. |
 
 ---
 
@@ -82,4 +82,4 @@ before proceeding.
 - Always cite the source: _"Per the [Checkbox Field Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/entering-information/checkbox-fields)…"_
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
-- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labelled as such.
+- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labeled as such.

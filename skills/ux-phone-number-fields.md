@@ -55,7 +55,7 @@ as the implementation rules differ significantly.
 |---|---|
 | **Implement a phone number field** | Apply the fetched rules for the identified variant (single-country or multi-country). |
 | **Review a phone number field** | Evaluate behavior and anatomy against the fetched guidelines. Flag violations and suggest corrections. |
-| **Explain the guidelines** | Summarise the phone field rules in plain language. |
+| **Explain the guidelines** | Summarize the phone field rules in plain language. |
 
 ---
 
@@ -79,4 +79,4 @@ as the implementation rules differ significantly.
 - Always cite the source: _"Per the [Phone Number Field Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/entering-information/phone-number-fields)…"_
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
-- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labelled as such.
+- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labeled as such.

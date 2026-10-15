@@ -59,7 +59,7 @@ If the context is ambiguous, ask one clarifying question before proceeding.
 | **Decide relative vs. absolute** | Evaluate the use case against the fetched guidance on when each is appropriate. |
 | **Generate a prototype** | Implement timestamp display using the correct format. Use the project's existing design system components for visual elements. |
 | **Review existing timestamps** | Evaluate against the fetched guidelines. Flag format violations and suggest corrections. |
-| **Explain the guidelines** | Summarise the relevant formatting rules in plain language with examples. |
+| **Explain the guidelines** | Summarize the relevant formatting rules in plain language with examples. |
 
 ---
 
@@ -96,4 +96,4 @@ If the context is ambiguous, ask one clarifying question before proceeding.
 - Always cite the source: _"Per the [Datestamp Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/reading-information/datestamps-and-timestamps)…"_
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
-- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labelled as such.
+- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labeled as such.

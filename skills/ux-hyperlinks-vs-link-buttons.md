@@ -49,7 +49,7 @@ Do not wait for the user to provide these URLs — follow the links automaticall
 | **Decide which to use** | Evaluate the use case against the fetched guidelines to determine whether a hyperlink or link button is appropriate. |
 | **Implement a hyperlink or link button** | Apply the fetched usage and icon placement rules. |
 | **Review existing controls** | Evaluate against the fetched guidelines. Flag misuse and suggest corrections. |
-| **Explain the guidelines** | Summarise the distinction and rules in plain language with examples. |
+| **Explain the guidelines** | Summarize the distinction and rules in plain language with examples. |
 
 ---
 
@@ -81,4 +81,4 @@ Do not wait for the user to provide these URLs — follow the links automaticall
 - Always cite the source: _"Per the [Hyperlinks vs Link Buttons Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/layout-and-navigation/hyperlinks-versus-link-buttons)…"_
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
-- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labelled as such.
+- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labeled as such.

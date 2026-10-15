@@ -57,7 +57,7 @@ as the behavior rules differ. If a date range, the criss-crossed date logic also
 | **Implement a date range** | Apply the fetched range highlighting and criss-crossed date resolution rules. |
 | **Write error validation messages** | Apply the fetched error message copy for too-early, too-late, and invalid date scenarios. |
 | **Review a date field** | Evaluate behavior and validation against the fetched guidelines. Flag violations and suggest corrections. |
-| **Explain the guidelines** | Summarise the date field rules in plain language. |
+| **Explain the guidelines** | Summarize the date field rules in plain language. |
 
 ---
 
@@ -84,4 +84,4 @@ as the behavior rules differ. If a date range, the criss-crossed date logic also
 - Always cite the source: _"Per the [Date Field Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/entering-information/date-fields)…"_
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
-- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labelled as such.
+- If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labeled as such.
