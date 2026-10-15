@@ -10,7 +10,7 @@ description: >-
 [**Get the AI skill**](action-menus.md#ai-skill-file) for this UX pattern guideline in a markdown (.MD) file.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (228).png" alt=""><figcaption><p>A data table landing page with table-level actions highlighted in a action menu</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (228).png" alt=""><figcaption><p>A data table landing page with table-level actions highlighted in an action menu</p></figcaption></figure>
 
 ### Usage
 
@@ -28,7 +28,7 @@ Common representations are either an ellipsis or 3-dot "kebab" icon by itself, o
 
 Users of our products have been shown in studies to be able to locate action menu actions using the icon alone.
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>A action menu on a table containing actions</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>An action menu on a table containing actions</p></figcaption></figure>
 
 ### Labeling
 
@@ -56,6 +56,6 @@ Like regular buttons that persist on a page, action menu items should:
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-action-menus.md" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.

@@ -16,7 +16,7 @@ Use a bulleted list when items are related but their order or priority doesn’t
 
 ✅ **Capitalize the first letter** in the first word of each bullet (sentence case)
 
-✅ **Okay to substitute a bullet with a contextually relevant emoji or icon** only when relevant and using the same emoji or icon on each bullet
+✅ **Okay to substitute a bullet with an emoji or icon** only when relevant and using the same emoji or icon on each bullet
 
 🚫 **No commas** at the end of any bullet
 
@@ -24,7 +24,7 @@ Use a bulleted list when items are related but their order or priority doesn’t
 
 ```
 If you delete your account:
-• You will no longer be able to log in with your account
+• You will no longer be able to sign in with your account
 • You will no longer be able to see receipts of all of your past orders
 • You will no longer be able to order delicious meals from our restaurants
 ```
@@ -57,6 +57,6 @@ How it works
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/blob/main/lists-and-tables/text-lists.md" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
