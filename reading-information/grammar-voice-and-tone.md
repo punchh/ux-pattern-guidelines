@@ -126,13 +126,15 @@ Be casual and informal (lending itself to brevity) - this is an overarching prin
 
 2 syllables or fewer increases accessibility for varying reading levels. It’s also a boon to users who speak English as a second language.
 
+Moreover, if choosing between 2 synonyms, _most_ of the time use the one with fewer syllables unless other guidelines on this page say otherwise (for example, the [word choice](grammar-voice-and-tone.md#word-choice) section may call for using the more-syllable word over the fewer-syllable one in certain situations).
+
 {% columns %}
 {% column %}
 ✅ Turn on
 
 ✅ Make
 
-✅ Must
+✅ Need
 {% endcolumn %}
 
 {% column %}
@@ -266,7 +268,7 @@ Use "Remove" if the content is eliminated from the current view or selection but
 
 ### View versus see
 
-Use "View” when for navigating to a specific page or section for more details, or to reveal more information. Use it on buttons, calls to action, and link text.
+Use "View” for navigating to a specific page or section for more details, or to reveal more information. Use it on buttons, calls to action, and link text.
 
 {% columns %}
 {% column %}
@@ -290,7 +292,7 @@ Use "see" in very general conversational descriptions - usually not the first wo
 
 {% columns %}
 {% column %}
-✅ Manage others see profile information
+✅ Manage how others see profile information
 {% endcolumn %}
 
 {% column %}
@@ -318,41 +320,47 @@ Don't use "must".
 
 ### Download versus export
 
-Use “Download” for actions that transfer data from our product into a format that can be used by other applications.
+Use “Download” for actions that INSTANTLY fire the users folder/location picker for a downloadable file without any options or configuration for the file in between.
 
-Don't use "export" - it leans too technical whereas "download" is more conversational.
+Use "Export..." (usually with that [ellipsis](grammar-voice-and-tone.md#ellipses) too) when there's configuration options for generating the file between the click and the actual download. Once on the export configuration form, the button to actual fire getting the configured file is still "Export" in this context.
+
+So recapping: "Download" is for a straightforward no frills file. "Export..." (with an ellipsis) signifies more robust customization lies ahead, and "Export" is the button label on the page where those export configuration options were made.
 
 {% columns %}
 {% column %}
 ✅ Download as PNG
 
-✅ Download report
+✅ Export report... (where clicking offers options for formatting the report, or what data to include)
 {% endcolumn %}
 
 {% column %}
 🚫 Export as PNG
 
-🚫 Export report
+🚫 Download report... (where clicking offers options for formatting the report, or what data to include)
 {% endcolumn %}
 {% endcolumns %}
 
 ### Upload versus import
 
-Use “Upload” for actions that allow a user select a file on their device and upload it to our products.
+Use “Upload” for actions that allow a user to select a file on their device and upload it to our products.
 
-Use "Import" for bringing in a set of data from another product or database.
+Use "Import" for bringing in a set of data from another product or database, or when parsing a file from the user for use as structured data in the product.
 
 {% columns %}
 {% column %}
 ✅ Upload image
 
 ✅ Import menu items from Point-of-Sale
+
+✅ Import CSV guest list (to build a segment)
 {% endcolumn %}
 
 {% column %}
 🚫 Import image
 
 🚫 Upload menu items from Point-of-Sale
+
+🚫 Upload CSV guest list (to build a segment)
 {% endcolumn %}
 {% endcolumns %}
 
@@ -530,6 +538,8 @@ Job titles should be capitalized when they are not used in a sentence and whethe
 ✅ Terms of Use
 
 ✅ Senior Brand Manager
+
+✅  Mr. Hanson is a senior brand manager.
 {% endcolumn %}
 
 {% column %}
@@ -537,7 +547,7 @@ Job titles should be capitalized when they are not used in a sentence and whethe
 
 🚫 Terms of use
 
-🚫 Mr. Hanson is a senior brand manager.
+🚫 Mr. Hanson is a Senior Brand Manager.
 {% endcolumn %}
 {% endcolumns %}
 
@@ -627,9 +637,7 @@ The full word “example” is least ambiguous. Abbreviations like “ex.” are
 
 **Use contractions when they'd likely be spoken in an informal American English conversation. Don't use contractions if it would sound awkward or unconventional for American English.**
 
-Also avoid negative contractions like "can't" or "don't" as some users find them harder to read, or are high risk of being misread as the positive.
-
-"Should've", "could've", "would've", and "they've" are regarded as harder to read.
+"Should've", "could've", "would've", and "they've" are regarded as harder to read, so avoid those.
 
 {% columns %}
 {% column %}
@@ -651,7 +659,7 @@ Also avoid negative contractions like "can't" or "don't" as some users find them
 
 ✅ When enabled, users won’t be able to use one phone number with multiple accounts
 
-✅ This cannot be undone (negative contraction)
+✅ This can't be undone&#x20;
 {% endcolumn %}
 
 {% column %}
@@ -665,7 +673,7 @@ Also avoid negative contractions like "can't" or "don't" as some users find them
 
 🚫 Your selected time was not available
 
-🚫 This can’t be undone (negative contraction)
+🚫 This cannot be undone
 {% endcolumn %}
 {% endcolumns %}
 
@@ -673,7 +681,7 @@ Also avoid negative contractions like "can't" or "don't" as some users find them
 
 **Only use an ampersand (&) when it's part of a proper noun like a brand name. Otherwise, spell out "and" instead.**
 
-In extreme outlier cases, user an ampersand instead of "and" in tight spaces for column headers after you've exhausted other solutions.
+In extreme outlier cases, use an ampersand instead of "and" in tight spaces for column headers after you've exhausted other solutions.
 
 {% columns %}
 {% column %}
@@ -695,7 +703,7 @@ In extreme outlier cases, user an ampersand instead of "and" in tight spaces for
 
 Descriptions should be written short enough that you don’t need a period at the end. Most descriptions should be a short instructive phrase that’s not a complete sentence anyway. Even if a description is technically a complete sentence grammatically speaking, it should be written short enough that it doesn’t look “wrong” to omit the period. <br>
 
-In other words. if you find yourself writing a field description so long that it has you wondering whether it should have a period (or a line break, or how wrapping should work, etc.), that’s probably a good sign your description is too long.
+In other words, if you find yourself writing a field description so long that it has you wondering whether it should have a period (or a line break, or how wrapping should work, etc.), that’s probably a good sign your description is too long.
 
 {% columns %}
 {% column %}
@@ -849,7 +857,7 @@ Just the label, no punctuation.
 {% endcolumn %}
 
 {% column %}
-🚫 Launch campiagn.
+🚫 Launch campaign.
 {% endcolumn %}
 {% endcolumns %}
 
@@ -860,8 +868,6 @@ Just the label, no punctuation.
 **Never use exclamatory punctuation**
 
 That would be a little too casual.  
-
-Recapping this and the previous related guidelines: Most of the time don’t ever use punctuation; okay to use a ‘?’ on confirmation prompts, and seldom use of a period on an Information Banner complete sentence is okay.
 
 {% columns %}
 {% column %}
@@ -973,7 +979,7 @@ Use colons to introduce a bulleted list in body text. Don't use it in a heading/
 
 (in a subtitle)
 
-Group stores to easily manage configurations, settings or entities
+Group stores to easily manage configurations, settings, or entities
 
 ✅&#x20;
 
@@ -1052,7 +1058,7 @@ The ellipses (...) can be used in several places throughout the interface.
 Use ellipses for:
 
 * Text [overflow](truncation-and-overflow.md) (if the space for the text is limited)
-* If there is more options behind actions in the menu
+* If there are more options behind actions in the menu
 
 Don’t use ellipses for:
 
@@ -1060,9 +1066,9 @@ Don’t use ellipses for:
 
 {% columns %}
 {% column %}
-✅ More filters... (where there configuration options that follow before actually executing the action)
+✅ More filters... (where there are configuration options that follow before actually executing the action)
 
-✅ Export... (where there configuration options that follow before actually executing the action)
+✅ Export... (where there are configuration options that follow before actually executing the action)
 
 ✅ Search by name (where there are no options or configuration that follow)
 
@@ -1070,9 +1076,9 @@ Don’t use ellipses for:
 {% endcolumn %}
 
 {% column %}
-🚫 More filters (where there configuration options that follow before actually executing the action)
+🚫 More filters (where there are configuration options that follow before actually executing the action)
 
-🚫 Export (where there configuration options that follow before actually executing the action)
+🚫 Export (where there are configuration options that follow before actually executing the action)
 
 🚫 Search by name... (where there are no options or configuration that follow)
 {% endcolumn %}
@@ -1140,7 +1146,7 @@ Sometimes our long-running legacy products use a hypenless compound word that ar
 {% column %}
 ✅ Dine-in
 
-✅ e-commerice
+✅ e-commerce
 
 ✅ Checkin (only because our product naming has established a counter convention)
 {% endcolumn %}
@@ -1290,7 +1296,7 @@ Capitalization will vary by unit. Follow universal unit standards (English) - th
 
 ✅  1 cm
 
-✅  11.875 × 3.375 × 13.625 cm
+✅  1.875 × 3.375 × 13.625 cm
 {% endcolumn %}
 
 {% column %}
