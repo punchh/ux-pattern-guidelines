@@ -244,6 +244,10 @@ Pick and choose which skills are relevant for your scope. Download as many or as
 
 {% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-multi-step-forms.md" %}
 
+#### Passkeys <a href="#required-versus-optional-fields" id="required-versus-optional-fields"></a>
+
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-passkeys.md" %}
+
 #### Required versus optional fields <a href="#required-versus-optional-fields" id="required-versus-optional-fields"></a>
 
 {% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-required-optional-fields.md" %}
