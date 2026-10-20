@@ -57,6 +57,6 @@ How it works
 **Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
 {% endhint %}
 
-{% embed url="https://github.com/punchh/ux-pattern-guidelines/blob/main/lists-and-tables/text-lists.md" %}
+{% embed url="https://raw.githubusercontent.com/punchh/ux-pattern-guidelines/main/skills/ux-text-lists.md" %}
 
 [Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.

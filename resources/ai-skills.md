@@ -90,6 +90,10 @@ Pick and choose which skills are relevant for your scope. Download as many or as
 
 ### Layout and navigation <a href="#layout-and-navigation" id="layout-and-navigation"></a>
 
+#### Action menus <a href="#breadcrumbs" id="breadcrumbs"></a>
+
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-action-menus.md" %}
+
 #### Breadcrumbs <a href="#breadcrumbs" id="breadcrumbs"></a>
 
 {% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-breadcrumbs.md" %}
@@ -139,6 +143,10 @@ Pick and choose which skills are relevant for your scope. Download as many or as
 #### Tables <a href="#tables" id="tables"></a>
 
 {% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/ux-tables.md" %}
+
+#### Text lists <a href="#reading-information" id="reading-information"></a>
+
+{% embed url="https://raw.githubusercontent.com/punchh/ux-pattern-guidelines/main/skills/ux-text-lists.md" %}
 
 ### Reading information <a href="#reading-information" id="reading-information"></a>
 
