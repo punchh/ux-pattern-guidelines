@@ -1,8 +1,16 @@
 ---
-description: How
+description: How to handle passkey authentication method during sign-in
 ---
 
-# Untitled
+# Passkeys
+
+{% hint style="success" icon="sparkles" %}
+[**Get the AI skill**](passkeys.md#ai-skill-file) for this UX pattern guideline in a markdown (.MD) file.
+{% endhint %}
+
+This guideline covers the passkey option on a sign-in form: the passkey button, accompanying text, its icon, its states, and where it sits relative to the traditional password form.
+
+Any "sheet" that fires to facilitate the actual passkey authentication is handled by the user's browser and OS, so is out of scope for this guideline.
 
 {% hint style="info" %}
 For password fields, the "Sign in" button and sign-in wording, follow [Password fields and sign in](../entering-information/password-fields-and-sign-in.md) guidelines and [Grammar, voice, and tone for word choice](../reading-information/grammar-voice-and-tone.md#sign-in-versus-log-in).
@@ -13,6 +21,8 @@ For password fields, the "Sign in" button and sign-in wording, follow [Password 
 The sequence of elements in a passkey-supported sign-in form depends on how the product prioritizes passkeys versus traditional password sign in.
 
 #### Password-first
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure></div>
 
 In a product that prioritizes traditional password sign in, lead with the traditional authentication fields (username or equivalent and password field).
 
@@ -36,4 +46,32 @@ Suggested text:
 
 > Use your fingerprint, face, or screen lock
 
+#### Passkey-forward
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure></div>
+
 In a product that wants to drive passkey adoption, lead with the passkey button.
+
+Use the same button style, leading icon, and text label for the passkey button as described above.
+
+Follow it with a brief text phrase explaining how passkey sign in works ,using the same suggested text as above.
+
+Next in the hierarchy, include a subdued separator with the word "or" to emphasize what comes next is a completely separate means for signing in, completely unrelated to passkey button just above.
+
+Follow the separator with the authentication field cluster and traditional Sign in button, still using the same primary button style as described above.
+
+
+
+***
+
+### AI skill file
+
+{% hint style="info" %}
+**Don't want to use a markdown file at all?** No problem, just copy URL for this page and paste into your agent. Tell it to use the linked guideline (runtime lookup).
+
+**Don't hard code** the contents of this page to your own skill files though - this page gets updated often.
+{% endhint %}
+
+
+
+[Learn how to use](../resources/ai-skills.md) with your favorite AI tool, and get other UX pattern skills.
