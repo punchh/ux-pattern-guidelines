@@ -5,6 +5,12 @@ description: A changelog of updates to UX pattern guidelines
 # What's new
 
 {% updates format="full" %}
+{% update date="2026-10-20" tags="form-experience" %}
+## New UX pattern: Passkeys
+
+With some references to [Password fields and sign in](entering-information/password-fields-and-sign-in.md), too.
+{% endupdate %}
+
 {% update date="2026-10-15" tags="reading-information" %}
 ## New sections in Grammar, voice, and tone
 

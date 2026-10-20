@@ -44,7 +44,7 @@ Using the right-most icon from the [form field anatomy](anatomy-of-form-field.md
 
 ***
 
-### During sign-up or account creation
+### During account creation
 
 {% hint style="info" %}
 **Strive for very simple password requirements** - for example, at least 8 characters long - and nothing else.
