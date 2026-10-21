@@ -430,6 +430,8 @@ Use "Join \[program name or perk]" or "Get \[perks or benefits]" for loyalty or 
 ✅ Join ACME Loyalty
 
 ✅ Start saving
+
+✅ Start earning
 {% endcolumn %}
 
 {% column %}

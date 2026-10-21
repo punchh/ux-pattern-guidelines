@@ -1,16 +1,29 @@
 ---
-description: How to surface and lay out the passkey authentication method during sign-in
+description: >-
+  How to surface and lay out the passkey authentication method during sign-in,
+  as well as third party social sign-in methods
 ---
 
-# Passkeys
+# Passkeys and third-party sign-in
 
 {% hint style="success" icon="sparkles" %}
 [**Get the AI skill**](passkeys.md#ai-skill-file) for this UX pattern guideline in a markdown (.MD) file.
 {% endhint %}
 
-This guideline covers the passkey option on a sign-in form: the passkey button, accompanying text, its icon, and where it sits relative to the traditional password form.
+This guideline covers the passkey and third party options on a sign-in form: the passkey button, accompanying text, its icon, and where it sits relative to the traditional password form.
 
-Any "sheet" that fires to facilitate the actual passkey authentication is handled by the user's browser and OS, so is out of scope for this guideline.
+* Any "sheet" that fires to facilitate the actual passkey authentication is handled by the user's browser and OS, so is out of scope for this guideline.
+* Any third-party sign-in experience is exclusively handled by the third party provider, so out of scope for this guideline.
+
+On the note of those buttons for signing in with other providers:
+
+✅ **The proper term to refer to these is "third-party sign-in"**
+
+🚫 It's **not** "social sign-in" (many providers are not social network businesses at all)
+
+🚫 It's **not** "federated sign-in" for designers and product managers (though engineering may use that term)
+
+🚫 It's **not** "identity providers" for designers and product managers (engineering may use that term)
 
 {% hint style="info" %}
 For password fields, the "Sign in" button and sign-in wording, follow [Password fields and sign in](../entering-information/password-fields-and-sign-in.md) guidelines and [Grammar, voice, and tone for word choice](../reading-information/grammar-voice-and-tone.md#sign-in-versus-log-in).
@@ -18,13 +31,13 @@ For password fields, the "Sign in" button and sign-in wording, follow [Password 
 
 ### Hierarchy
 
-The sequence of elements in a passkey-supported sign-in form depends on how the product prioritizes passkeys versus traditional password sign-in.
+The sequence of elements in a passkey-supported sign-in form depends on how the product prioritizes passkeys and third parties versus traditional password sign-in.
 
 #### Password-first
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure></div>
 
-In a product that prioritizes traditional password sign in, lead with the traditional authentication fields (username or equivalent and password field).
+In a product that prioritizes traditional password sign-in, lead with the traditional authentication fields (username or equivalent and password field).
 
 Following the authentication fields, lead with a primary-styled Sign in button.
 
@@ -42,23 +55,34 @@ Style this button as an outline, secondary style, or anything distinct from the 
 
 Follow the passkey Sign in button with a brief text phrase explaining how passkey sign-in works (as of this writing, passkeys are still rather novel for users).
 
-Suggested text:
-
 > Use your fingerprint, face, or screen lock
 
-#### Passkey-forward
+Close out the sign-in methods with the third-party buttons, each represented by their brand icon and the text "Continue with \[third-party name]". We use that phrasing to emphasize the user will continue with the third-party.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure></div>
+If including an account creation CTA, add another separator, and then the language:
 
-In a product that wants to drive passkey adoption, lead with the passkey button.
+> Don't have an account? Join \[program]
+
+* "Join \[program]" is a hyperlink that leads the user to the create account form.
+* Be conscious of how this string is phrased - refer to [Word choice for account creation in Grammar, voice, and tone guidelines](../reading-information/grammar-voice-and-tone.md#sign-up-versus-create-account-or-join).
+
+#### Passkey-and-third-party-forward
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure></div>
+
+In a product that wants to drive passkey adoption or third-party handling, lead with those elements.
 
 Use the same button style, leading icon, and text label for the passkey button as described above.
 
 Follow it with a brief text phrase explaining how passkey sign in works, using the same suggested text as above.
 
-Next in the hierarchy, include a subdued separator with the word "or" to emphasize what comes next is a completely separate means for signing in, completely unrelated to the passkey button just above.
+Then, include any supported third-party services using the same branded icons and text labels as mentioned above.
+
+Next in the hierarchy, include a subdued separator with the word "or" to emphasize what comes next is a completely separate means for signing in, completely unrelated to the other options just above.
 
 Follow the separator with the authentication field cluster and traditional Sign in button, still using the same primary button style as described above.
+
+If including an account creation CTA, add another separator, and then the language described above.
 
 
 
