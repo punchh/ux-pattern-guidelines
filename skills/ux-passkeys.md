@@ -1,13 +1,13 @@
 ---
 name: ux-passkeys
-description: "Apply passkey pattern guidelines when building or reviewing sign-in forms. Use this skill whenever anyone is adding, designing, or reviewing a passkey option on a sign-in form, including whether the form leads with password or passkey sign-in, the order of elements, the passkey button's label, icon, and style, the separator between sign-in methods, and the text explaining how passkeys work. Trigger for requests like 'add passkey sign-in to this form', 'should passkeys go first?', 'how should the passkey button look?', or 'review the passkey option on my sign-in page'. Also trigger unprompted when a design is presented for review or prototyping and its sign-in form includes a passkey option. The browser or OS sheet that performs passkey authentication is out of scope. Apply pattern guidelines for hierarchy, layout, and copy only; defer to the project's design system for visual decisions."
+description: "Apply passkey and third-party sign-in pattern guidelines when building or reviewing sign-in forms. Use this skill whenever anyone is adding, designing, or reviewing passkey or third-party sign-in options (often called social sign-in, or 'Sign in with Google' buttons), including which methods the form leads with, element order, button labels, icons, and styles, separators between methods, passkey explanatory text, terminology, and the account creation link. Trigger for requests like 'add passkey sign-in to this form', 'where do the Google and Apple buttons go?', 'should passkeys go first?', or 'review the sign-in options on my page'. Also trigger unprompted when a design is presented for review or prototyping and its sign-in form includes a passkey option or third-party sign-in buttons. The browser or OS passkey sheet and each third party's own sign-in flow are out of scope. Apply pattern guidelines for hierarchy, layout, and copy only; defer to the project's design system for visual decisions."
 ---
 
-# UX Passkeys Skill
+# UX Passkeys and Third-Party Sign-in Skill
 
-This skill ensures the passkey option on sign-in forms follows the team's established
-guidelines for hierarchy, element order, button labeling and styling, separators, and
-explanatory text. Guidelines are maintained externally and **must be fetched at
+This skill ensures passkey and third-party sign-in options on sign-in forms follow the
+team's established guidelines for hierarchy, element order, button labeling and styling,
+separators, explanatory text, terminology, and the account creation link. Guidelines are maintained externally and **must be fetched at
 runtime** so you always work from the latest version.
 
 ---
@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/punchh/ux-pattern-guidelines/main/form-experie
 ```
 
 > **If the page is unreachable:** Stop and tell the user:
-> _"I can't reach the passkey guidelines right now. Could you paste the relevant
+> _"I can't reach the passkey and third-party sign-in guidelines right now. Could you paste the relevant
 > section here so I can apply them?"_
 > Do not proceed by guessing at the rules.
 
@@ -42,17 +42,17 @@ Do not wait for the user to provide these URLs — follow the links automaticall
 
 ---
 
-## Step 2.5 — Proactively check passkey sign-in layouts (required when a design is presented)
+## Step 2.5 — Proactively check sign-in method layouts (required when a design is presented)
 
-When a design is being reviewed or prototyped, the user has not asked about passkeys, and the design's sign-in form includes a passkey option:
+When a design is being reviewed or prototyped, the user has not asked about sign-in methods, and the design's sign-in form includes a passkey option or third-party sign-in buttons:
 
 1. Determine which hierarchy approach from the fetched guidelines the design follows. Infer it from the layout if it's clear; otherwise ask the user which their product prioritizes.
-2. Check the element order, button styling, separator, explanatory text, and labels against the fetched rules for that approach.
+2. Check the element order, button styling, separators, explanatory text, labels, and account creation link against the fetched rules for that approach.
 3. Flag only the specific issues found, each tied to the fetched rule it breaks, and keep the feedback secondary to what the user actually asked for.
 4. If the user explicitly wants to keep their current layout despite the recommendation, note the concern, respect their decision, and proceed.
-5. If the passkey option is clean, continue to Step 3 without comment.
+5. If the sign-in options are clean, continue to Step 3 without comment.
 
-If the sign-in form has no passkey option, do not suggest adding one. Whether to offer passkeys is a product decision, not a pattern violation.
+If the sign-in form has no passkey option or third-party buttons, do not suggest adding them. Which sign-in methods to offer is a product decision, not a pattern violation.
 
 ---
 
@@ -61,10 +61,10 @@ If the sign-in form has no passkey option, do not suggest adding one. Whether to
 | Task | What to do |
 |---|---|
 | **Choose a hierarchy approach** | Explain the approaches described in the fetched guidelines and what each optimizes for. Leave the decision to the user, since the fetched guidelines tie it to product priorities. |
-| **Design or prototype a passkey sign-in form** | Establish the hierarchy approach first, then apply the fetched rules for element order, styling, separators, labels, and explanatory text. |
-| **Write passkey copy** | Apply the fetched guidance for the passkey button label and explanatory text. |
-| **Review an existing passkey sign-in form** | Evaluate against the fetched guidelines for the approach in use. Flag violations and suggest corrections. |
-| **Explain the guidelines** | Summarize the passkey rules in plain language. |
+| **Design or prototype a sign-in form with passkey or third-party options** | Establish the hierarchy approach first, then apply the fetched rules for element order, styling, separators, labels, explanatory text, and the account creation link. |
+| **Write sign-in method copy** | Apply the fetched guidance for passkey and third-party button labels, passkey explanatory text, and the account creation link. |
+| **Review an existing sign-in form** | Evaluate against the fetched guidelines for the approach in use. Flag violations and suggest corrections. |
+| **Explain the guidelines** | Summarize the passkey and third-party sign-in rules in plain language. |
 
 ---
 
@@ -73,8 +73,10 @@ If the sign-in form has no passkey option, do not suggest adding one. Whether to
 ### For design and prototyping
 - If the hierarchy approach isn't known, ask before building. Do not default to one.
 - Apply the fetched rules for that approach in full, including the related password field and sign-in wording guidelines surfaced by the cross-reference step.
-- Do not design the browser or OS authentication sheet. The fetched guidelines treat it as out of scope.
+- Do not design the browser or OS passkey sheet, or any third party's own sign-in flow. The fetched guidelines treat both as out of scope.
+- Use the terminology the fetched guidelines specify for these sign-in methods, even when the user uses a different term.
 - If the project's design system has button, separator, or icon components, defer to those — do not override them to match the guidelines.
+- For third-party button and icon styling, apply the fetched guidance, which depends on whether the product is web-based or an installed app. If the product context isn't clear, ask.
 - If a conflict exists between a design system component and the guidelines, flag it explicitly to the user so they can make an informed decision.
 - Add a short annotation naming which approach and key rules were applied.
 
@@ -86,7 +88,7 @@ If the sign-in form has no passkey option, do not suggest adding one. Whether to
 
 ## Guidelines
 
-- Always cite the source: _"Per the [Passkey Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/form-experience/passkeys)…"_
+- Always cite the source: _"Per the [Passkeys and Third-Party Sign-in Guidelines](https://partech.gitbook.io/ux-pattern-guidelines/form-experience/passkeys)…"_
 - Never invent rules that aren't in the fetched guidelines.
 - If a guideline is ambiguous, flag it to the user rather than assuming.
 - If the request falls outside the scope of the guidelines, say so and offer your best general UX judgment as a fallback — clearly labeled as such.
