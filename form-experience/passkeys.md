@@ -1,7 +1,7 @@
 ---
 description: >-
   How to surface and lay out the passkey authentication method during sign-in,
-  as well as third party social sign-in methods
+  as well as third-party social sign-in methods
 ---
 
 # Passkeys and third-party sign-in
@@ -10,10 +10,10 @@ description: >-
 [**Get the AI skill**](passkeys.md#ai-skill-file) for this UX pattern guideline in a markdown (.MD) file.
 {% endhint %}
 
-This guideline covers the passkey and third party options on a sign-in form: the passkey button, accompanying text, its icon, and where it sits relative to the traditional password form.
+This guideline covers the passkey and third-party options on a sign-in form: the passkey button, accompanying text, its icon, and where it sits relative to the traditional password form.
 
 * Any "sheet" that fires to facilitate the actual passkey authentication is handled by the user's browser and OS, so is out of scope for this guideline.
-* Any third-party sign-in experience is exclusively handled by the third party provider, so out of scope for this guideline.
+* Any third-party sign-in experience is exclusively handled by the third-party provider, so out of scope for this guideline.
 
 On the note of those buttons for signing in with other providers:
 
@@ -43,7 +43,7 @@ Following the authentication fields, lead with a primary-styled Sign in button.
 
 It's important that this button immediately follow the authentication fields to emphasize its intrinsic relationship to those fields only.
 
-Omit any leading icon on the button (we'll save an icon for the passkey button to better distinguish it from regular sign in).
+Omit any leading icon on the button (we'll save an icon for the passkey button to better distinguish it from regular sign-in).
 
 Omit any clarifying text on the button: the label "Sign in" alone suffices. No need to include "with a password" as that would be redundant of the password field just above.
 
@@ -53,11 +53,19 @@ Finally, surface a button labeled "Sign in with a passkey", including a leading 
 
 Style this button as an outline, secondary style, or anything distinct from the regular Sign in button's primary style.
 
-Follow the passkey Sign in button with a brief text phrase explaining how passkey sign-in works (as of this writing, passkeys are still rather novel for users).
+Follow the passkey button with a brief text phrase explaining how passkey sign-in works (as of this writing, passkeys are still rather novel for users).
 
 > Use your fingerprint, face, or screen lock
 
 Close out the sign-in methods with the third-party buttons, each represented by their brand icon and the text "Continue with \[third-party name]". We use that phrasing to emphasize the user will continue with the third-party.
+
+{% hint style="danger" %}
+With website-based products, style third-party buttons and icons according to your design system.
+
+For app-based products (installs as an app on a mobile device), you may face trouble getting the app or updates approved in app stores if third-party sign-in buttons don't follow their visual style properties to the letter.
+
+Know your product's context and do your third-party research ([Apple](https://developer.apple.com/design/human-interface-guidelines/sign-in-with-apple), [Google](https://developers.google.com/identity/branding-guidelines) for example)
+{% endhint %}
 
 If including an account creation CTA, add another separator, and then the language:
 
@@ -74,7 +82,7 @@ In a product that wants to drive passkey adoption or third-party handling, lead 
 
 Use the same button style, leading icon, and text label for the passkey button as described above.
 
-Follow it with a brief text phrase explaining how passkey sign in works, using the same suggested text as above.
+Follow it with a brief text phrase explaining how passkey sign-in works, using the same suggested text as above.
 
 Then, include any supported third-party services using the same branded icons and text labels as mentioned above.
 

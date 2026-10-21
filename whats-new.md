@@ -6,7 +6,7 @@ description: A changelog of updates to UX pattern guidelines
 
 {% updates format="full" %}
 {% update date="2026-10-20" tags="form-experience" %}
-## New UX pattern: Passkeys
+## New UX pattern: Passkeys and third-party sign-in
 
 With some references to [Password fields and sign in](entering-information/password-fields-and-sign-in.md), too.
 {% endupdate %}
