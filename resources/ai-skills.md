@@ -42,7 +42,7 @@ Download `CLAUDE.md` and place it in the same folder as your skill files. Claude
 
 When you download new skills, just drop them in the same folder. `CLAUDE.md` picks them up automatically.
 
-{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/claude.md" %}
+{% embed url="https://github.com/punchh/ux-pattern-guidelines/raw/main/skills/CLAUDE.md" %}
 
 </details>
 
