@@ -1,0 +1,13 @@
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+pr_review:
+  enabled: true
+
+agents:
+  - id: meridian-review
+    agent-name: brink/meridian
+    version: latest
+    model: claude-opus-5-5
+    subagent_model: claude-opus-5-5
